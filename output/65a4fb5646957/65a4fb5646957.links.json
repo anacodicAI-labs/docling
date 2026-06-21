@@ -1,0 +1,6232 @@
+[
+  {
+    "page_no": 1,
+    "kind": 2,
+    "uri": "mailto:riccardo.giovanelli@unive.it",
+    "file": null,
+    "page": null,
+    "xref": 3603,
+    "bbox": {
+      "l": 442.2,
+      "t": 530.46,
+      "r": 538.75,
+      "b": 540.01
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 2,
+    "uri": "https://doi.org/10.5334/jcaa.130",
+    "file": null,
+    "page": null,
+    "xref": 3604,
+    "bbox": {
+      "l": 509.03,
+      "t": 721.65,
+      "r": 547.72,
+      "b": 731.2
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 2,
+    "uri": "https://doi.org/10.5334/jcaa.130",
+    "file": null,
+    "page": null,
+    "xref": 3605,
+    "bbox": {
+      "l": 442.2,
+      "t": 732.65,
+      "r": 519.16,
+      "b": 742.2
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 2,
+    "uri": "https://orcid.org/0000-0001-8884-8492",
+    "file": null,
+    "page": null,
+    "xref": 3606,
+    "bbox": {
+      "l": 176.24,
+      "t": 276.95,
+      "r": 185.46,
+      "b": 289.46
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 2,
+    "uri": "https://orcid.org/0000-0002-4508-1540",
+    "file": null,
+    "page": null,
+    "xref": 3607,
+    "bbox": {
+      "l": 164.94,
+      "t": 294.61,
+      "r": 174.16,
+      "b": 307.12
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 16,
+    "xref": 3608,
+    "bbox": {
+      "l": 59.53,
+      "t": 313.7,
+      "r": 291.2,
+      "b": 323.25
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 228,
+    "bbox": {
+      "l": 222.87,
+      "t": 176.74,
+      "r": 243.53,
+      "b": 187.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 227,
+    "bbox": {
+      "l": 251.11,
+      "t": 215.74,
+      "r": 271.77,
+      "b": 226.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 226,
+    "bbox": {
+      "l": 222.58,
+      "t": 241.74,
+      "r": 281.16,
+      "b": 252.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 225,
+    "bbox": {
+      "l": 121.18,
+      "t": 267.74,
+      "r": 179.47,
+      "b": 278.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 224,
+    "bbox": {
+      "l": 121.34,
+      "t": 293.74,
+      "r": 178.31,
+      "b": 304.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 223,
+    "bbox": {
+      "l": 182.41,
+      "t": 293.74,
+      "r": 281.16,
+      "b": 304.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 222,
+    "bbox": {
+      "l": 246.02,
+      "t": 319.74,
+      "r": 286.3,
+      "b": 330.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 221,
+    "bbox": {
+      "l": 59.53,
+      "t": 332.74,
+      "r": 80.19,
+      "b": 343.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 220,
+    "bbox": {
+      "l": 87.3,
+      "t": 332.74,
+      "r": 133.51,
+      "b": 343.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 219,
+    "bbox": {
+      "l": 140.61,
+      "t": 332.74,
+      "r": 214.07,
+      "b": 343.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 21,
+    "xref": 218,
+    "bbox": {
+      "l": 257.65,
+      "t": 384.74,
+      "r": 283.33,
+      "b": 395.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 217,
+    "bbox": {
+      "l": 111.49,
+      "t": 540.74,
+      "r": 172.8,
+      "b": 551.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 216,
+    "bbox": {
+      "l": 178.2,
+      "t": 540.74,
+      "r": 240.71,
+      "b": 551.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 215,
+    "bbox": {
+      "l": 136.84,
+      "t": 553.74,
+      "r": 180.77,
+      "b": 564.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 214,
+    "bbox": {
+      "l": 234.01,
+      "t": 644.74,
+      "r": 286.3,
+      "b": 655.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 213,
+    "bbox": {
+      "l": 59.53,
+      "t": 657.74,
+      "r": 183.23,
+      "b": 668.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 212,
+    "bbox": {
+      "l": 189.19,
+      "t": 657.74,
+      "r": 258.88,
+      "b": 668.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 211,
+    "bbox": {
+      "l": 256.26,
+      "t": 683.74,
+      "r": 286.3,
+      "b": 694.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 210,
+    "bbox": {
+      "l": 59.53,
+      "t": 696.74,
+      "r": 121.96,
+      "b": 707.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 209,
+    "bbox": {
+      "l": 126.61,
+      "t": 696.74,
+      "r": 232.81,
+      "b": 707.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 208,
+    "bbox": {
+      "l": 237.47,
+      "t": 696.74,
+      "r": 286.3,
+      "b": 707.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 207,
+    "bbox": {
+      "l": 59.53,
+      "t": 709.74,
+      "r": 75.03,
+      "b": 720.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 206,
+    "bbox": {
+      "l": 242.98,
+      "t": 774.74,
+      "r": 286.3,
+      "b": 785.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 205,
+    "bbox": {
+      "l": 59.53,
+      "t": 787.74,
+      "r": 124.76,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 204,
+    "bbox": {
+      "l": 129.5,
+      "t": 787.74,
+      "r": 223.1,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 203,
+    "bbox": {
+      "l": 227.85,
+      "t": 787.74,
+      "r": 284.14,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 202,
+    "bbox": {
+      "l": 308.98,
+      "t": 72.74,
+      "r": 369.42,
+      "b": 83.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 16,
+    "xref": 201,
+    "bbox": {
+      "l": 495.86,
+      "t": 85.74,
+      "r": 535.75,
+      "b": 96.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 16,
+    "xref": 200,
+    "bbox": {
+      "l": 308.98,
+      "t": 98.74,
+      "r": 359.45,
+      "b": 109.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 199,
+    "bbox": {
+      "l": 365.62,
+      "t": 98.74,
+      "r": 433.91,
+      "b": 109.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 198,
+    "bbox": {
+      "l": 507.71,
+      "t": 111.74,
+      "r": 535.75,
+      "b": 122.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 197,
+    "bbox": {
+      "l": 308.98,
+      "t": 124.74,
+      "r": 334.71,
+      "b": 135.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 196,
+    "bbox": {
+      "l": 461.21,
+      "t": 124.74,
+      "r": 535.75,
+      "b": 135.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 195,
+    "bbox": {
+      "l": 308.98,
+      "t": 137.74,
+      "r": 329.64,
+      "b": 148.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 194,
+    "bbox": {
+      "l": 339.81,
+      "t": 137.74,
+      "r": 415.23,
+      "b": 148.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 193,
+    "bbox": {
+      "l": 510.54,
+      "t": 189.74,
+      "r": 535.75,
+      "b": 200.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 192,
+    "bbox": {
+      "l": 308.98,
+      "t": 202.74,
+      "r": 354.25,
+      "b": 213.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 191,
+    "bbox": {
+      "l": 512.92,
+      "t": 202.74,
+      "r": 535.75,
+      "b": 213.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 190,
+    "bbox": {
+      "l": 308.98,
+      "t": 215.74,
+      "r": 324.47,
+      "b": 226.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 16,
+    "xref": 189,
+    "bbox": {
+      "l": 357.37,
+      "t": 293.74,
+      "r": 445.8,
+      "b": 304.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 188,
+    "bbox": {
+      "l": 369.36,
+      "t": 306.74,
+      "r": 446.64,
+      "b": 317.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 187,
+    "bbox": {
+      "l": 453.4,
+      "t": 306.74,
+      "r": 499.96,
+      "b": 317.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 186,
+    "bbox": {
+      "l": 497.26,
+      "t": 358.74,
+      "r": 535.75,
+      "b": 369.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 185,
+    "bbox": {
+      "l": 308.98,
+      "t": 371.74,
+      "r": 334.71,
+      "b": 382.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 184,
+    "bbox": {
+      "l": 338.88,
+      "t": 371.74,
+      "r": 386.77,
+      "b": 382.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 183,
+    "bbox": {
+      "l": 390.94,
+      "t": 371.74,
+      "r": 434.84,
+      "b": 382.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 182,
+    "bbox": {
+      "l": 439.01,
+      "t": 371.74,
+      "r": 533.59,
+      "b": 382.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 181,
+    "bbox": {
+      "l": 308.98,
+      "t": 384.74,
+      "r": 365.03,
+      "b": 395.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 180,
+    "bbox": {
+      "l": 370.38,
+      "t": 384.74,
+      "r": 465.79,
+      "b": 395.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 179,
+    "bbox": {
+      "l": 471.14,
+      "t": 384.74,
+      "r": 533.59,
+      "b": 395.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 178,
+    "bbox": {
+      "l": 308.98,
+      "t": 397.74,
+      "r": 356.73,
+      "b": 408.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 177,
+    "bbox": {
+      "l": 360.58,
+      "t": 397.74,
+      "r": 455.57,
+      "b": 408.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 176,
+    "bbox": {
+      "l": 459.42,
+      "t": 397.74,
+      "r": 533.59,
+      "b": 408.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 175,
+    "bbox": {
+      "l": 308.98,
+      "t": 410.74,
+      "r": 383.42,
+      "b": 421.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 174,
+    "bbox": {
+      "l": 387.59,
+      "t": 410.74,
+      "r": 457.01,
+      "b": 421.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 173,
+    "bbox": {
+      "l": 461.18,
+      "t": 410.74,
+      "r": 530.61,
+      "b": 421.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 172,
+    "bbox": {
+      "l": 346.62,
+      "t": 449.74,
+      "r": 418.39,
+      "b": 460.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 21,
+    "xref": 171,
+    "bbox": {
+      "l": 460.16,
+      "t": 462.74,
+      "r": 516.35,
+      "b": 473.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 21,
+    "xref": 170,
+    "bbox": {
+      "l": 465.32,
+      "t": 488.74,
+      "r": 526.16,
+      "b": 499.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 169,
+    "bbox": {
+      "l": 388.95,
+      "t": 553.74,
+      "r": 436.77,
+      "b": 564.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 168,
+    "bbox": {
+      "l": 311.95,
+      "t": 787.74,
+      "r": 403.68,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 167,
+    "bbox": {
+      "l": 408.15,
+      "t": 787.74,
+      "r": 467.79,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 332,
+    "bbox": {
+      "l": 154.11,
+      "t": 72.74,
+      "r": 224.46,
+      "b": 83.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 331,
+    "bbox": {
+      "l": 228.63,
+      "t": 72.74,
+      "r": 283.33,
+      "b": 83.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 330,
+    "bbox": {
+      "l": 199.96,
+      "t": 85.74,
+      "r": 286.3,
+      "b": 96.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 329,
+    "bbox": {
+      "l": 59.53,
+      "t": 98.74,
+      "r": 113.96,
+      "b": 109.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 328,
+    "bbox": {
+      "l": 119.71,
+      "t": 98.74,
+      "r": 234.21,
+      "b": 109.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 327,
+    "bbox": {
+      "l": 239.97,
+      "t": 98.74,
+      "r": 286.3,
+      "b": 109.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 326,
+    "bbox": {
+      "l": 59.53,
+      "t": 111.74,
+      "r": 124.22,
+      "b": 122.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 325,
+    "bbox": {
+      "l": 130.03,
+      "t": 111.74,
+      "r": 201.81,
+      "b": 122.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 324,
+    "bbox": {
+      "l": 207.62,
+      "t": 111.74,
+      "r": 286.3,
+      "b": 122.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 323,
+    "bbox": {
+      "l": 59.53,
+      "t": 124.74,
+      "r": 108.99,
+      "b": 135.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 322,
+    "bbox": {
+      "l": 255.36,
+      "t": 163.74,
+      "r": 286.3,
+      "b": 174.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 321,
+    "bbox": {
+      "l": 59.53,
+      "t": 176.74,
+      "r": 143.15,
+      "b": 187.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 320,
+    "bbox": {
+      "l": 250.18,
+      "t": 228.74,
+      "r": 286.3,
+      "b": 239.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 319,
+    "bbox": {
+      "l": 59.53,
+      "t": 241.74,
+      "r": 108.99,
+      "b": 252.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 318,
+    "bbox": {
+      "l": 197.84,
+      "t": 241.74,
+      "r": 218.5,
+      "b": 252.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 317,
+    "bbox": {
+      "l": 62.5,
+      "t": 267.74,
+      "r": 83.16,
+      "b": 278.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 316,
+    "bbox": {
+      "l": 209.26,
+      "t": 293.74,
+      "r": 286.3,
+      "b": 304.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 315,
+    "bbox": {
+      "l": 59.53,
+      "t": 306.74,
+      "r": 80.19,
+      "b": 317.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 314,
+    "bbox": {
+      "l": 251.58,
+      "t": 306.74,
+      "r": 286.3,
+      "b": 317.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 313,
+    "bbox": {
+      "l": 59.53,
+      "t": 319.74,
+      "r": 108.83,
+      "b": 330.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 312,
+    "bbox": {
+      "l": 114.12,
+      "t": 319.74,
+      "r": 179.58,
+      "b": 330.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 311,
+    "bbox": {
+      "l": 184.88,
+      "t": 319.74,
+      "r": 284.14,
+      "b": 330.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 310,
+    "bbox": {
+      "l": 59.53,
+      "t": 332.74,
+      "r": 177.99,
+      "b": 343.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 309,
+    "bbox": {
+      "l": 182.4,
+      "t": 332.74,
+      "r": 272.73,
+      "b": 343.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 308,
+    "bbox": {
+      "l": 260.5,
+      "t": 345.74,
+      "r": 281.16,
+      "b": 356.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 307,
+    "bbox": {
+      "l": 193.68,
+      "t": 384.74,
+      "r": 286.3,
+      "b": 395.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 306,
+    "bbox": {
+      "l": 59.53,
+      "t": 397.74,
+      "r": 93.59,
+      "b": 408.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 305,
+    "bbox": {
+      "l": 100.47,
+      "t": 397.74,
+      "r": 286.3,
+      "b": 408.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 304,
+    "bbox": {
+      "l": 59.53,
+      "t": 410.74,
+      "r": 125.82,
+      "b": 421.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 21,
+    "xref": 303,
+    "bbox": {
+      "l": 133.49,
+      "t": 410.74,
+      "r": 281.16,
+      "b": 421.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 302,
+    "bbox": {
+      "l": 150.6,
+      "t": 462.74,
+      "r": 221.55,
+      "b": 473.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 301,
+    "bbox": {
+      "l": 226.32,
+      "t": 462.74,
+      "r": 284.14,
+      "b": 473.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 300,
+    "bbox": {
+      "l": 59.53,
+      "t": 475.74,
+      "r": 194.14,
+      "b": 486.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 299,
+    "bbox": {
+      "l": 186.33,
+      "t": 553.74,
+      "r": 206.77,
+      "b": 564.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 298,
+    "bbox": {
+      "l": 232.46,
+      "t": 618.74,
+      "r": 252.91,
+      "b": 629.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 297,
+    "bbox": {
+      "l": 148.63,
+      "t": 722.74,
+      "r": 169.07,
+      "b": 733.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 296,
+    "bbox": {
+      "l": 225.28,
+      "t": 748.74,
+      "r": 245.73,
+      "b": 759.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 16,
+    "xref": 295,
+    "bbox": {
+      "l": 188.5,
+      "t": 787.74,
+      "r": 267.74,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 294,
+    "bbox": {
+      "l": 273.93,
+      "t": 787.74,
+      "r": 286.3,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 293,
+    "bbox": {
+      "l": 308.98,
+      "t": 72.74,
+      "r": 364.1,
+      "b": 83.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 292,
+    "bbox": {
+      "l": 370.35,
+      "t": 72.74,
+      "r": 456.01,
+      "b": 83.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 291,
+    "bbox": {
+      "l": 411.38,
+      "t": 124.74,
+      "r": 432.04,
+      "b": 135.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 290,
+    "bbox": {
+      "l": 466.53,
+      "t": 189.74,
+      "r": 533.59,
+      "b": 200.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 289,
+    "bbox": {
+      "l": 308.98,
+      "t": 202.74,
+      "r": 368.92,
+      "b": 213.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 288,
+    "bbox": {
+      "l": 381.48,
+      "t": 293.74,
+      "r": 484.69,
+      "b": 304.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 287,
+    "bbox": {
+      "l": 506.37,
+      "t": 384.74,
+      "r": 535.75,
+      "b": 395.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 286,
+    "bbox": {
+      "l": 308.98,
+      "t": 397.74,
+      "r": 329.64,
+      "b": 408.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 285,
+    "bbox": {
+      "l": 311.95,
+      "t": 410.74,
+      "r": 402.58,
+      "b": 421.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 284,
+    "bbox": {
+      "l": 407.82,
+      "t": 410.74,
+      "r": 480.48,
+      "b": 421.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 283,
+    "bbox": {
+      "l": 485.73,
+      "t": 410.74,
+      "r": 535.75,
+      "b": 421.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 282,
+    "bbox": {
+      "l": 308.98,
+      "t": 423.74,
+      "r": 329.64,
+      "b": 434.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 281,
+    "bbox": {
+      "l": 444.0,
+      "t": 436.74,
+      "r": 530.61,
+      "b": 447.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 280,
+    "bbox": {
+      "l": 509.49,
+      "t": 475.74,
+      "r": 535.75,
+      "b": 486.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 279,
+    "bbox": {
+      "l": 308.98,
+      "t": 488.74,
+      "r": 411.57,
+      "b": 499.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 278,
+    "bbox": {
+      "l": 499.22,
+      "t": 527.74,
+      "r": 535.75,
+      "b": 538.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 277,
+    "bbox": {
+      "l": 308.98,
+      "t": 540.74,
+      "r": 340.83,
+      "b": 551.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 276,
+    "bbox": {
+      "l": 427.11,
+      "t": 592.74,
+      "r": 530.61,
+      "b": 603.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 275,
+    "bbox": {
+      "l": 311.95,
+      "t": 644.74,
+      "r": 382.88,
+      "b": 655.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 21,
+    "xref": 274,
+    "bbox": {
+      "l": 325.64,
+      "t": 657.74,
+      "r": 380.06,
+      "b": 668.49
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 273,
+    "bbox": {
+      "l": 494.71,
+      "t": 787.74,
+      "r": 515.37,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 408,
+    "bbox": {
+      "l": 244.98,
+      "t": 72.74,
+      "r": 286.3,
+      "b": 83.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 407,
+    "bbox": {
+      "l": 59.53,
+      "t": 85.74,
+      "r": 181.0,
+      "b": 96.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 16,
+    "xref": 406,
+    "bbox": {
+      "l": 130.6,
+      "t": 111.74,
+      "r": 151.26,
+      "b": 122.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 405,
+    "bbox": {
+      "l": 90.55,
+      "t": 163.74,
+      "r": 146.9,
+      "b": 174.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 404,
+    "bbox": {
+      "l": 151.7,
+      "t": 163.74,
+      "r": 245.46,
+      "b": 174.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 403,
+    "bbox": {
+      "l": 250.26,
+      "t": 163.74,
+      "r": 286.3,
+      "b": 174.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 402,
+    "bbox": {
+      "l": 59.53,
+      "t": 176.74,
+      "r": 80.19,
+      "b": 187.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 401,
+    "bbox": {
+      "l": 85.54,
+      "t": 176.74,
+      "r": 195.02,
+      "b": 187.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 400,
+    "bbox": {
+      "l": 62.5,
+      "t": 189.74,
+      "r": 150.83,
+      "b": 200.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 399,
+    "bbox": {
+      "l": 247.7,
+      "t": 189.74,
+      "r": 286.3,
+      "b": 200.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 398,
+    "bbox": {
+      "l": 59.53,
+      "t": 202.74,
+      "r": 85.26,
+      "b": 213.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 397,
+    "bbox": {
+      "l": 96.05,
+      "t": 202.74,
+      "r": 168.96,
+      "b": 213.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 396,
+    "bbox": {
+      "l": 131.96,
+      "t": 306.74,
+      "r": 152.63,
+      "b": 317.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 395,
+    "bbox": {
+      "l": 178.09,
+      "t": 345.74,
+      "r": 198.76,
+      "b": 356.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 394,
+    "bbox": {
+      "l": 167.08,
+      "t": 397.74,
+      "r": 226.79,
+      "b": 408.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 21,
+    "xref": 393,
+    "bbox": {
+      "l": 62.5,
+      "t": 436.74,
+      "r": 152.49,
+      "b": 447.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 392,
+    "bbox": {
+      "l": 94.12,
+      "t": 449.74,
+      "r": 187.44,
+      "b": 460.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 391,
+    "bbox": {
+      "l": 123.79,
+      "t": 488.74,
+      "r": 144.46,
+      "b": 499.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 390,
+    "bbox": {
+      "l": 110.21,
+      "t": 553.74,
+      "r": 157.92,
+      "b": 564.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 389,
+    "bbox": {
+      "l": 94.82,
+      "t": 722.74,
+      "r": 115.49,
+      "b": 733.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 388,
+    "bbox": {
+      "l": 260.5,
+      "t": 761.74,
+      "r": 281.16,
+      "b": 772.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 387,
+    "bbox": {
+      "l": 203.98,
+      "t": 787.74,
+      "r": 261.23,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 386,
+    "bbox": {
+      "l": 497.15,
+      "t": 332.74,
+      "r": 535.75,
+      "b": 343.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 385,
+    "bbox": {
+      "l": 308.98,
+      "t": 345.74,
+      "r": 374.02,
+      "b": 356.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 21,
+    "xref": 384,
+    "bbox": {
+      "l": 399.49,
+      "t": 371.74,
+      "r": 488.66,
+      "b": 382.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 383,
+    "bbox": {
+      "l": 391.18,
+      "t": 501.74,
+      "r": 450.86,
+      "b": 512.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 382,
+    "bbox": {
+      "l": 477.15,
+      "t": 514.74,
+      "r": 535.75,
+      "b": 525.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 381,
+    "bbox": {
+      "l": 308.98,
+      "t": 527.74,
+      "r": 329.64,
+      "b": 538.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 4,
+    "xref": 380,
+    "bbox": {
+      "l": 480.46,
+      "t": 722.74,
+      "r": 513.57,
+      "b": 733.49
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 4,
+    "xref": 379,
+    "bbox": {
+      "l": 428.08,
+      "t": 761.74,
+      "r": 460.52,
+      "b": 772.49
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 5,
+    "xref": 416,
+    "bbox": {
+      "l": 261.14,
+      "t": 683.74,
+      "r": 286.3,
+      "b": 694.49
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 5,
+    "xref": 415,
+    "bbox": {
+      "l": 59.53,
+      "t": 696.74,
+      "r": 64.87,
+      "b": 707.49
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 414,
+    "bbox": {
+      "l": 96.46,
+      "t": 324.53,
+      "r": 119.28,
+      "b": 334.08
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 413,
+    "bbox": {
+      "l": 213.17,
+      "t": 624.51,
+      "r": 235.99,
+      "b": 634.06
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 432,
+    "bbox": {
+      "l": 62.5,
+      "t": 657.74,
+      "r": 131.79,
+      "b": 668.49
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 431,
+    "bbox": {
+      "l": 202.92,
+      "t": 657.74,
+      "r": 286.3,
+      "b": 668.49
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 430,
+    "bbox": {
+      "l": 59.53,
+      "t": 670.74,
+      "r": 80.19,
+      "b": 681.49
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 429,
+    "bbox": {
+      "l": 399.88,
+      "t": 566.74,
+      "r": 431.55,
+      "b": 577.49
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 21,
+    "xref": 428,
+    "bbox": {
+      "l": 360.03,
+      "t": 735.74,
+      "r": 438.14,
+      "b": 746.49
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 427,
+    "bbox": {
+      "l": 478.4,
+      "t": 787.74,
+      "r": 535.75,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 426,
+    "bbox": {
+      "l": 406.79,
+      "t": 384.92,
+      "r": 503.54,
+      "b": 394.93
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 425,
+    "bbox": {
+      "l": 136.09,
+      "t": 395.92,
+      "r": 192.71,
+      "b": 405.93
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 438,
+    "bbox": {
+      "l": 59.53,
+      "t": 579.74,
+      "r": 80.19,
+      "b": 590.49
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 437,
+    "bbox": {
+      "l": 195.16,
+      "t": 631.74,
+      "r": 286.3,
+      "b": 642.49
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 436,
+    "bbox": {
+      "l": 59.53,
+      "t": 644.74,
+      "r": 111.44,
+      "b": 655.49
+    }
+  },
+  {
+    "page_no": 8,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 451,
+    "bbox": {
+      "l": 182.82,
+      "t": 85.74,
+      "r": 208.5,
+      "b": 96.49
+    }
+  },
+  {
+    "page_no": 8,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 450,
+    "bbox": {
+      "l": 180.21,
+      "t": 150.74,
+      "r": 233.93,
+      "b": 161.49
+    }
+  },
+  {
+    "page_no": 8,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 449,
+    "bbox": {
+      "l": 70.76,
+      "t": 202.74,
+      "r": 104.19,
+      "b": 213.49
+    }
+  },
+  {
+    "page_no": 8,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 7,
+    "xref": 448,
+    "bbox": {
+      "l": 209.55,
+      "t": 410.74,
+      "r": 241.21,
+      "b": 421.49
+    }
+  },
+  {
+    "page_no": 8,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 7,
+    "xref": 447,
+    "bbox": {
+      "l": 260.65,
+      "t": 410.74,
+      "r": 265.7,
+      "b": 421.49
+    }
+  },
+  {
+    "page_no": 8,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 8,
+    "xref": 446,
+    "bbox": {
+      "l": 70.87,
+      "t": 774.74,
+      "r": 102.22,
+      "b": 785.49
+    }
+  },
+  {
+    "page_no": 9,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 457,
+    "bbox": {
+      "l": 62.36,
+      "t": 449.74,
+      "r": 128.4,
+      "b": 460.49
+    }
+  },
+  {
+    "page_no": 9,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 456,
+    "bbox": {
+      "l": 249.64,
+      "t": 553.74,
+      "r": 286.3,
+      "b": 564.49
+    }
+  },
+  {
+    "page_no": 9,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 455,
+    "bbox": {
+      "l": 59.53,
+      "t": 566.74,
+      "r": 79.65,
+      "b": 577.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 489,
+    "bbox": {
+      "l": 202.47,
+      "t": 358.74,
+      "r": 262.39,
+      "b": 369.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 488,
+    "bbox": {
+      "l": 267.98,
+      "t": 358.74,
+      "r": 286.3,
+      "b": 369.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 487,
+    "bbox": {
+      "l": 59.53,
+      "t": 371.74,
+      "r": 105.71,
+      "b": 382.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 486,
+    "bbox": {
+      "l": 225.54,
+      "t": 371.74,
+      "r": 283.33,
+      "b": 382.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 9,
+    "xref": 485,
+    "bbox": {
+      "l": 68.98,
+      "t": 384.74,
+      "r": 100.49,
+      "b": 395.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 484,
+    "bbox": {
+      "l": 172.35,
+      "t": 436.74,
+      "r": 234.18,
+      "b": 447.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 483,
+    "bbox": {
+      "l": 221.97,
+      "t": 475.74,
+      "r": 281.19,
+      "b": 486.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 482,
+    "bbox": {
+      "l": 147.24,
+      "t": 540.74,
+      "r": 167.76,
+      "b": 551.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 481,
+    "bbox": {
+      "l": 210.78,
+      "t": 579.74,
+      "r": 286.3,
+      "b": 590.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 480,
+    "bbox": {
+      "l": 59.53,
+      "t": 592.74,
+      "r": 80.05,
+      "b": 603.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 479,
+    "bbox": {
+      "l": 86.52,
+      "t": 592.74,
+      "r": 120.24,
+      "b": 603.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 478,
+    "bbox": {
+      "l": 124.58,
+      "t": 592.74,
+      "r": 193.64,
+      "b": 603.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 10,
+    "xref": 477,
+    "bbox": {
+      "l": 188.1,
+      "t": 631.74,
+      "r": 219.4,
+      "b": 642.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 476,
+    "bbox": {
+      "l": 201.53,
+      "t": 709.74,
+      "r": 275.83,
+      "b": 720.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 475,
+    "bbox": {
+      "l": 151.28,
+      "t": 748.74,
+      "r": 246.76,
+      "b": 759.49
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 9,
+    "xref": 474,
+    "bbox": {
+      "l": 351.12,
+      "t": 605.74,
+      "r": 378.78,
+      "b": 616.49
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 11,
+    "xref": 509,
+    "bbox": {
+      "l": 210.37,
+      "t": 566.74,
+      "r": 241.79,
+      "b": 577.49
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 11,
+    "xref": 508,
+    "bbox": {
+      "l": 171.3,
+      "t": 631.74,
+      "r": 213.82,
+      "b": 642.49
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 11,
+    "xref": 507,
+    "bbox": {
+      "l": 221.29,
+      "t": 631.74,
+      "r": 231.68,
+      "b": 642.49
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 11,
+    "xref": 506,
+    "bbox": {
+      "l": 239.16,
+      "t": 631.74,
+      "r": 247.29,
+      "b": 642.49
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 11,
+    "xref": 505,
+    "bbox": {
+      "l": 109.94,
+      "t": 696.74,
+      "r": 148.01,
+      "b": 707.49
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 11,
+    "xref": 504,
+    "bbox": {
+      "l": 169.64,
+      "t": 787.74,
+      "r": 206.99,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 11,
+    "xref": 503,
+    "bbox": {
+      "l": 431.56,
+      "t": 618.74,
+      "r": 470.32,
+      "b": 629.49
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 502,
+    "bbox": {
+      "l": 441.56,
+      "t": 761.74,
+      "r": 530.67,
+      "b": 772.49
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 11,
+    "xref": 501,
+    "bbox": {
+      "l": 427.83,
+      "t": 787.74,
+      "r": 468.1,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 500,
+    "bbox": {
+      "l": 85.09,
+      "t": 516.17,
+      "r": 205.79,
+      "b": 525.72
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 11,
+    "xref": 537,
+    "bbox": {
+      "l": 250.08,
+      "t": 98.74,
+      "r": 286.3,
+      "b": 109.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 536,
+    "bbox": {
+      "l": 62.34,
+      "t": 241.74,
+      "r": 197.56,
+      "b": 252.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 13,
+    "xref": 535,
+    "bbox": {
+      "l": 70.87,
+      "t": 254.74,
+      "r": 102.23,
+      "b": 265.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 13,
+    "xref": 534,
+    "bbox": {
+      "l": 106.56,
+      "t": 254.74,
+      "r": 111.72,
+      "b": 265.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 14,
+    "xref": 533,
+    "bbox": {
+      "l": 116.04,
+      "t": 254.74,
+      "r": 121.21,
+      "b": 265.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 12,
+    "xref": 532,
+    "bbox": {
+      "l": 113.5,
+      "t": 280.74,
+      "r": 143.59,
+      "b": 291.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 12,
+    "xref": 531,
+    "bbox": {
+      "l": 172.1,
+      "t": 319.74,
+      "r": 202.29,
+      "b": 330.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 530,
+    "bbox": {
+      "l": 235.42,
+      "t": 358.74,
+      "r": 281.16,
+      "b": 369.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 529,
+    "bbox": {
+      "l": 478.77,
+      "t": 85.74,
+      "r": 535.75,
+      "b": 96.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 528,
+    "bbox": {
+      "l": 308.98,
+      "t": 98.74,
+      "r": 353.81,
+      "b": 109.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 16,
+    "xref": 527,
+    "bbox": {
+      "l": 407.01,
+      "t": 137.74,
+      "r": 475.77,
+      "b": 148.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 526,
+    "bbox": {
+      "l": 408.74,
+      "t": 254.74,
+      "r": 535.75,
+      "b": 265.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 525,
+    "bbox": {
+      "l": 308.98,
+      "t": 267.74,
+      "r": 329.64,
+      "b": 278.49
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 9,
+    "xref": 524,
+    "bbox": {
+      "l": 500.55,
+      "t": 384.74,
+      "r": 532.78,
+      "b": 395.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 14,
+    "xref": 565,
+    "bbox": {
+      "l": 251.72,
+      "t": 202.74,
+      "r": 281.27,
+      "b": 213.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 564,
+    "bbox": {
+      "l": 129.81,
+      "t": 371.74,
+      "r": 177.77,
+      "b": 382.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 563,
+    "bbox": {
+      "l": 182.7,
+      "t": 371.74,
+      "r": 229.9,
+      "b": 382.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 562,
+    "bbox": {
+      "l": 234.78,
+      "t": 371.74,
+      "r": 281.27,
+      "b": 382.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 561,
+    "bbox": {
+      "l": 246.84,
+      "t": 553.74,
+      "r": 267.51,
+      "b": 564.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 21,
+    "xref": 560,
+    "bbox": {
+      "l": 240.81,
+      "t": 709.74,
+      "r": 286.3,
+      "b": 720.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 21,
+    "xref": 559,
+    "bbox": {
+      "l": 59.53,
+      "t": 722.74,
+      "r": 80.19,
+      "b": 733.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 558,
+    "bbox": {
+      "l": 118.65,
+      "t": 748.74,
+      "r": 139.2,
+      "b": 759.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 557,
+    "bbox": {
+      "l": 511.01,
+      "t": 566.74,
+      "r": 535.75,
+      "b": 577.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 19,
+    "xref": 556,
+    "bbox": {
+      "l": 308.98,
+      "t": 579.74,
+      "r": 340.97,
+      "b": 590.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 555,
+    "bbox": {
+      "l": 345.01,
+      "t": 579.74,
+      "r": 414.34,
+      "b": 590.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": null,
+    "xref": 554,
+    "bbox": {
+      "l": 401.21,
+      "t": 670.74,
+      "r": 421.37,
+      "b": 681.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 553,
+    "bbox": {
+      "l": 382.35,
+      "t": 722.74,
+      "r": 535.75,
+      "b": 733.49
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 552,
+    "bbox": {
+      "l": 308.98,
+      "t": 735.74,
+      "r": 329.14,
+      "b": 746.49
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://doi.org/10.5281/zenodo.8184155",
+    "file": null,
+    "page": null,
+    "xref": 593,
+    "bbox": {
+      "l": 190.51,
+      "t": 774.74,
+      "r": 286.3,
+      "b": 785.49
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://doi.org/10.5281/zenodo.8184155",
+    "file": null,
+    "page": null,
+    "xref": 592,
+    "bbox": {
+      "l": 59.53,
+      "t": 787.74,
+      "r": 127.47,
+      "b": 798.49
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://orcid.org/0000-0001-8884-8492",
+    "file": null,
+    "page": null,
+    "xref": 63,
+    "bbox": {
+      "l": 382.02,
+      "t": 150.1,
+      "r": 390.95,
+      "b": 161.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://orcid.org/0000-0001-8884-8492",
+    "file": null,
+    "page": null,
+    "xref": 64,
+    "bbox": {
+      "l": 392.98,
+      "t": 150.1,
+      "r": 509.28,
+      "b": 161.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://orcid.org/0000-0002-4508-1540",
+    "file": null,
+    "page": null,
+    "xref": 65,
+    "bbox": {
+      "l": 374.08,
+      "t": 189.1,
+      "r": 383.01,
+      "b": 200.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://orcid.org/0000-0002-4508-1540",
+    "file": null,
+    "page": null,
+    "xref": 66,
+    "bbox": {
+      "l": 385.04,
+      "t": 189.1,
+      "r": 501.33,
+      "b": 200.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://doi.org/10.1038/s41598-019-57304-y",
+    "file": null,
+    "page": null,
+    "xref": 591,
+    "bbox": {
+      "l": 343.54,
+      "t": 320.66,
+      "r": 505.2,
+      "b": 330.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://www.theartnewspaper.com/2023/07/17/manhattan-district-attorneys-office-returns-looted-statues-robin-symes",
+    "file": null,
+    "page": null,
+    "xref": 590,
+    "bbox": {
+      "l": 415.02,
+      "t": 372.66,
+      "r": 525.12,
+      "b": 382.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://www.theartnewspaper.com/2023/07/17/manhattan-district-attorneys-office-returns-looted-statues-robin-symes",
+    "file": null,
+    "page": null,
+    "xref": 589,
+    "bbox": {
+      "l": 325.98,
+      "t": 385.66,
+      "r": 520.28,
+      "b": 395.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://www.theartnewspaper.com/2023/07/17/manhattan-district-attorneys-office-returns-looted-statues-robin-symes",
+    "file": null,
+    "page": null,
+    "xref": 588,
+    "bbox": {
+      "l": 325.98,
+      "t": 398.66,
+      "r": 454.04,
+      "b": 408.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://art-crime.blogspot.com/2020/09/some-background-on-erdal-dere-and.html",
+    "file": null,
+    "page": null,
+    "xref": 587,
+    "bbox": {
+      "l": 428.75,
+      "t": 515.66,
+      "r": 522.76,
+      "b": 525.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://art-crime.blogspot.com/2020/09/some-background-on-erdal-dere-and.html",
+    "file": null,
+    "page": null,
+    "xref": 586,
+    "bbox": {
+      "l": 325.98,
+      "t": 528.66,
+      "r": 530.36,
+      "b": 538.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://doi.org/10.1609/icwsm.v3i1.13937",
+    "file": null,
+    "page": null,
+    "xref": 585,
+    "bbox": {
+      "l": 477.93,
+      "t": 619.66,
+      "r": 516.62,
+      "b": 629.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://doi.org/10.1609/icwsm.v3i1.13937",
+    "file": null,
+    "page": null,
+    "xref": 584,
+    "bbox": {
+      "l": 325.98,
+      "t": 632.66,
+      "r": 437.07,
+      "b": 642.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://images.law.com/contrib/content/uploads/documents/292/102693/2021-12-06-Steinhardt-Complete-Agreement-w-Exhibits-Filed.pdf",
+    "file": null,
+    "page": null,
+    "xref": 583,
+    "bbox": {
+      "l": 421.17,
+      "t": 671.66,
+      "r": 535.75,
+      "b": 681.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://images.law.com/contrib/content/uploads/documents/292/102693/2021-12-06-Steinhardt-Complete-Agreement-w-Exhibits-Filed.pdf",
+    "file": null,
+    "page": null,
+    "xref": 582,
+    "bbox": {
+      "l": 325.98,
+      "t": 684.66,
+      "r": 523.21,
+      "b": 694.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://images.law.com/contrib/content/uploads/documents/292/102693/2021-12-06-Steinhardt-Complete-Agreement-w-Exhibits-Filed.pdf",
+    "file": null,
+    "page": null,
+    "xref": 581,
+    "bbox": {
+      "l": 325.98,
+      "t": 697.66,
+      "r": 516.32,
+      "b": 707.22
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 2,
+    "uri": "https://illicitantiquities.net/about",
+    "file": null,
+    "page": null,
+    "xref": 580,
+    "bbox": {
+      "l": 402.82,
+      "t": 775.66,
+      "r": 519.44,
+      "b": 785.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.5040/9781472564931.ch-003",
+    "file": null,
+    "page": null,
+    "xref": 671,
+    "bbox": {
+      "l": 94.09,
+      "t": 125.66,
+      "r": 266.19,
+      "b": 135.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1177/1043986211418885",
+    "file": null,
+    "page": null,
+    "xref": 670,
+    "bbox": {
+      "l": 209.27,
+      "t": 164.66,
+      "r": 247.96,
+      "b": 174.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1177/1043986211418885",
+    "file": null,
+    "page": null,
+    "xref": 669,
+    "bbox": {
+      "l": 76.54,
+      "t": 177.66,
+      "r": 196.46,
+      "b": 187.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1080/00934690.2021.1996979",
+    "file": null,
+    "page": null,
+    "xref": 668,
+    "bbox": {
+      "l": 200.1,
+      "t": 281.66,
+      "r": 285.24,
+      "b": 291.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1080/00934690.2021.1996979",
+    "file": null,
+    "page": null,
+    "xref": 667,
+    "bbox": {
+      "l": 76.54,
+      "t": 294.66,
+      "r": 167.64,
+      "b": 304.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1093/oso/9780198748519.003.0006",
+    "file": null,
+    "page": null,
+    "xref": 666,
+    "bbox": {
+      "l": 153.29,
+      "t": 346.66,
+      "r": 238.44,
+      "b": 356.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1093/oso/9780198748519.003.0006",
+    "file": null,
+    "page": null,
+    "xref": 665,
+    "bbox": {
+      "l": 76.54,
+      "t": 359.66,
+      "r": 187.55,
+      "b": 369.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1002/9781119188230.saseas0402",
+    "file": null,
+    "page": null,
+    "xref": 664,
+    "bbox": {
+      "l": 220.88,
+      "t": 398.66,
+      "r": 259.57,
+      "b": 408.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1002/9781119188230.saseas0402",
+    "file": null,
+    "page": null,
+    "xref": 663,
+    "bbox": {
+      "l": 76.54,
+      "t": 411.66,
+      "r": 227.09,
+      "b": 421.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/9781009170659",
+    "file": null,
+    "page": null,
+    "xref": 662,
+    "bbox": {
+      "l": 241.53,
+      "t": 437.66,
+      "r": 280.22,
+      "b": 447.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/9781009170659",
+    "file": null,
+    "page": null,
+    "xref": 661,
+    "bbox": {
+      "l": 76.54,
+      "t": 450.66,
+      "r": 182.69,
+      "b": 460.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/S0940739113000015",
+    "file": null,
+    "page": null,
+    "xref": 660,
+    "bbox": {
+      "l": 241.85,
+      "t": 502.66,
+      "r": 280.54,
+      "b": 512.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/S0940739113000015",
+    "file": null,
+    "page": null,
+    "xref": 659,
+    "bbox": {
+      "l": 76.54,
+      "t": 515.66,
+      "r": 200.57,
+      "b": 525.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/s40802-020-00174-3",
+    "file": null,
+    "page": null,
+    "xref": 658,
+    "bbox": {
+      "l": 206.08,
+      "t": 554.66,
+      "r": 244.76,
+      "b": 564.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/s40802-020-00174-3",
+    "file": null,
+    "page": null,
+    "xref": 657,
+    "bbox": {
+      "l": 76.54,
+      "t": 567.66,
+      "r": 200.04,
+      "b": 577.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.2766/183649",
+    "file": null,
+    "page": null,
+    "xref": 656,
+    "bbox": {
+      "l": 231.06,
+      "t": 619.66,
+      "r": 269.75,
+      "b": 629.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.2766/183649",
+    "file": null,
+    "page": null,
+    "xref": 655,
+    "bbox": {
+      "l": 76.54,
+      "t": 632.66,
+      "r": 150.54,
+      "b": 642.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-1-4419-7946-9_6",
+    "file": null,
+    "page": null,
+    "xref": 654,
+    "bbox": {
+      "l": 123.62,
+      "t": 723.66,
+      "r": 284.94,
+      "b": 733.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://chasingaphrodite.com/2012/04/20/the-getty-list-10-objects-at-the-j-paul-getty-museum-that-turkey-says-were-looted/",
+    "file": null,
+    "page": null,
+    "xref": 653,
+    "bbox": {
+      "l": 85.96,
+      "t": 775.66,
+      "r": 238.73,
+      "b": 785.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://chasingaphrodite.com/2012/04/20/the-getty-list-10-objects-at-the-j-paul-getty-museum-that-turkey-says-were-looted/",
+    "file": null,
+    "page": null,
+    "xref": 652,
+    "bbox": {
+      "l": 76.54,
+      "t": 788.66,
+      "r": 273.48,
+      "b": 798.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://chasingaphrodite.com/2012/04/20/the-getty-list-10-objects-at-the-j-paul-getty-museum-that-turkey-says-were-looted/",
+    "file": null,
+    "page": null,
+    "xref": 651,
+    "bbox": {
+      "l": 325.98,
+      "t": 73.66,
+      "r": 434.16,
+      "b": 83.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://www.christies.com/about-us/press-archive/details?PressReleaseID=5690",
+    "file": null,
+    "page": null,
+    "xref": 650,
+    "bbox": {
+      "l": 325.98,
+      "t": 138.66,
+      "r": 507.12,
+      "b": 148.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://www.christies.com/about-us/press-archive/details?PressReleaseID=5690",
+    "file": null,
+    "page": null,
+    "xref": 649,
+    "bbox": {
+      "l": 325.98,
+      "t": 151.66,
+      "r": 429.66,
+      "b": 161.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://www.christies.com/lot/lot-6436491",
+    "file": null,
+    "page": null,
+    "xref": 648,
+    "bbox": {
+      "l": 407.07,
+      "t": 177.66,
+      "r": 527.9,
+      "b": 187.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://www.christies.com/lot/lot-6436491",
+    "file": null,
+    "page": null,
+    "xref": 647,
+    "bbox": {
+      "l": 325.98,
+      "t": 190.66,
+      "r": 358.13,
+      "b": 200.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://www.christies.com/en/auction/antiquities-29962/",
+    "file": null,
+    "page": null,
+    "xref": 646,
+    "bbox": {
+      "l": 494.44,
+      "t": 203.21,
+      "r": 520.25,
+      "b": 213.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://www.christies.com/en/auction/antiquities-29962/",
+    "file": null,
+    "page": null,
+    "xref": 645,
+    "bbox": {
+      "l": 325.98,
+      "t": 216.66,
+      "r": 503.77,
+      "b": 226.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/s10816-014-9235-6",
+    "file": null,
+    "page": null,
+    "xref": 644,
+    "bbox": {
+      "l": 406.26,
+      "t": 281.66,
+      "r": 521.01,
+      "b": 291.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/s10816-014-9235-6",
+    "file": null,
+    "page": null,
+    "xref": 643,
+    "bbox": {
+      "l": 325.98,
+      "t": 294.66,
+      "r": 368.83,
+      "b": 304.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://tpcweb.carabinieri.it/SitoPubblico/home/contenuti/beni-confiscati",
+    "file": null,
+    "page": null,
+    "xref": 642,
+    "bbox": {
+      "l": 476.39,
+      "t": 346.66,
+      "r": 530.41,
+      "b": 356.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://tpcweb.carabinieri.it/SitoPubblico/home/contenuti/beni-confiscati",
+    "file": null,
+    "page": null,
+    "xref": 641,
+    "bbox": {
+      "l": 325.98,
+      "t": 359.66,
+      "r": 530.56,
+      "b": 369.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://cordis.europa.eu/project/id/101094824",
+    "file": null,
+    "page": null,
+    "xref": 640,
+    "bbox": {
+      "l": 501.62,
+      "t": 411.66,
+      "r": 527.44,
+      "b": 421.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://cordis.europa.eu/project/id/101094824",
+    "file": null,
+    "page": null,
+    "xref": 639,
+    "bbox": {
+      "l": 325.98,
+      "t": 424.66,
+      "r": 465.46,
+      "b": 434.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://cordis.europa.eu/project/id/101094245",
+    "file": null,
+    "page": null,
+    "xref": 638,
+    "bbox": {
+      "l": 335.41,
+      "t": 489.66,
+      "r": 500.7,
+      "b": 499.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://cordis.europa.eu/project/id/101094237",
+    "file": null,
+    "page": null,
+    "xref": 637,
+    "bbox": {
+      "l": 452.7,
+      "t": 541.66,
+      "r": 528.46,
+      "b": 551.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://cordis.europa.eu/project/id/101094237",
+    "file": null,
+    "page": null,
+    "xref": 636,
+    "bbox": {
+      "l": 325.98,
+      "t": 554.66,
+      "r": 415.51,
+      "b": 564.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.5281/zenodo.2595043",
+    "file": null,
+    "page": null,
+    "xref": 635,
+    "bbox": {
+      "l": 343.54,
+      "t": 606.66,
+      "r": 486.64,
+      "b": 616.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-3-319-05579-4_31",
+    "file": null,
+    "page": null,
+    "xref": 634,
+    "bbox": {
+      "l": 376.83,
+      "t": 723.66,
+      "r": 529.3,
+      "b": 733.22
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-3-319-05579-4_31",
+    "file": null,
+    "page": null,
+    "xref": 633,
+    "bbox": {
+      "l": 325.98,
+      "t": 736.66,
+      "r": 343.79,
+      "b": 746.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/BF01386390",
+    "file": null,
+    "page": null,
+    "xref": 760,
+    "bbox": {
+      "l": 257.46,
+      "t": 86.66,
+      "r": 283.28,
+      "b": 96.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/BF01386390",
+    "file": null,
+    "page": null,
+    "xref": 759,
+    "bbox": {
+      "l": 76.54,
+      "t": 99.66,
+      "r": 180.95,
+      "b": 109.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1016/j.ssaho.2022.100337",
+    "file": null,
+    "page": null,
+    "xref": 758,
+    "bbox": {
+      "l": 215.99,
+      "t": 151.66,
+      "r": 254.68,
+      "b": 161.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1016/j.ssaho.2022.100337",
+    "file": null,
+    "page": null,
+    "xref": 757,
+    "bbox": {
+      "l": 76.54,
+      "t": 164.66,
+      "r": 197.52,
+      "b": 174.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.ebayinc.com/stories/news/ebay-and-sothebys-join-forces-new-live-auction-experiences/",
+    "file": null,
+    "page": null,
+    "xref": 756,
+    "bbox": {
+      "l": 213.07,
+      "t": 190.66,
+      "r": 286.18,
+      "b": 200.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.ebayinc.com/stories/news/ebay-and-sothebys-join-forces-new-live-auction-experiences/",
+    "file": null,
+    "page": null,
+    "xref": 755,
+    "bbox": {
+      "l": 76.54,
+      "t": 203.66,
+      "r": 279.9,
+      "b": 213.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.ebayinc.com/stories/news/ebay-and-sothebys-join-forces-new-live-auction-experiences/",
+    "file": null,
+    "page": null,
+    "xref": 754,
+    "bbox": {
+      "l": 76.54,
+      "t": 216.66,
+      "r": 148.48,
+      "b": 226.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.2766/183649 ",
+    "file": null,
+    "page": null,
+    "xref": 753,
+    "bbox": {
+      "l": 241.72,
+      "t": 307.66,
+      "r": 280.4,
+      "b": 317.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.2766/183649 ",
+    "file": null,
+    "page": null,
+    "xref": 752,
+    "bbox": {
+      "l": 76.54,
+      "t": 320.66,
+      "r": 152.54,
+      "b": 330.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.europol.europa.eu/media-press/newsroom/news/international-art-trafficking-sting-leads-to-60-arrests-and-over-11-000-objects-recovered",
+    "file": null,
+    "page": null,
+    "xref": 751,
+    "bbox": {
+      "l": 198.52,
+      "t": 359.66,
+      "r": 243.86,
+      "b": 369.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.europol.europa.eu/media-press/newsroom/news/international-art-trafficking-sting-leads-to-60-arrests-and-over-11-000-objects-recovered",
+    "file": null,
+    "page": null,
+    "xref": 750,
+    "bbox": {
+      "l": 76.54,
+      "t": 372.66,
+      "r": 248.12,
+      "b": 382.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.europol.europa.eu/media-press/newsroom/news/international-art-trafficking-sting-leads-to-60-arrests-and-over-11-000-objects-recovered",
+    "file": null,
+    "page": null,
+    "xref": 749,
+    "bbox": {
+      "l": 76.54,
+      "t": 385.66,
+      "r": 280.0,
+      "b": 395.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.europol.europa.eu/media-press/newsroom/news/international-art-trafficking-sting-leads-to-60-arrests-and-over-11-000-objects-recovered",
+    "file": null,
+    "page": null,
+    "xref": 748,
+    "bbox": {
+      "l": 76.54,
+      "t": 398.66,
+      "r": 184.41,
+      "b": 408.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.3390/computers10080094",
+    "file": null,
+    "page": null,
+    "xref": 747,
+    "bbox": {
+      "l": 117.07,
+      "t": 450.66,
+      "r": 277.42,
+      "b": 460.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-3-030-84856-9_2",
+    "file": null,
+    "page": null,
+    "xref": 746,
+    "bbox": {
+      "l": 253.51,
+      "t": 502.66,
+      "r": 279.32,
+      "b": 512.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-3-030-84856-9_2",
+    "file": null,
+    "page": null,
+    "xref": 745,
+    "bbox": {
+      "l": 76.54,
+      "t": 515.66,
+      "r": 216.4,
+      "b": 525.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-3-030-37439-6",
+    "file": null,
+    "page": null,
+    "xref": 744,
+    "bbox": {
+      "l": 127.38,
+      "t": 567.66,
+      "r": 284.44,
+      "b": 577.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.latimes.com/archives/la-xpm-2005-dec-28-me-dealers28-story.html",
+    "file": null,
+    "page": null,
+    "xref": 743,
+    "bbox": {
+      "l": 76.54,
+      "t": 645.66,
+      "r": 279.82,
+      "b": 655.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.latimes.com/archives/la-xpm-2005-dec-28-me-dealers28-story.html",
+    "file": null,
+    "page": null,
+    "xref": 742,
+    "bbox": {
+      "l": 76.54,
+      "t": 658.66,
+      "r": 166.41,
+      "b": 668.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1016/0378-8733(78)90021-7",
+    "file": null,
+    "page": null,
+    "xref": 741,
+    "bbox": {
+      "l": 252.48,
+      "t": 684.66,
+      "r": 278.3,
+      "b": 694.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1016/0378-8733(78)90021-7",
+    "file": null,
+    "page": null,
+    "xref": 740,
+    "bbox": {
+      "l": 76.54,
+      "t": 697.66,
+      "r": 220.73,
+      "b": 707.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://ssrn.com/abstract=3573208",
+    "file": null,
+    "page": null,
+    "xref": 739,
+    "bbox": {
+      "l": 156.97,
+      "t": 749.66,
+      "r": 284.04,
+      "b": 759.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-1-137-40757-3_17",
+    "file": null,
+    "page": null,
+    "xref": 738,
+    "bbox": {
+      "l": 325.98,
+      "t": 125.66,
+      "r": 496.26,
+      "b": 135.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2021/12/21/150-oggetti-trafficati-in-30-anni-di-attivita-da-almagia-potranno-tornare-in-italia/",
+    "file": null,
+    "page": null,
+    "xref": 737,
+    "bbox": {
+      "l": 426.31,
+      "t": 216.66,
+      "r": 512.27,
+      "b": 226.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2021/12/21/150-oggetti-trafficati-in-30-anni-di-attivita-da-almagia-potranno-tornare-in-italia/",
+    "file": null,
+    "page": null,
+    "xref": 736,
+    "bbox": {
+      "l": 325.98,
+      "t": 229.66,
+      "r": 517.48,
+      "b": 239.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2021/12/21/150-oggetti-trafficati-in-30-anni-di-attivita-da-almagia-potranno-tornare-in-italia/",
+    "file": null,
+    "page": null,
+    "xref": 735,
+    "bbox": {
+      "l": 325.98,
+      "t": 242.66,
+      "r": 493.49,
+      "b": 252.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2021/12/14/michael-steinhardt-nessuna-condanna-per-il-magnate-americano-che-acquistava-antichita-di-dubbia-provenienza/",
+    "file": null,
+    "page": null,
+    "xref": 734,
+    "bbox": {
+      "l": 437.49,
+      "t": 307.66,
+      "r": 523.45,
+      "b": 317.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2021/12/14/michael-steinhardt-nessuna-condanna-per-il-magnate-americano-che-acquistava-antichita-di-dubbia-provenienza/",
+    "file": null,
+    "page": null,
+    "xref": 733,
+    "bbox": {
+      "l": 325.98,
+      "t": 320.66,
+      "r": 532.35,
+      "b": 330.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2021/12/14/michael-steinhardt-nessuna-condanna-per-il-magnate-americano-che-acquistava-antichita-di-dubbia-provenienza/",
+    "file": null,
+    "page": null,
+    "xref": 732,
+    "bbox": {
+      "l": 325.98,
+      "t": 333.66,
+      "r": 525.94,
+      "b": 343.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2021/12/14/michael-steinhardt-nessuna-condanna-per-il-magnate-americano-che-acquistava-antichita-di-dubbia-provenienza/",
+    "file": null,
+    "page": null,
+    "xref": 731,
+    "bbox": {
+      "l": 325.98,
+      "t": 346.66,
+      "r": 399.37,
+      "b": 356.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2023/05/04/operazione-pandora-vii-60-arresti-e-11000-opere-darte-rubate-recuperate-in-14-paesi/",
+    "file": null,
+    "page": null,
+    "xref": 730,
+    "bbox": {
+      "l": 359.87,
+      "t": 398.66,
+      "r": 504.3,
+      "b": 408.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2023/05/04/operazione-pandora-vii-60-arresti-e-11000-opere-darte-rubate-recuperate-in-14-paesi/",
+    "file": null,
+    "page": null,
+    "xref": 729,
+    "bbox": {
+      "l": 325.98,
+      "t": 411.66,
+      "r": 521.88,
+      "b": 421.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2023/05/04/operazione-pandora-vii-60-arresti-e-11000-opere-darte-rubate-recuperate-in-14-paesi/",
+    "file": null,
+    "page": null,
+    "xref": 728,
+    "bbox": {
+      "l": 325.98,
+      "t": 424.66,
+      "r": 433.46,
+      "b": 434.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.5281/zenodo.8241780",
+    "file": null,
+    "page": null,
+    "xref": 727,
+    "bbox": {
+      "l": 463.3,
+      "t": 476.66,
+      "r": 501.99,
+      "b": 486.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.5281/zenodo.8241780",
+    "file": null,
+    "page": null,
+    "xref": 726,
+    "bbox": {
+      "l": 325.98,
+      "t": 489.66,
+      "r": 432.83,
+      "b": 499.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.12688/openreseurope.16003.1",
+    "file": null,
+    "page": null,
+    "xref": 725,
+    "bbox": {
+      "l": 433.69,
+      "t": 554.66,
+      "r": 523.42,
+      "b": 564.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.12688/openreseurope.16003.1",
+    "file": null,
+    "page": null,
+    "xref": 724,
+    "bbox": {
+      "l": 325.98,
+      "t": 567.66,
+      "r": 410.82,
+      "b": 577.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/aap.2023.1",
+    "file": null,
+    "page": null,
+    "xref": 723,
+    "bbox": {
+      "l": 401.99,
+      "t": 632.66,
+      "r": 527.44,
+      "b": 642.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.2307/202051",
+    "file": null,
+    "page": null,
+    "xref": 722,
+    "bbox": {
+      "l": 325.98,
+      "t": 671.66,
+      "r": 438.68,
+      "b": 681.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1086/228311",
+    "file": null,
+    "page": null,
+    "xref": 721,
+    "bbox": {
+      "l": 476.05,
+      "t": 710.66,
+      "r": 514.74,
+      "b": 720.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1086/228311",
+    "file": null,
+    "page": null,
+    "xref": 720,
+    "bbox": {
+      "l": 325.98,
+      "t": 723.66,
+      "r": 399.99,
+      "b": 733.22
+    }
+  },
+  {
+    "page_no": 19,
+    "kind": 2,
+    "uri": "https://doi.org/10.1103/PhysRevE.67.017101",
+    "file": null,
+    "page": null,
+    "xref": 719,
+    "bbox": {
+      "l": 343.54,
+      "t": 762.66,
+      "r": 502.36,
+      "b": 772.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1201/9781003310792-2",
+    "file": null,
+    "page": null,
+    "xref": 769,
+    "bbox": {
+      "l": 120.38,
+      "t": 99.66,
+      "r": 272.87,
+      "b": 109.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.18653/v1/2023.findings-emnlp.185",
+    "file": null,
+    "page": null,
+    "xref": 768,
+    "bbox": {
+      "l": 76.54,
+      "t": 151.66,
+      "r": 267.52,
+      "b": 161.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.3115/v1/P15-2063",
+    "file": null,
+    "page": null,
+    "xref": 767,
+    "bbox": {
+      "l": 94.09,
+      "t": 242.66,
+      "r": 225.24,
+      "b": 252.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/S0940739119000183",
+    "file": null,
+    "page": null,
+    "xref": 766,
+    "bbox": {
+      "l": 223.76,
+      "t": 281.66,
+      "r": 262.45,
+      "b": 291.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/S0940739119000183",
+    "file": null,
+    "page": null,
+    "xref": 765,
+    "bbox": {
+      "l": 76.54,
+      "t": 294.66,
+      "r": 200.57,
+      "b": 304.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1145/3447772",
+    "file": null,
+    "page": null,
+    "xref": 764,
+    "bbox": {
+      "l": 115.79,
+      "t": 372.66,
+      "r": 233.08,
+      "b": 382.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://medium.com/geekculture/relationship-extraction-with-gpt-3-bb019dcf41e5",
+    "file": null,
+    "page": null,
+    "xref": 763,
+    "bbox": {
+      "l": 156.21,
+      "t": 398.66,
+      "r": 277.05,
+      "b": 408.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://medium.com/geekculture/relationship-extraction-with-gpt-3-bb019dcf41e5",
+    "file": null,
+    "page": null,
+    "xref": 762,
+    "bbox": {
+      "l": 76.54,
+      "t": 411.66,
+      "r": 253.84,
+      "b": 421.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1111/j.1469-8137.1912.tb05611.x",
+    "file": null,
+    "page": null,
+    "xref": 761,
+    "bbox": {
+      "l": 225.37,
+      "t": 476.66,
+      "r": 264.05,
+      "b": 486.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1111/j.1469-8137.1912.tb05611.x",
+    "file": null,
+    "page": null,
+    "xref": 826,
+    "bbox": {
+      "l": 76.54,
+      "t": 489.66,
+      "r": 225.13,
+      "b": 499.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.2307/j.ctvcm4gh1",
+    "file": null,
+    "page": null,
+    "xref": 825,
+    "bbox": {
+      "l": 153.29,
+      "t": 515.66,
+      "r": 282.66,
+      "b": 525.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://hal.science/hal-03714191",
+    "file": null,
+    "page": null,
+    "xref": 824,
+    "bbox": {
+      "l": 120.03,
+      "t": 567.66,
+      "r": 238.84,
+      "b": 577.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://www.aclweb.org/anthology/C18-2002",
+    "file": null,
+    "page": null,
+    "xref": 823,
+    "bbox": {
+      "l": 195.86,
+      "t": 658.66,
+      "r": 283.56,
+      "b": 668.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://www.aclweb.org/anthology/C18-2002",
+    "file": null,
+    "page": null,
+    "xref": 822,
+    "bbox": {
+      "l": 76.54,
+      "t": 671.66,
+      "r": 150.16,
+      "b": 681.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1109/ICDIM.2011.6093324",
+    "file": null,
+    "page": null,
+    "xref": 821,
+    "bbox": {
+      "l": 230.14,
+      "t": 736.66,
+      "r": 268.83,
+      "b": 746.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1109/ICDIM.2011.6093324",
+    "file": null,
+    "page": null,
+    "xref": 820,
+    "bbox": {
+      "l": 76.54,
+      "t": 749.66,
+      "r": 199.09,
+      "b": 759.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1126/science.309.5736.869",
+    "file": null,
+    "page": null,
+    "xref": 819,
+    "bbox": {
+      "l": 432.92,
+      "t": 86.66,
+      "r": 518.06,
+      "b": 96.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1126/science.309.5736.869",
+    "file": null,
+    "page": null,
+    "xref": 818,
+    "bbox": {
+      "l": 325.98,
+      "t": 99.66,
+      "r": 404.08,
+      "b": 109.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://via.library.depaul.edu/jatip/vol19/iss2/2",
+    "file": null,
+    "page": null,
+    "xref": 817,
+    "bbox": {
+      "l": 335.41,
+      "t": 164.66,
+      "r": 501.48,
+      "b": 174.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/s41109-023-00533-y",
+    "file": null,
+    "page": null,
+    "xref": 816,
+    "bbox": {
+      "l": 474.09,
+      "t": 216.66,
+      "r": 512.78,
+      "b": 226.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/s41109-023-00533-y",
+    "file": null,
+    "page": null,
+    "xref": 815,
+    "bbox": {
+      "l": 325.98,
+      "t": 229.66,
+      "r": 448.97,
+      "b": 239.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1016/j.physa.2010.11.027",
+    "file": null,
+    "page": null,
+    "xref": 814,
+    "bbox": {
+      "l": 415.77,
+      "t": 268.66,
+      "r": 504.8,
+      "b": 278.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1016/j.physa.2010.11.027",
+    "file": null,
+    "page": null,
+    "xref": 813,
+    "bbox": {
+      "l": 325.98,
+      "t": 281.66,
+      "r": 394.18,
+      "b": 291.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-1-4419-7946-9_4",
+    "file": null,
+    "page": null,
+    "xref": 812,
+    "bbox": {
+      "l": 487.71,
+      "t": 346.66,
+      "r": 526.4,
+      "b": 356.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-1-4419-7946-9_4",
+    "file": null,
+    "page": null,
+    "xref": 811,
+    "bbox": {
+      "l": 325.98,
+      "t": 359.66,
+      "r": 452.98,
+      "b": 369.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.4324/9781315532219",
+    "file": null,
+    "page": null,
+    "xref": 810,
+    "bbox": {
+      "l": 383.56,
+      "t": 424.66,
+      "r": 528.4,
+      "b": 434.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.26686/wgtn.12972851",
+    "file": null,
+    "page": null,
+    "xref": 809,
+    "bbox": {
+      "l": 437.73,
+      "t": 463.66,
+      "r": 527.46,
+      "b": 473.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.26686/wgtn.12972851",
+    "file": null,
+    "page": null,
+    "xref": 808,
+    "bbox": {
+      "l": 325.98,
+      "t": 476.66,
+      "r": 383.01,
+      "b": 486.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/BF01766394",
+    "file": null,
+    "page": null,
+    "xref": 807,
+    "bbox": {
+      "l": 466.05,
+      "t": 567.66,
+      "r": 504.74,
+      "b": 577.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/BF01766394",
+    "file": null,
+    "page": null,
+    "xref": 806,
+    "bbox": {
+      "l": 325.98,
+      "t": 580.66,
+      "r": 417.53,
+      "b": 590.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/CBO9780511811395.002",
+    "file": null,
+    "page": null,
+    "xref": 805,
+    "bbox": {
+      "l": 325.98,
+      "t": 645.66,
+      "r": 501.1,
+      "b": 655.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-1-4614-6170-8",
+    "file": null,
+    "page": null,
+    "xref": 804,
+    "bbox": {
+      "l": 493.49,
+      "t": 697.66,
+      "r": 532.17,
+      "b": 707.22
+    }
+  },
+  {
+    "page_no": 20,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-1-4614-6170-8",
+    "file": null,
+    "page": null,
+    "xref": 803,
+    "bbox": {
+      "l": 325.98,
+      "t": 710.66,
+      "r": 444.36,
+      "b": 720.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.5281/zenodo.4091419",
+    "file": null,
+    "page": null,
+    "xref": 893,
+    "bbox": {
+      "l": 76.54,
+      "t": 125.66,
+      "r": 222.07,
+      "b": 135.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://neo4j.com/docs/cypher-manual/current/introduction/",
+    "file": null,
+    "page": null,
+    "xref": 892,
+    "bbox": {
+      "l": 259.22,
+      "t": 138.21,
+      "r": 285.04,
+      "b": 148.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://neo4j.com/docs/cypher-manual/current/introduction/",
+    "file": null,
+    "page": null,
+    "xref": 891,
+    "bbox": {
+      "l": 76.54,
+      "t": 151.66,
+      "r": 268.51,
+      "b": 161.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://neo4j.com/docs/",
+    "file": null,
+    "page": null,
+    "xref": 890,
+    "bbox": {
+      "l": 234.23,
+      "t": 177.21,
+      "r": 282.04,
+      "b": 187.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://neo4j.com/docs/",
+    "file": null,
+    "page": null,
+    "xref": 889,
+    "bbox": {
+      "l": 76.54,
+      "t": 190.66,
+      "r": 114.29,
+      "b": 200.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1137/S003614450342480",
+    "file": null,
+    "page": null,
+    "xref": 888,
+    "bbox": {
+      "l": 226.11,
+      "t": 216.66,
+      "r": 264.8,
+      "b": 226.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1137/S003614450342480",
+    "file": null,
+    "page": null,
+    "xref": 887,
+    "bbox": {
+      "l": 76.54,
+      "t": 229.66,
+      "r": 195.97,
+      "b": 239.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1155/2021/1677445",
+    "file": null,
+    "page": null,
+    "xref": 886,
+    "bbox": {
+      "l": 196.72,
+      "t": 281.66,
+      "r": 281.86,
+      "b": 291.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1155/2021/1677445",
+    "file": null,
+    "page": null,
+    "xref": 885,
+    "bbox": {
+      "l": 76.54,
+      "t": 294.66,
+      "r": 129.72,
+      "b": 304.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1057/978-1-137-54405-6_10",
+    "file": null,
+    "page": null,
+    "xref": 884,
+    "bbox": {
+      "l": 245.88,
+      "t": 346.66,
+      "r": 284.57,
+      "b": 356.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1057/978-1-137-54405-6_10",
+    "file": null,
+    "page": null,
+    "xref": 883,
+    "bbox": {
+      "l": 76.54,
+      "t": 359.66,
+      "r": 208.12,
+      "b": 369.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://platform.openai.com/docs/models/gpt-3-5",
+    "file": null,
+    "page": null,
+    "xref": 882,
+    "bbox": {
+      "l": 213.95,
+      "t": 372.21,
+      "r": 272.84,
+      "b": 382.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://platform.openai.com/docs/models/gpt-3-5",
+    "file": null,
+    "page": null,
+    "xref": 881,
+    "bbox": {
+      "l": 76.54,
+      "t": 385.66,
+      "r": 196.78,
+      "b": 395.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1093/llc/fqac032",
+    "file": null,
+    "page": null,
+    "xref": 880,
+    "bbox": {
+      "l": 76.54,
+      "t": 450.66,
+      "r": 201.34,
+      "b": 460.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.3390/rs15102579",
+    "file": null,
+    "page": null,
+    "xref": 879,
+    "bbox": {
+      "l": 121.66,
+      "t": 489.66,
+      "r": 249.91,
+      "b": 499.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2023/02/01/ritorno-al-futuro/",
+    "file": null,
+    "page": null,
+    "xref": 878,
+    "bbox": {
+      "l": 238.05,
+      "t": 515.66,
+      "r": 263.87,
+      "b": 525.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://www.journalchc.com/2023/02/01/ritorno-al-futuro/",
+    "file": null,
+    "page": null,
+    "xref": 877,
+    "bbox": {
+      "l": 76.54,
+      "t": 528.66,
+      "r": 260.97,
+      "b": 538.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.30687/978-88-6969-517-9/005 ",
+    "file": null,
+    "page": null,
+    "xref": 876,
+    "bbox": {
+      "l": 76.54,
+      "t": 632.66,
+      "r": 256.64,
+      "b": 642.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.3233/SW-223117",
+    "file": null,
+    "page": null,
+    "xref": 875,
+    "bbox": {
+      "l": 234.83,
+      "t": 671.66,
+      "r": 273.52,
+      "b": 681.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.3233/SW-223117",
+    "file": null,
+    "page": null,
+    "xref": 874,
+    "bbox": {
+      "l": 76.54,
+      "t": 684.66,
+      "r": 165.35,
+      "b": 694.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/9781316443255",
+    "file": null,
+    "page": null,
+    "xref": 873,
+    "bbox": {
+      "l": 222.68,
+      "t": 723.66,
+      "r": 261.36,
+      "b": 733.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/9781316443255",
+    "file": null,
+    "page": null,
+    "xref": 872,
+    "bbox": {
+      "l": 76.54,
+      "t": 736.66,
+      "r": 182.69,
+      "b": 746.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://phoenixancientart.com/work-of-art/graeco-roman-bronze-statuette-of-dyonisus/",
+    "file": null,
+    "page": null,
+    "xref": 871,
+    "bbox": {
+      "l": 236.84,
+      "t": 762.66,
+      "r": 262.48,
+      "b": 772.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://phoenixancientart.com/work-of-art/graeco-roman-bronze-statuette-of-dyonisus/",
+    "file": null,
+    "page": null,
+    "xref": 870,
+    "bbox": {
+      "l": 76.54,
+      "t": 775.66,
+      "r": 285.6,
+      "b": 785.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://phoenixancientart.com/work-of-art/graeco-roman-bronze-statuette-of-dyonisus/",
+    "file": null,
+    "page": null,
+    "xref": 869,
+    "bbox": {
+      "l": 76.54,
+      "t": 788.66,
+      "r": 156.29,
+      "b": 798.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://phoenixancientart.com/works-of-art/",
+    "file": null,
+    "page": null,
+    "xref": 868,
+    "bbox": {
+      "l": 369.48,
+      "t": 86.66,
+      "r": 527.83,
+      "b": 96.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1103/PhysRevE.73.016122",
+    "file": null,
+    "page": null,
+    "xref": 867,
+    "bbox": {
+      "l": 500.86,
+      "t": 125.66,
+      "r": 526.68,
+      "b": 135.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1103/PhysRevE.73.016122",
+    "file": null,
+    "page": null,
+    "xref": 866,
+    "bbox": {
+      "l": 325.98,
+      "t": 138.66,
+      "r": 458.99,
+      "b": 148.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://readthedocs.org/projects/beautiful-soup-4/downloads/pdf/latest/",
+    "file": null,
+    "page": null,
+    "xref": 865,
+    "bbox": {
+      "l": 410.05,
+      "t": 164.66,
+      "r": 527.79,
+      "b": 174.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://readthedocs.org/projects/beautiful-soup-4/downloads/pdf/latest/",
+    "file": null,
+    "page": null,
+    "xref": 864,
+    "bbox": {
+      "l": 325.98,
+      "t": 177.66,
+      "r": 467.66,
+      "b": 187.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://cordis.europa.eu/project/id/101073932",
+    "file": null,
+    "page": null,
+    "xref": 863,
+    "bbox": {
+      "l": 368.96,
+      "t": 229.66,
+      "r": 532.49,
+      "b": 239.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://www.artatlaw.com/new-york-art-dealers-charged-with-fabricating-provenance-information-and-impersonating-deceased-collectors",
+    "file": null,
+    "page": null,
+    "xref": 862,
+    "bbox": {
+      "l": 402.04,
+      "t": 294.66,
+      "r": 517.78,
+      "b": 304.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://www.artatlaw.com/new-york-art-dealers-charged-with-fabricating-provenance-information-and-impersonating-deceased-collectors",
+    "file": null,
+    "page": null,
+    "xref": 861,
+    "bbox": {
+      "l": 325.98,
+      "t": 307.66,
+      "r": 523.42,
+      "b": 317.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://www.artatlaw.com/new-york-art-dealers-charged-with-fabricating-provenance-information-and-impersonating-deceased-collectors",
+    "file": null,
+    "page": null,
+    "xref": 860,
+    "bbox": {
+      "l": 325.98,
+      "t": 320.66,
+      "r": 514.62,
+      "b": 330.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/9781782045373",
+    "file": null,
+    "page": null,
+    "xref": 859,
+    "bbox": {
+      "l": 504.8,
+      "t": 424.66,
+      "r": 530.62,
+      "b": 434.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.1017/9781782045373",
+    "file": null,
+    "page": null,
+    "xref": 858,
+    "bbox": {
+      "l": 325.98,
+      "t": 437.66,
+      "r": 445.01,
+      "b": 447.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://doi.org/10.22148/001c.25943",
+    "file": null,
+    "page": null,
+    "xref": 857,
+    "bbox": {
+      "l": 343.54,
+      "t": 489.66,
+      "r": 475.8,
+      "b": 499.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://github.com/seatgeek/thefuzz",
+    "file": null,
+    "page": null,
+    "xref": 856,
+    "bbox": {
+      "l": 473.91,
+      "t": 502.21,
+      "r": 524.55,
+      "b": 512.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://github.com/seatgeek/thefuzz",
+    "file": null,
+    "page": null,
+    "xref": 855,
+    "bbox": {
+      "l": 325.98,
+      "t": 515.66,
+      "r": 405.8,
+      "b": 525.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://blog.google/products/search/introducing-knowledge-graph-things-not/",
+    "file": null,
+    "page": null,
+    "xref": 854,
+    "bbox": {
+      "l": 426.59,
+      "t": 541.66,
+      "r": 530.85,
+      "b": 551.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://blog.google/products/search/introducing-knowledge-graph-things-not/",
+    "file": null,
+    "page": null,
+    "xref": 853,
+    "bbox": {
+      "l": 325.98,
+      "t": 554.66,
+      "r": 501.5,
+      "b": 564.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://www.sothebys.com/en/articles/the-untold-story-of-stephen-junkunc-iii-one-of-the-great-chinese-art-collectors",
+    "file": null,
+    "page": null,
+    "xref": 852,
+    "bbox": {
+      "l": 369.48,
+      "t": 645.66,
+      "r": 508.48,
+      "b": 655.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://www.sothebys.com/en/articles/the-untold-story-of-stephen-junkunc-iii-one-of-the-great-chinese-art-collectors",
+    "file": null,
+    "page": null,
+    "xref": 851,
+    "bbox": {
+      "l": 325.98,
+      "t": 658.66,
+      "r": 533.67,
+      "b": 668.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://www.sothebys.com/en/articles/the-untold-story-of-stephen-junkunc-iii-one-of-the-great-chinese-art-collectors",
+    "file": null,
+    "page": null,
+    "xref": 850,
+    "bbox": {
+      "l": 325.98,
+      "t": 671.66,
+      "r": 403.93,
+      "b": 681.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://en.thevalue.com/articles/stephen-junkunc-iii-sothebys-buddha-head-longmen-caves",
+    "file": null,
+    "page": null,
+    "xref": 849,
+    "bbox": {
+      "l": 482.37,
+      "t": 710.66,
+      "r": 508.91,
+      "b": 720.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://en.thevalue.com/articles/stephen-junkunc-iii-sothebys-buddha-head-longmen-caves",
+    "file": null,
+    "page": null,
+    "xref": 848,
+    "bbox": {
+      "l": 325.98,
+      "t": 723.66,
+      "r": 528.77,
+      "b": 733.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://en.thevalue.com/articles/stephen-junkunc-iii-sothebys-buddha-head-longmen-caves",
+    "file": null,
+    "page": null,
+    "xref": 847,
+    "bbox": {
+      "l": 325.98,
+      "t": 736.66,
+      "r": 435.33,
+      "b": 746.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://traffickingculture.org/encyclopedia/",
+    "file": null,
+    "page": null,
+    "xref": 846,
+    "bbox": {
+      "l": 499.17,
+      "t": 762.21,
+      "r": 524.99,
+      "b": 772.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 2,
+    "uri": "https://traffickingculture.org/encyclopedia/",
+    "file": null,
+    "page": null,
+    "xref": 845,
+    "bbox": {
+      "l": 325.98,
+      "t": 775.66,
+      "r": 452.33,
+      "b": 785.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://proceedings.mlr.press/v48/trouillon16.html",
+    "file": null,
+    "page": null,
+    "xref": 976,
+    "bbox": {
+      "l": 255.38,
+      "t": 164.66,
+      "r": 281.2,
+      "b": 174.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://proceedings.mlr.press/v48/trouillon16.html",
+    "file": null,
+    "page": null,
+    "xref": 975,
+    "bbox": {
+      "l": 76.54,
+      "t": 177.66,
+      "r": 230.46,
+      "b": 187.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-1-137-40757-3_17",
+    "file": null,
+    "page": null,
+    "xref": 974,
+    "bbox": {
+      "l": 156.31,
+      "t": 333.66,
+      "r": 282.76,
+      "b": 343.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/978-1-137-40757-3_17",
+    "file": null,
+    "page": null,
+    "xref": 973,
+    "bbox": {
+      "l": 76.54,
+      "t": 346.66,
+      "r": 120.36,
+      "b": 356.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.5617/acta.9024",
+    "file": null,
+    "page": null,
+    "xref": 972,
+    "bbox": {
+      "l": 111.79,
+      "t": 398.66,
+      "r": 233.15,
+      "b": 408.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1093/oso/9780198748519.003.0012",
+    "file": null,
+    "page": null,
+    "xref": 971,
+    "bbox": {
+      "l": 170.27,
+      "t": 476.66,
+      "r": 255.41,
+      "b": 486.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1093/oso/9780198748519.003.0012",
+    "file": null,
+    "page": null,
+    "xref": 970,
+    "bbox": {
+      "l": 76.54,
+      "t": 489.66,
+      "r": 187.55,
+      "b": 499.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/ 10.6028/NIST.FIPS.180-4",
+    "file": null,
+    "page": null,
+    "xref": 969,
+    "bbox": {
+      "l": 175.15,
+      "t": 541.66,
+      "r": 280.79,
+      "b": 551.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/ 10.6028/NIST.FIPS.180-4",
+    "file": null,
+    "page": null,
+    "xref": 968,
+    "bbox": {
+      "l": 76.54,
+      "t": 554.66,
+      "r": 114.94,
+      "b": 564.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://unesdoc.unesco.org/ark:/48223/pf0000377431_eng",
+    "file": null,
+    "page": null,
+    "xref": 967,
+    "bbox": {
+      "l": 244.1,
+      "t": 645.66,
+      "r": 269.92,
+      "b": 655.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://unesdoc.unesco.org/ark:/48223/pf0000377431_eng",
+    "file": null,
+    "page": null,
+    "xref": 966,
+    "bbox": {
+      "l": 76.54,
+      "t": 658.66,
+      "r": 262.33,
+      "b": 668.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://unesdoc.unesco.org/ark:/48223/pf0000381462",
+    "file": null,
+    "page": null,
+    "xref": 965,
+    "bbox": {
+      "l": 248.6,
+      "t": 749.66,
+      "r": 274.41,
+      "b": 759.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://unesdoc.unesco.org/ark:/48223/pf0000381462",
+    "file": null,
+    "page": null,
+    "xref": 964,
+    "bbox": {
+      "l": 76.54,
+      "t": 762.66,
+      "r": 244.84,
+      "b": 772.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://unesdoc.unesco.org/ark:/48223/pf0000381462",
+    "file": null,
+    "page": null,
+    "xref": 963,
+    "bbox": {
+      "l": 498.05,
+      "t": 151.66,
+      "r": 523.86,
+      "b": 161.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://unesdoc.unesco.org/ark:/48223/pf0000381462",
+    "file": null,
+    "page": null,
+    "xref": 962,
+    "bbox": {
+      "l": 325.98,
+      "t": 164.66,
+      "r": 494.29,
+      "b": 174.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1093/jamiaopen/ooab081",
+    "file": null,
+    "page": null,
+    "xref": 961,
+    "bbox": {
+      "l": 325.98,
+      "t": 229.66,
+      "r": 483.71,
+      "b": 239.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1038/sdata.2016.18",
+    "file": null,
+    "page": null,
+    "xref": 960,
+    "bbox": {
+      "l": 479.6,
+      "t": 450.66,
+      "r": 518.28,
+      "b": 460.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1038/sdata.2016.18",
+    "file": null,
+    "page": null,
+    "xref": 959,
+    "bbox": {
+      "l": 325.98,
+      "t": 463.66,
+      "r": 423.99,
+      "b": 473.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1023/A:1016095317864",
+    "file": null,
+    "page": null,
+    "xref": 958,
+    "bbox": {
+      "l": 361.24,
+      "t": 502.66,
+      "r": 513.01,
+      "b": 512.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.4324/9780367823801-6",
+    "file": null,
+    "page": null,
+    "xref": 957,
+    "bbox": {
+      "l": 478.25,
+      "t": 580.66,
+      "r": 516.94,
+      "b": 590.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.4324/9780367823801-6",
+    "file": null,
+    "page": null,
+    "xref": 956,
+    "bbox": {
+      "l": 325.98,
+      "t": 593.66,
+      "r": 439.78,
+      "b": 603.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1080/00380237.2012.630846",
+    "file": null,
+    "page": null,
+    "xref": 955,
+    "bbox": {
+      "l": 369.83,
+      "t": 632.66,
+      "r": 527.71,
+      "b": 642.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1080/00380237.2012.630846",
+    "file": null,
+    "page": null,
+    "xref": 954,
+    "bbox": {
+      "l": 325.98,
+      "t": 645.66,
+      "r": 339.76,
+      "b": 655.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.21203/rs.3.rs-2021923/v1",
+    "file": null,
+    "page": null,
+    "xref": 953,
+    "bbox": {
+      "l": 325.98,
+      "t": 697.66,
+      "r": 483.31,
+      "b": 707.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1145/3543507.3583387",
+    "file": null,
+    "page": null,
+    "xref": 952,
+    "bbox": {
+      "l": 483.0,
+      "t": 762.66,
+      "r": 521.68,
+      "b": 772.22
+    }
+  },
+  {
+    "page_no": 22,
+    "kind": 2,
+    "uri": "https://doi.org/10.1145/3543507.3583387",
+    "file": null,
+    "page": null,
+    "xref": 951,
+    "bbox": {
+      "l": 325.98,
+      "t": 775.66,
+      "r": 438.65,
+      "b": 785.22
+    }
+  },
+  {
+    "page_no": 23,
+    "kind": 2,
+    "uri": "https://doi.org/10.5334/jcaa.130",
+    "file": null,
+    "page": null,
+    "xref": 91,
+    "bbox": {
+      "l": 420.52,
+      "t": 633.23,
+      "r": 534.67,
+      "b": 642.78
+    }
+  },
+  {
+    "page_no": 23,
+    "kind": 2,
+    "uri": "http://creativecommons.org/licenses/by/4.0/",
+    "file": null,
+    "page": null,
+    "xref": 92,
+    "bbox": {
+      "l": 188.09,
+      "t": 722.24,
+      "r": 346.29,
+      "b": 731.79
+    }
+  }
+]

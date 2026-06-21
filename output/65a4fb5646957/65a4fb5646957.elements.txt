@@ -1,0 +1,343 @@
+ 0: unspecified with name=_root_
+  1: section_header: AIKoGAM: An AI-driven Knowledge Graph of the Antiquities Market: Toward Automatised Methods to Ident
+  2: picture
+  3: section_header: RICCARDO GIOVANELLI
+  4: picture
+  5: section_header: ARIANNA TRAVIGLIA
+  6: text: *Author affiliations can be found in the back matter of this article
+  7: section_header: ABSTRACT
+  8: text: The longstanding illicit trafficking of archaeological artefacts has persistently presented a global
+  9: picture
+  10: picture
+  11: key_value_area with name=group
+   12: text: COLLECTION:
+   13: text: A BRIDGE TOO FAR
+   14: text: RESEARCH ARTICLE
+  15: section_header: CORRESPONDING AUTHOR:
+  16: section_header: Riccardo Giovanelli
+  17: text: Università Ca' Foscari Venezia, Italy; Istituto Italiano di Tecnologia - Center for Cultural Heritag
+  18: section_header: KEYWORDS:
+  19: text: antiquities; looting; knowledge graph; network analysis; SNA
+  20: section_header: TO CITE THIS ARTICLE:
+  21: text: Giovanelli, R and Traviglia, A. 2024. AIKoGAM: An AI-driven Knowledge Graph of the Antiquities Marke
+  22: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  23: page_header: 93
+  24: section_header: 1 INTRODUCTION
+  25: text: The antiquities market, both legal and illegal, is a widely acknowledged phenomenon, prompting signi
+  26: text: As  emphasised  by  Graham  et  al.  (2023),  there  is a growing trend towards digital and technolo
+  27: text: Parallelly, the debate  surrounding  the  antiquities ownership, market and cultural rights persists
+  28: text: Despite  claims  by  collectors,  dealers,  and  auction houses of adhering to ethical practices, UN
+  29: text: The  2022  'Operation  Pandora  VII',  executed  by  Law Enforcement  Agencies  (LEAs),  underscores
+  30: text: While databases of stolen goods exist (CECOJI-CNRS and  EC-DGHOME 2019:  82-89;  Oosterman  2019),  
+  31: text: Pellegrini  2023)  and  the  seizure  of  Almagi`a's  Archives by  the  New  York  County  District 
+  32: text: Significant gaps persist in understanding the antiquities trade, particularly the 'demand' side (Bro
+  33: text: Provenance statements, critical in investigations and  in  understanding  trade  dynamics,  are  inc
+  34: text: Acknowledging  the  significance  of  grasping  market dynamics,  the  pivotal  role  of  provenance
+  35: section_header: 2 BACKGROUND: ANTIQUITIES TRADE AS A COMPLEX NETWORK
+  36: section_header: 2.1 NETWORK ANALYSIS
+  37: text: Our  approach  views  the  trade  of  cultural  heritage  as a  complex  network,  essentially  a  g
+  38: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  39: page_header: 94
+  40: text: The  integration  of  network  models  to  describe  the antiquities  trade,  implicitly  recognised
+  41: text: Seminal works applying SNA include D'Ippolito (2014), who  designed  two  models  of  the  network  
+  42: text: Tsirogiannis and Tsirogiannis (2016) developed a model that sheds light on the structural biases of 
+  43: text: &  Zhou  2011;  Ryan  &  Ahnert  2021).  Nevertheless,  the findings  underscore  the  significant  
+  44: text: Fabiani  and  Marrone  (2021)  explored  the  circulating antiquities  market,  focusing  on  Christ
+  45: section_header: 2.2 KNOWLEDGE GRAPHS
+  46: text: The concept of Knowledge Graph (KG) is relatively new, gaining popularity through Google's associati
+  47: text: As discussed, the matter of antiquities trade encompasses a variety of perspectives, methodologies, 
+  48: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  49: page_header: 95
+  50: text: Rapid  progress  in  cultural  heritage  KGs  (Pellegrino, Scarano  &  Spagnuolo  2022)  contrasts w
+  51: text: Graham et al. (2023) constructed a KG using the 129 case study summaries that specifically address t
+  52: text: To address the second limitation, Graham, Yates, and El-Roby (2023) have explored the potential of l
+  53: text: Through this automated process, they aimed to extract all  possible  directed  relationships  involv
+  54: section_header: 3 METHODOLOGY
+  55: text: In line with current trends in computational research on the illicit trafficking of cultural propert
+  56: text: This  research  initiative,  named  AIKoGAM  (Giovanelli & Traviglia 2023), aims to establish a comm
+  57: section_header: 3.1 INFORMATION EXTRACTION
+  58: section_header: 3.1.1 Web harvesting
+  59: text: Online  data  accessibility  for  antiquities  in  the  market has  increased  since  Christie's  in
+  60: text: The  Information  Retrieval  (IR)  module  in  AIKoGAM starts  with  identifying  and  examining  da
+  61: text: For auctions, specific sales and corresponding lots can usually  be  located  through  a  straightfo
+  62: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  63: page_header: 96
+  64: picture
+   65: caption: Figure 1 Example of a specific 'sale page', highlighting the straightforward structure of typical au
+  66: picture
+   67: caption: Figure 2 Example of a specific 'inventory page' of an antiquity gallery, highlighting the straightfo
+  68: text: Although these web pages appear straightforward and present the relevant information about the objec
+  69: text: selectors enable selective styling of HTML elements or groups of elements, enhancing the visual appe
+  70: text: Certain  web  pages  are  well  structured,  adhering to a consistent layout and appearance. They us
+  71: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  72: page_header: 97
+  73: picture
+   74: caption: Figure 3 Examples of how relevant information are placed on lot pages of a) an antiquity gallery (Ph
+  75: text: Some others do not have a strict structure, resulting in  a  free-form layout. Retrieving informatio
+  76: text: Sotheby's  utilises  an  Apollo  GraphQL  Database  for systematic  data  organisation,  allowing  s
+  77: text: To handle these differences, the 'harvesting.py' script in  Python  was  developed,  utilising  Beau
+  78: section_header: 3.1.2 Ontology mapping and Knowledge Graph database building
+  79: text: To maximise interoperability and applicability across various websites, the harvesting module does n
+  80: text: For  AIKoGAM,  we  adapted  existing  ontologies  for general entities  and  proposed  a  new  ontol
+  81: text: A single provenance  statement  is  treated as  an event involving the object, the seller, the buyer
+  82: text: To enrich the provenance information of the objects, we  have  devised  the  'event_extractor.py'  s
+  83: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  84: page_header: 98
+  85: picture
+   86: caption: Figure 4 AIKoGAM partial ontology schema.
+  87: text: 2020) to split provenance statements into 'events'. Each of these events ideally contains an actor, 
+  88: key_value_area with name=group
+   89: code: { 'text': 'Sotheby's Hong Kong 04 August 2022 lot 1095', 'detected language': 'en', 'spacy model': '
+  90: text: Subsequently, The 'event_extractor.py' script stores the event within the entry as:
+  91: code: { 'label': 'Sotheby's Hong Kong 04 August 2022 lot 1095', 'ORG': 'Sotheby's Hong Kong', 'DATE': '04 
+  92: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  93: page_header: 99
+  94: text: The 'kg_construction.py' script then builds into a desktop instance of a Neo4j (2023b) the enhanced 
+  95: text: Through  CYPHER  queries  (Neo4j  2023a),  the  native query  language  for Neo4j, the named  entiti
+  96: text: To evaluate the general SpaCy models accuracy, we checked  the  results  of  a  dataset  sample  (97
+  97: text: Examining  the  error  rates  across  different  models reveals variations in performance (see Table
+  98: text: The most frequent error involves entities better identifiable as 'OTHER' being misclassified as 'ORG
+  99: text: Analysing  misclassifications  by  entity  type,  'PERSON' and 'ORG categories are often misclassifi
+  100: text: While the overall accuracy of the NER models is commendable, there are notable variations in perform
+  101: section_header: 4 PRELIMINARY RESULTS
+  102: text: Through the transformative process, we evolved from an original  database  with  30,954  entries  (3
+  103: text: Figure 5 summarises the node and relationship counts in the KG: 13,482 actors involved in selling or
+  104: table
+   105: caption: Table 1 Error Rates per Model.
+  106: table
+   107: caption: Table 2 All Errors and Their Counts.
+  108: text: 30,422 antiquities dealt with by Christie's, Sotheby's, and Phoenix Ancient Art from 1999 to 2023.
+  109: text: After  a  manual  examination  of  the  data,  duplicate occurrences in the 'actors' became apparent
+  110: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  111: page_header: 100
+  112: picture
+   113: caption: Figure 5 Nodes (a) and Relationships (b) counts by their labels and types.
+  114: text: The 'semi_auto_evaluation.py' script addresses occurrences  of  nodes  representing  the  same  enti
+  115: text: The process identified 2,540 potentially similar nodes, with  791  (5.87%  of  the  total  actors)  
+  116: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  117: page_header: 101
+  118: picture
+   119: caption: Figure 6 Nodes with the highest degree in the actors-artwork bipartite network.
+  120: text: For SNA on the KG, we experimented with an artworks-actor bipartite projection (Newman 2003; Liew et
+  121: text: Noteworthy  names  already  connected  with  cases  of illicit trafficking of antiquities appear, su
+  122: text: To gain a deeper understanding, we build an additional  layer,  generating  a  monopartite  undirect
+  123: text: We refactored the artworks connected to actors in our previous  layer, transforming those nodes into
+  124: table
+   125: caption: Table 3 Summary of Network Measures.
+  126: text: The  monopartite  projection,  as  indicated  by  the metrics in Table 3, appears relatively large, 
+  127: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  128: page_header: 102
+  129: picture
+   130: caption: Figure 7 Visualisation of the actor-to-actor graph.  The colours are based on the inferred community
+  131: text: To better understand the intricacies of the network, we employ various centrality  measures. Figure 
+  132: text: The predictive relationship (z-score of 33.20) observed in  betweenness  centralities  (Figure  9c),
+  133: text: In real-world networks, nodes with high betweenness centrality  can  act  as 'bottlenecks'  for  inf
+  134: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  135: page_header: 103
+  136: picture
+   137: caption: Figure 8 Scatter plots of centrality measures and linear regression for (a) degree and betweenness, 
+  138: picture
+   139: caption: Figure 9 Gaussian plots of centralities values, with highest values in red and z-Score of each centr
+  140: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  141: page_header: 104
+  142: text: Tables 5, 6, 7, and 8 provide a comprehensive overview of  the  top  50  nodes  based  on  their  ce
+  143: text: Revisiting previously discussed actors and introducing other  well-known  figures,  Table  4  sheds 
+  144: text: Similar  to  Fortuna  Fine  Arts'  in  centrality  scores  is N(icolas)  Koutoulakis:  both  entitie
+  145: table
+   146: caption: Table 4 Table comparing intersecting nodes between the top 50 centralities measures. In bold, nodes 
+  147: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  148: page_header: 105
+  149: table
+   150: caption: Table 5 Top 50 Highest Degree Nodes.
+  151: table
+   152: caption: Table 6 Top 50 Highest Betweenness Centrality Nodes.
+  153: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  154: page_header: 106
+  155: table
+   156: caption: Table 7 Top 50 Highest Closeness Centrality Nodes.
+  157: table
+   158: caption: Table 8 Top 50 Highest Eigenvector Centrality Nodes.
+  159: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  160: page_header: 107
+  161: text: The eigenvector centrality offers unique insights into  the  structural  dynamics  of  the  network 
+  162: section_header: 5 DISCUSSION AND FUTURE WORK
+  163: text: The preliminary results of our work demonstrate the high potential of describing and investigating t
+  164: text: While the potential of this application is evident, there are still several issues we need to addres
+  165: text: Another approach, as demonstrated by Graham, Yates, and  El-Roby  (2023),  involves  developing  pro
+  166: text: As  demonstrated,  our  research  faced  a  challenge due to diverse  raw  data  in  terms  of  qual
+  167: text: Looking  ahead,  the  mapped  dataset  serves  as  a valuable  resource  for  training  and  refinin
+  168: text: The scripts can serve as templates for methodologies in similar projects dealing with diverse and he
+  169: text: The semi-automated data collection shows promise, but  initial  fine-tuning  of  each  different  we
+  170: text: A promising avenue  of exploration would  involve merging  other  similar  datasets,  as  the  one  
+  171: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  172: page_header: 108
+  173: section_header: 5 CONCLUSIONS
+  174: text: AIKoGAM stands as a substantial stride in comprehending the antiquities market and combatting the il
+  175: text: Adopting general-purpose NER models for automated information extraction, AIKoGAM has successfully c
+  176: text: A  key  aspect  of  AIKoGAM  is  the  potential  to  foster cooperation and interoperability  with  
+  177: text: The refined  dataset  becomes a valuable asset for a wide range of applications, from training machi
+  178: text: In  conclusion,  AIKoGAM's  methodology  provides  a foundation  for  future  work  in  combating  i
+  179: section_header: DATA ACCESSIBILITY STATEMENT
+  180: text: The  scripts  that  support  the  findings  of  this  study  are openly  available  in  Zenodo  at  
+  181: section_header: COMPETING INTERESTS
+  182: text: The authors have no competing interests to declare.
+  183: section_header: AUTHOR AFFILIATIONS
+  184: text: Riccardo Giovanelli orcid.org/0000-0001-8884-8492 Università Ca' Foscari Venezia, Italy; Istituto It
+  185: section_header: REFERENCES
+  186: text: Ahmad, I, Akhtar, MU, Noor, S and Shahnaz, A. 2020. Missing Link Prediction using Common Neighbor an
+  187: text: Akers, T. 2023. Manhattan District Attorney's Office returns two looted statues to Libya from the co
+  188: text: Albertson, L. 2020a. Provenance Research Today. Principle, Practice, Problems. In: Tompkins, A (ed.)
+  189: text: Albertson, L. 2020b. Some background on Erdal Dere and Faisal Khan and Fortuna Fine Arts ltd., charg
+  190: text: Barabási, A-L and Pósfai, M. 2016. Network Science . Cambridge University Press.
+  191: text: Bastian, M, Heymann, S and Jacomy, M. 2009. Gephi: an open source software for exploring and manipul
+  192: text: Bogdanos, M and Iyer, A. 2021. In the Matter of A Grand Jury Investigation into a Private New York A
+  193: text: Boyd, D and Crawford, K. 2011. Six Provocations for Big Data. In: A Decade in Internet Time: Symposi
+  194: text: Brennan, M and Tsirogiannis, C. 2022. Illicit Antiquities Network . Available at https://illicitanti
+  195: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  196: page_header: 109
+  197: text: Brodie, N. 2009. Consensual relations? Academic involvement in the illegal trade in ancient manuscri
+  198: text: Brodie, N. 2011. Congenial bedfellows? The academy and the antiquities trade. Journal of contemporar
+  199: text: Brodie, N. 2015. The Internet Market in Antiquities. In: Desmarais, F (ed.), Countering Illicit Traf
+  200: text: Brodie, N, Kersel, MM, Mackenzie, S, Sabrine, I, Smith, E and Yates, D. 2022. Why There is Still an 
+  201: text: Brughmans, T, Collar, A and Coward, F. (eds.) 2016. The Connected Past: Challenges to Networks Studi
+  202: text: Brughmans, T and Peeples, MA. 2018. Network Science. In: Varela, SLL (ed.), The Encyclopedia of Arch
+  203: text: Brughmans, T and Peeples, MA. 2023. Network Science in Archaeology . Cambridge University Press. DOI
+  204: text: Campbell, PB. 2013. The Illicit Antiquities Trade as a Transnational Criminal Network: Characterizin
+  205: text: Campfens, E. 2020. Whose Cultural Objects? Introducing Heritage Title for Cross-Border Cultural Prop
+  206: text: CECOJI-CNRS-UMR6224 and European Commission, Directorate-General for Migration and Home Affairs. 201
+  207: text: Chandra, RV and Varanasi, BS. 2015. Python requests essentials . Packt Publishing Ltd.
+  208: text: Chappell, D and Polk, K. 2011. Unraveling the 'Cordata': Just How Organized Is the International Tra
+  209: text: Chasing Aphrodite. 2012. The Getty List: 10 Objects At The J. Paul Getty Museum That Turkey Says Wer
+  210: text: Christie's. 2012. RELEASE: Christie's Announces First in a Series of Online-Exclusive Sales Optimize
+  211: text: Christie's.
+  212: text: 2023a.
+  213: text: A Greek Bronze Zeus Hurling A Thunderbolt
+  214: text: .
+  215: text: Christie's. Available at: https://www.christies.com/lot/lot6436491 [Last accessed 10 July 2023].
+  216: text: Christie's. 2023b. Antiquities . Christie's. Available at https:// www.christies.com/en/auction/anti
+  217: text: Collar, A, Coward, F, Brughmans, T and Mills, B. 2015. Networks in archaeology: phenomena, abstracti
+  218: text: Comando Carabinieri Tutela Patrimonio Culturale. 2023a. Attività Operativa 2022 .
+  219: text: Comando Carabinieri Tutela Patrimonio Culturale. 2023b. Reperti Archeologic Confiscati . Available a
+  220: text: CORDIS. 2022a. Applying New solutions for Cultural Heritage protection by Innovative, Scientific, so
+  221: text: CORDIS. 2022b. Artwork Unique RecognitiOn and tRacking through chemicAl encoded data, miniaturized d
+  222: text: CORDIS. 2022c. ENDORSING SAFEGUARDING, PROTECTION, AND PROVENANCE MANAGEMENT OF CULTURAL HERITAGE . 
+  223: text: Costabello, L, Bernardi, A, Janik, A, Pai, S, Van, CL, McGrath, R, McCarthy, N and Tabacof, P. 2019.
+  224: text: Cuno, JB. (ed.) 2012. Whose culture? the promise of museums and the debate over antiquities . Prince
+  225: text: D'Ippolito, M. 2014. New Methods of Mapping. The Application of Social Network Analysis to the Study
+  226: text: Davis, T. 2020. The Return of the Plundered: Case Studies in the Provenance of Illicit Antiquities. 
+  227: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  228: page_header: 110
+  229: text: Dijkstra, EW. 1959. A note on two problems in connexion with graphs. Numerische mathematik , 1: 269-
+  230: text: Dörpinghaus, J, Klante, S, Christian, M, Meigen, C and Düing, C. 2022. From social networks to knowl
+  231: text: eBay Inc. Staff. 2014. Ebay and Sotheby's join forces on new live auction experience , 14 July. Avai
+  232: text: Ehrlinger, L and Wöß, W. 2016. Towards a Definition of Knowledge Graphs. SEMANTiCS (Posters, Demos, 
+  233: text: EC-DGEAC, Brodie, N, Batura, O, Hoog, G, Slot, B, Wanrooij, N and Yates, D. 2019. Illicit trade in c
+  234: text: EUROPOL. 2023. International art trafficking sting leads to 60 arrests and over 11 000 objects recov
+  235: text: Eyharabide, V, Bekkouch, I, Imad, EI and Constantin, ND. 2021. Knowledge Graph Embedding-Based Domai
+  236: text: Fabiani, MD and Marrone, JV. 2021. Transiting Through the Antiquities Market. In: Oosterman, N and Y
+  237: text: Fensel, D, Ş im ş ek, U, Angele, K, Huaman, E, Kärle, E, Panasiuk, O, Toma, I, Umbrich, J and Wahler
+  238: text: Fletcher, G. 2020. The Ethics of Provenance Research and the Art Market. In: Tompkins, A (ed.), Prov
+  239: text: Frammolino, R and Flech, J. 2005. Murky World of Antiquities Trade. Los Angeles Times , 28 December 
+  240: text: Freeman, LC. 1978. Centrality in social networks conceptual clarification. Social Networks , 1(3): 2
+  241: text: Gerstenblith, PG. 2020. Provenience and Provenance Intersecting with International Law in the Market
+  242: text: Gill, DWJ. 2019. Context matters: Nicolas Koutoulakis, the antiquities market and due diligence. Jou
+  243: text: Gill, DWJ and Tsirogiannis, C. 2016. Polaroids from the Medici Dossier: Continued Sightings on the M
+  244: text: Giovanelli, R. 2018. Provenance non verificabili nel mercato di antichità romane: case study sui 300
+  245: text: Giovanelli, R. 2021a. 150 oggetti trafficati in 30 anni di attività da Almagià potranno tornare in I
+  246: text: Giovanelli, R. 2021b. Michael Steinhardt: nessuna condanna per il magnate americano che acquistava a
+  247: text: Giovanelli, R. 2023. Operazione Pandora VII. 60 arresti e 11.000 opere d'arte rubate, recuperate in 
+  248: text: Giovanelli, R and Traviglia, A. 2023. riccardogvn/AIKoGAM: An AI-driven Knowledge Graph of the Antiq
+  249: text: Graham, S, Yates, D and El-Roby, A. 2023. Investigating antiquities trafficking with generative pre-
+  250: text: Graham, S, Yates, D, El-Roby, A, Brousseau, C, Ellens, J and McDermott, C. 2023. Relationship Predic
+  251: text: Granovetter, M. 1983. The strength of weak ties: A network theory revisited. Sociological Theory , 1
+  252: text: Granovetter, M. 1985. Economic Action and Social Structure: The Problem of Embeddedness. The America
+  253: text: Goh, KI, Khang, EOB and Kim, D. 2003. Betweennes centrality correlation in social networks. Physical
+  254: text: Gujral, G and Shivarama, J. 2023. Knowledge Graphs. Connecting Information over the Semantic Web. In
+  255: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  256: page_header: 111
+  257: text: Gur, I, Nachum, O, Miao, Y, Safdari, M, Huang, A, Chowdhery, A, Narang, S, Fiedel, N and Faust, A. 2
+  258: text: Heafield, K, Kshirsagar, R and Barona, S, 2015. Language identification and modeling in specialized 
+  259: text: Hixenbaugh, R. 2019. The Current State of the Antiquities Trade: An Art Dealer's Perspective. Intern
+  260: text: Hogan, A, Blomqvist, E, Cochez, M, D'amato, C, Melo, GD, Gutierrez, C, Kirrane, S, Gayo, JEL, Navigl
+  261: text: A. 2021. Knowledge graphs. ACM computing surveys , 54(4): 1-37. DOI: https://doi.org/10.1145/3447772
+  262: text: Huang, S. 2022. Relationship Extraction with GPT-3, Medium , 7 April [online access at https://mediu
+  263: text: Isman, F. 2009. I predatori dell'arte perduta. Il saccheggio dell'archeologia in Italia . Skira.
+  264: text: Jaccard, P. 1912. The Distribution of the Flora in the Alpine Zone. New Phytologist , 11(2): 37-50. 
+  265: text: Jackson, MO. 2010. Social and Economic Networks . Princeton University Press. DOI: https://doi.org/1
+  266: text: Kanyou, C, Kouokam, E and Emvudu, Y. 2022. Structural network analysis: Correlation between centrali
+  267: text: Klie, J-C, Bugert, M, Boullosa, B, Eckart de Castilho, R and Gurevych, I. 2018. The INCEpTION platfo
+  268: text: Krátký, M, Ba č a, R, Bedná ř , D, Walder, J, Dvorský, J and Chovanec, P. 2011. Index-based n-gram e
+  269: text: La Corte Suprema di Cassazione, Sezione II penale. 2011. Sentenza N. 2870/204 R.G. N.8028/2010, 7 di
+  270: text: Lawler, A. 2005. Looted tablets pose scholar's dilemma. Science , 309(5736): 869. DOI: https://doi.o
+  271: text: Levine, JA. 2009. The Importance of Provenance Documentation in the Market for Ancient Art and Artif
+  272: text: Liew, CY, Labadin, J, Kok, WC and Eze, MO. 2023. A methodology framework for bipartite network model
+  273: text: Lü, L and Zhou, T. 2011. Link prediction in complex networks: A survey. Physica A: Statistical Mecha
+  274: text: Mackenzie, S. 2011. The Market as Criminal and Criminals in the Market: Reducing Opportunities for O
+  275: text: Mackenzie, S, Brodie, N, Yates, D and Tsirogiannis, C. (eds.) 2019. Trafficking Culture. New Directi
+  276: text: Mackenzie, S and Davis, T. 2014. Temple looting in Cambodia: Anatomy of a statue trafficking network
+  277: text: Mackenzie, S and Yates, D. 2020. Researching the Structure of the Illicit Antiquities Trade. In: Tom
+  278: text: Marchi, E and Miguel, O. 1974. On the Structure of the Teaching-learning Interactive Process. Intern
+  279: text: Marsden, PV. 2005. Recent Developments in Network Measurement. In: Carrington, PJ, Scott, J and Wass
+  280: text: Meirelles, I, Schich, M and Malina, R. 2014. Arts and Humanities, Complex Network Analysis of. In: A
+  281: text: Montani, I, Honnibal, M, Honnibal, M, Landeghem, SV, Boyd, A, Peters, H, Samsonov, M, Geovedi, J, Re
+  282: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  283: page_header: 112
+  284: text: Neo4j. 2023a. Neo4j cypher manual . Neo4j. Available at https:// neo4j.com/docs/cypher-manual/curren
+  285: text: Neo4j. 2023b. Neo4j desktop . Neo4j. Available at https://neo4j. com/docs/ [Last accessed 19 June 20
+  286: text: Newman, MEJ. 2003. The Structure and Function of Complex Networks. SIAM Rev , 45(2): 167-256. DOI: h
+  287: text: Nguyen, Q, Nguyen, N-K-K, Cassi, D and Bellingeri, M. 2021. New Betweenness Centrality Node Attack S
+  288: text: Oosterman, N. 2019. Regional Overviews of the Policing of Art Crime in the European Union . In: Hufn
+  289: text: OpenAI. 2023. Gpt3.5 . OpenAi. Available at https://platform. openai.com/docs/models/gpt-3-5 [Last a
+  290: text: Palombo, C and Yates, D. 2023. Digital transit ports for the illicit trade in antiquities: the case 
+  291: text: Patias, P and Georgiadis, C. 2023. Fighting Illicit Trafficking of Cultural Goods: The ENIGMA Projec
+  292: text: Pellegrini, M. 2023. Ritorno al futuro. The Journal of Cultural Heritage Crime , 01 January, [online
+  293: text: Pellegrini, M and Rizzo, D. 2021. The Italian Archaeological Heritage Abroad Between Agreements, Deb
+  294: text: Pellegrino, MA, Scarano, V and Spagnuolo, C. 2022. Move cultural heritage knowledge graphs in everyo
+  295: text: Perry, BL, Pescosolido, BA and Borgatti, SP. 2018. Egocentric Network Analysis: Foundations, Methods
+  296: text: Phoenix Ancient Art. 2023a. Graeco Roman Bronze Statuette of Dionysus . Phoenix Ancient Art. Availab
+  297: text: Phoenix Ancient Art. 2023b. Works of Art . Phoenix Ancient Art. Available at https://phoenixancienta
+  298: text: Ramasco, JJ and Morris, SA. 2006. Social inertia in collaboration networks. Phisical reviewe , 73. D
+  299: text: Richardson, L. 2019. Beautiful Soup Documentation , 24 December. Available at https://readthedocs.or
+  300: text: RITHMS. 2023. Research, Intelligence and technology for heritage and market security . European Comm
+  301: text: Rogers, F, Vere-Hodge, T and Dimmek, A. 2021. New York art dealers charged with fabricating provenan
+  302: text: Roodt, C. 2016. Stolen Art Databases and Due Diligence. In: 6th International Conference of Experts 
+  303: text: Rush, L and Millington, LB. 2015. The Carabinieri Command for the Protection of Cultural Property: S
+  304: text: Ryan, YC and Ahnert, SE. 2021. The Measure of the Archive: The Robustness of Network Analysis in Ear
+  305: text: SeatGeek. 2023. TheFuzz. GitHub . Available at https://github. com/seatgeek/thefuzz [Last accessed 2
+  306: text: Singhal, A. 2012. Introducing the Knowledge Graph: things, not strings , 16 May. Available at https:
+  307: text: Smith, J. 2018. Toward 'Big Data' in Museum Provenance. In: Schiuma, G and Carlucci, D (eds.), Big D
+  308: text: Sotheby's. 2019. The untold story of Stephen Junkunc III, one of the great Chinese art collectors , 
+  309: text: The Value. 2018. Sotheby's Withdrew Chinese Buddha Statue Which Could Be Lost Relic From Longmen Gro
+  310: text: Trafficking Culture. 2023. Encyclopedia . Available at: https:// traffickingculture.org/encyclopedia
+  311: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  312: page_header: 113
+  313: text: Tribunale di Roma. 2004. Sentenza N. 40402/00 R.G. notizie di reato N.3553/01 R.G. G.I.P, 13 dicembr
+  314: text: Trouillon, T, Welbl, J, Riedel, S, Gaussier, E and Bouchard, G, 2016. Complex embeddings for simple 
+  315: text: Tsirogiannis, C. 2015a. 'Due Diligence'? Christie's antiquities auction, London, October 2015. Journ
+  316: text: Tsirogiannis, C. 2015b. Mapping the supply: usual suspects and identified antiquities in 'reputable'
+  317: text: Tsirogiannis, C. 2016. Something is Confidential in the State of Christie's. In: Charney, N (ed.), A
+  318: text: Tsirogiannis, C. 2021. The antiquities market we deserve: 'Royal-Athena Galleries' (1942-2020). Acta
+  319: text: Tsirogiannis, C and Tsirogiannis, C. 2016. Uncovering the Hidden Routes: Algorithms for Identifying 
+  320: text: U.S. Department of Commerce and National Institute of Standards and Technology. 2015. Secure Hash St
+  321: text: UNESCO. 2021. Follow-up to the Recommendations of the Working Group established by the Eighth Sessio
+  322: text: UNESCO. 2022a. Presentation of the procedures to be followed for the restitution of cultural propert
+  323: text: UNESCO. 2022b. Report on the results of the consultations with the art market on the revisions to th
+  324: text: Wang, Y, Zhao, Y, Schutte, D, Bian, J and Zhang, R. 2021. Deep learning models in detection of dieta
+  325: text: Watson, P and Todeschini, C. 2007. The Medici Conspiracy: The Illicit Journey of Looted Antiquities 
+  326: text: Wilkinson, MD, Dumontier, M, Aalbersberg, IJ, Appleton, G, Axton, M, Baak, A, Blomberg, N, Boiten, J
+  327: text: Williams, P and Godson, R. 2002. Anticipating organized and transnational crime. Crime, Law & Social
+  328: text: Yates, D. 2015. Value and doubt: the persuasive power of 'authenticity' in the antiquities market. P
+  329: text: Yates, D. 2022. What auction catalogues analysis cannot tell us about the market. In: Fabiani, MD, B
+  330: text: Yogev, T and Grund, T. 2012. Network Dynamics and Market Structure: The Case of Art Fairs. Sociologi
+  331: text: Yu, S, Xu, C, Bai, X, Kuncheerathodi, R, Firmin, S and Xia, F. 2022. Deep Learning Meets Knowledge G
+  332: text: Zhang, Z, Yu, B, Liu, T, Wang, Y and Guo, L. 2023. Learning structural co-occurrences for structured
+  333: page_header: Giovanelli and Traviglia Journal of Computer Applications in Archaeology DOI: 10.5334/jcaa.130
+  334: page_header: 114
+  335: section_header: TO CITE THIS ARTICLE:
+  336: text: Giovanelli, R and Traviglia, A. 2024. AIKoGAM: An AI-driven Knowledge Graph of the Antiquities Marke
+  337: key_value_area with name=group
+   338: text: Submitted: 26 July 2023 Accepted: 16 December 2023 Published: 15 January 2024
+  339: section_header: COPYRIGHT:
+  340: text: © 2024 The Author(s). This is an open-access article distributed under the terms of the Creative Com
+  341: text: Journal of Computer Applications in Archaeology is a peer-reviewed open access journal published by 
+  342: picture

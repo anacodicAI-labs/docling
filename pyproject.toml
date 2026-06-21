@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paper-extract"
+version = "0.2.0"
+description = "Extract academic PDFs to structured Docling JSON with figures, tables, and links"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "docling>=2.0.0",
+  "pymupdf>=1.24.0",
+]
+
+[project.optional-dependencies]
+platform = [
+  "fastapi>=0.115.0",
+  "uvicorn[standard]>=0.32.0",
+  "sqlalchemy>=2.0.0",
+  "arq>=0.26.0",
+  "redis>=5.0.0",
+  "python-multipart>=0.0.12",
+  "pydantic-settings>=2.0.0",
+  "httpx>=0.27.0",
+]
+dev = [
+  "pytest>=8.0.0",
+  "pytest-asyncio>=0.24.0",
+]
+
+[project.scripts]
+extract-paper = "paper_extract.cli:main"
+paper-extract-api = "paper_extract_api.main:run"
+paper-extract-worker = "paper_extract_worker.main:run"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+filterwarnings = ["ignore::DeprecationWarning"]

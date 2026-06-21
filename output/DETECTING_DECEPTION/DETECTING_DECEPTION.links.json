@@ -1,0 +1,86 @@
+[
+  {
+    "page_no": 1,
+    "kind": 2,
+    "uri": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "file": null,
+    "page": null,
+    "xref": 18,
+    "bbox": {
+      "l": 184.24,
+      "t": 329.27,
+      "r": 462.51,
+      "b": 341.27
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 2,
+    "uri": "http://hdl.handle.net/10034/628636",
+    "file": null,
+    "page": null,
+    "xref": 20,
+    "bbox": {
+      "l": 184.24,
+      "t": 364.52,
+      "r": 371.13,
+      "b": 376.52
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 2,
+    "uri": "http://www.lsiscan.com/intro_to_scan.htm",
+    "file": null,
+    "page": null,
+    "xref": 59,
+    "bbox": {
+      "l": 296.3,
+      "t": 672.25,
+      "r": 521.55,
+      "b": 692.95
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 2,
+    "uri": "https://doi.org/10.1002/acp.3802",
+    "file": null,
+    "page": null,
+    "xref": 82,
+    "bbox": {
+      "l": 162.66,
+      "t": 258.28,
+      "r": 339.29,
+      "b": 278.98
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 2,
+    "uri": "https://doi.org/10.1002/acp.3802",
+    "file": null,
+    "page": null,
+    "xref": 85,
+    "bbox": {
+      "l": 318.73,
+      "t": 403.17,
+      "r": 495.37,
+      "b": 423.87
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 2,
+    "uri": "https://doi.org/10.1002/acp.3802",
+    "file": null,
+    "page": null,
+    "xref": 88,
+    "bbox": {
+      "l": 197.34,
+      "t": 465.27,
+      "r": 373.97,
+      "b": 485.96
+    }
+  }
+]

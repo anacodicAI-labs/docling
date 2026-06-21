@@ -1,0 +1,35 @@
+{
+  "source_pdf": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/input/65a4fb5646957.pdf",
+  "stem": "65a4fb5646957",
+  "output_dir": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/65a4fb5646957",
+  "docling_json": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/65a4fb5646957/65a4fb5646957.docling.json",
+  "artifacts_dir": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/65a4fb5646957/65a4fb5646957_artifacts",
+  "links_json": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/65a4fb5646957/65a4fb5646957.links.json",
+  "assets_dir": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/65a4fb5646957/65a4fb5646957.assets",
+  "element_tree_txt": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/65a4fb5646957/65a4fb5646957.elements.txt",
+  "image_mode": "referenced",
+  "counts": {
+    "texts": 317,
+    "tables": 8,
+    "pictures": 14,
+    "pages": 23,
+    "hyperlinks": 445,
+    "tables_exported": 8,
+    "figures_exported": 14
+  },
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "AIKoGAM: An AI-driven Knowledge Graph of the Antiquities Market: Toward Automatised Methods to Identify Illicit Trafficking Networks",
+    "author": "Riccardo Giovanelli and Arianna Traviglia",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign CS5.5 (7.5)",
+    "producer": "Adobe PDF Library 9.9",
+    "creationDate": "D:20240112172440+05'30'",
+    "modDate": "D:20240114203035+05'30'",
+    "trapped": "",
+    "encryption": null,
+    "page_count": 23
+  },
+  "extracted_at": "2026-06-05T18:31:28.292549+00:00"
+}

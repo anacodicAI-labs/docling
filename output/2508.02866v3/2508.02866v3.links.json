@@ -1,0 +1,730 @@
+[
+  {
+    "page_no": 1,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 16,
+    "bbox": {
+      "l": 288.24,
+      "t": 511.83,
+      "r": 295.21,
+      "b": 522.78
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 17,
+    "bbox": {
+      "l": 490.65,
+      "t": 218.49,
+      "r": 497.62,
+      "b": 229.44
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 18,
+    "bbox": {
+      "l": 507.02,
+      "t": 242.4,
+      "r": 513.99,
+      "b": 253.35
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 19,
+    "bbox": {
+      "l": 526.03,
+      "t": 242.4,
+      "r": 533.0,
+      "b": 253.35
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 20,
+    "bbox": {
+      "l": 495.39,
+      "t": 350.0,
+      "r": 502.36,
+      "b": 360.34
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 21,
+    "bbox": {
+      "l": 361.19,
+      "t": 421.73,
+      "r": 368.17,
+      "b": 432.67
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 2,
+    "uri": "https://arxiv.org/abs/2508.02866v3",
+    "file": null,
+    "page": null,
+    "xref": 22,
+    "bbox": {
+      "l": 12.0,
+      "t": 219.35,
+      "r": 32.0,
+      "b": 572.65
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 68,
+    "bbox": {
+      "l": 253.09,
+      "t": 63.08,
+      "r": 260.07,
+      "b": 74.02
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 69,
+    "bbox": {
+      "l": 83.64,
+      "t": 86.98,
+      "r": 90.62,
+      "b": 97.93
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 70,
+    "bbox": {
+      "l": 290.73,
+      "t": 98.94,
+      "r": 297.7,
+      "b": 109.88
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 71,
+    "bbox": {
+      "l": 242.43,
+      "t": 302.39,
+      "r": 254.39,
+      "b": 313.33
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 72,
+    "bbox": {
+      "l": 264.64,
+      "t": 302.39,
+      "r": 276.6,
+      "b": 313.33
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 73,
+    "bbox": {
+      "l": 79.14,
+      "t": 314.34,
+      "r": 91.1,
+      "b": 325.29
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 74,
+    "bbox": {
+      "l": 150.61,
+      "t": 314.34,
+      "r": 162.57,
+      "b": 325.29
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 75,
+    "bbox": {
+      "l": 214.89,
+      "t": 314.34,
+      "r": 221.87,
+      "b": 325.29
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 76,
+    "bbox": {
+      "l": 285.75,
+      "t": 314.34,
+      "r": 297.7,
+      "b": 325.29
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 77,
+    "bbox": {
+      "l": 259.18,
+      "t": 362.16,
+      "r": 266.15,
+      "b": 373.11
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 78,
+    "bbox": {
+      "l": 129.79,
+      "t": 433.89,
+      "r": 141.74,
+      "b": 444.84
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 79,
+    "bbox": {
+      "l": 85.46,
+      "t": 481.61,
+      "r": 97.42,
+      "b": 492.55
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 80,
+    "bbox": {
+      "l": 107.04,
+      "t": 481.61,
+      "r": 119.0,
+      "b": 492.55
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 1,
+    "xref": 81,
+    "bbox": {
+      "l": 144.67,
+      "t": 481.61,
+      "r": 151.64,
+      "b": 492.55
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 82,
+    "bbox": {
+      "l": 538.86,
+      "t": 402.85,
+      "r": 545.84,
+      "b": 413.8
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 83,
+    "bbox": {
+      "l": 438.0,
+      "t": 438.78,
+      "r": 444.97,
+      "b": 449.73
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 1,
+    "xref": 84,
+    "bbox": {
+      "l": 457.63,
+      "t": 522.47,
+      "r": 464.6,
+      "b": 533.41
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 85,
+    "bbox": {
+      "l": 523.94,
+      "t": 611.32,
+      "r": 530.91,
+      "b": 625.27
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 86,
+    "bbox": {
+      "l": 469.81,
+      "t": 672.79,
+      "r": 481.77,
+      "b": 683.73
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 87,
+    "bbox": {
+      "l": 359.49,
+      "t": 696.7,
+      "r": 371.45,
+      "b": 707.64
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 90,
+    "bbox": {
+      "l": 180.6,
+      "t": 51.12,
+      "r": 192.55,
+      "b": 62.06
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 91,
+    "bbox": {
+      "l": 192.29,
+      "t": 75.03,
+      "r": 204.25,
+      "b": 85.97
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 92,
+    "bbox": {
+      "l": 138.6,
+      "t": 146.76,
+      "r": 150.56,
+      "b": 157.71
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 93,
+    "bbox": {
+      "l": 162.61,
+      "t": 146.76,
+      "r": 174.56,
+      "b": 157.71
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 94,
+    "bbox": {
+      "l": 75.25,
+      "t": 170.67,
+      "r": 87.2,
+      "b": 181.61
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 2,
+    "xref": 95,
+    "bbox": {
+      "l": 279.03,
+      "t": 229.27,
+      "r": 286.01,
+      "b": 240.22
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 96,
+    "bbox": {
+      "l": 97.21,
+      "t": 696.7,
+      "r": 109.17,
+      "b": 707.64
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 97,
+    "bbox": {
+      "l": 404.78,
+      "t": 648.85,
+      "r": 411.75,
+      "b": 659.82
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 101,
+    "bbox": {
+      "l": 238.65,
+      "t": 86.98,
+      "r": 250.6,
+      "b": 97.93
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 3,
+    "xref": 102,
+    "bbox": {
+      "l": 186.13,
+      "t": 493.46,
+      "r": 193.1,
+      "b": 504.4
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 103,
+    "bbox": {
+      "l": 474.0,
+      "t": 337.74,
+      "r": 485.95,
+      "b": 348.69
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 1,
+    "xref": 104,
+    "bbox": {
+      "l": 554.57,
+      "t": 397.52,
+      "r": 561.54,
+      "b": 408.46
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 105,
+    "bbox": {
+      "l": 496.29,
+      "t": 481.21,
+      "r": 508.24,
+      "b": 492.15
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 4,
+    "xref": 106,
+    "bbox": {
+      "l": 495.39,
+      "t": 684.67,
+      "r": 502.36,
+      "b": 695.69
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 4,
+    "xref": 112,
+    "bbox": {
+      "l": 426.17,
+      "t": 122.85,
+      "r": 433.14,
+      "b": 133.79
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 2,
+    "uri": "https://www.w3.org/TR/prov-overview",
+    "file": null,
+    "page": null,
+    "xref": 115,
+    "bbox": {
+      "l": 281.31,
+      "t": 368.6,
+      "r": 301.02,
+      "b": 377.76
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 2,
+    "uri": "https://www.w3.org/TR/prov-overview",
+    "file": null,
+    "page": null,
+    "xref": 116,
+    "bbox": {
+      "l": 66.23,
+      "t": 377.57,
+      "r": 175.08,
+      "b": 386.72
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 2,
+    "uri": "https://modelcontextprotocol.io/introduction",
+    "file": null,
+    "page": null,
+    "xref": 117,
+    "bbox": {
+      "l": 155.68,
+      "t": 386.59,
+      "r": 299.03,
+      "b": 395.74
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 2,
+    "uri": "https://github.com/ORNL/flowcept",
+    "file": null,
+    "page": null,
+    "xref": 118,
+    "bbox": {
+      "l": 159.42,
+      "t": 404.57,
+      "r": 272.71,
+      "b": 413.73
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 2,
+    "uri": "https://www.crewai.com/",
+    "file": null,
+    "page": null,
+    "xref": 119,
+    "bbox": {
+      "l": 103.0,
+      "t": 530.37,
+      "r": 184.77,
+      "b": 539.52
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 2,
+    "uri": "https://w3id.org/fair4ml",
+    "file": null,
+    "page": null,
+    "xref": 120,
+    "bbox": {
+      "l": 362.24,
+      "t": 151.11,
+      "r": 440.39,
+      "b": 160.26
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 2,
+    "uri": "https://intersect-architecture.readthedocs.io/en/latest/examples/aam/index.html",
+    "file": null,
+    "page": null,
+    "xref": 121,
+    "bbox": {
+      "l": 329.24,
+      "t": 276.64,
+      "r": 564.03,
+      "b": 285.79
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 2,
+    "uri": "https://intersect-architecture.readthedocs.io/en/latest/examples/aam/index.html",
+    "file": null,
+    "page": null,
+    "xref": 122,
+    "bbox": {
+      "l": 329.24,
+      "t": 285.6,
+      "r": 365.43,
+      "b": 293.12
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/s00170-021-07682-3",
+    "file": null,
+    "page": null,
+    "xref": 123,
+    "bbox": {
+      "l": 486.9,
+      "t": 321.47,
+      "r": 564.03,
+      "b": 330.62
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 2,
+    "uri": "https://doi.org/10.1007/s00170-021-07682-3",
+    "file": null,
+    "page": null,
+    "xref": 124,
+    "bbox": {
+      "l": 329.24,
+      "t": 330.44,
+      "r": 399.58,
+      "b": 338.86
+    }
+  }
+]

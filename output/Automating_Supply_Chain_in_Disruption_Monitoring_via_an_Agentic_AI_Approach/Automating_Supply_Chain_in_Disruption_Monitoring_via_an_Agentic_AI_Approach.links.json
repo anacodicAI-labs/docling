@@ -1,0 +1,3698 @@
+[
+  {
+    "page_no": 1,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 16,
+    "bbox": {
+      "l": 291.11,
+      "t": 670.29,
+      "r": 431.33,
+      "b": 683.19
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 17,
+    "bbox": {
+      "l": 433.84,
+      "t": 670.29,
+      "r": 457.65,
+      "b": 683.19
+    }
+  },
+  {
+    "page_no": 1,
+    "kind": 2,
+    "uri": "https://arxiv.org/abs/2601.09680v1",
+    "file": null,
+    "page": null,
+    "xref": 18,
+    "bbox": {
+      "l": 12.0,
+      "t": 251.53,
+      "r": 32.0,
+      "b": 590.36
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 178,
+    "bbox": {
+      "l": 193.37,
+      "t": 105.41,
+      "r": 279.91,
+      "b": 118.31
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 179,
+    "bbox": {
+      "l": 281.97,
+      "t": 105.41,
+      "r": 305.78,
+      "b": 118.31
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 180,
+    "bbox": {
+      "l": 97.65,
+      "t": 196.07,
+      "r": 159.24,
+      "b": 208.97
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 181,
+    "bbox": {
+      "l": 161.03,
+      "t": 196.07,
+      "r": 184.84,
+      "b": 208.97
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 182,
+    "bbox": {
+      "l": 423.95,
+      "t": 390.34,
+      "r": 501.87,
+      "b": 403.24
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 183,
+    "bbox": {
+      "l": 93.4,
+      "t": 403.29,
+      "r": 109.94,
+      "b": 416.2
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 184,
+    "bbox": {
+      "l": 111.0,
+      "t": 403.29,
+      "r": 134.81,
+      "b": 416.2
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 185,
+    "bbox": {
+      "l": 160.87,
+      "t": 442.15,
+      "r": 228.02,
+      "b": 455.05
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 186,
+    "bbox": {
+      "l": 229.27,
+      "t": 442.15,
+      "r": 253.08,
+      "b": 455.05
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 187,
+    "bbox": {
+      "l": 309.35,
+      "t": 493.95,
+      "r": 370.35,
+      "b": 506.86
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 188,
+    "bbox": {
+      "l": 372.93,
+      "t": 493.95,
+      "r": 396.74,
+      "b": 506.86
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 189,
+    "bbox": {
+      "l": 402.36,
+      "t": 493.95,
+      "r": 468.2,
+      "b": 506.86
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 190,
+    "bbox": {
+      "l": 470.79,
+      "t": 493.95,
+      "r": 494.6,
+      "b": 506.86
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 191,
+    "bbox": {
+      "l": 133.69,
+      "t": 584.61,
+      "r": 201.69,
+      "b": 597.52
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 192,
+    "bbox": {
+      "l": 204.44,
+      "t": 584.61,
+      "r": 228.25,
+      "b": 597.52
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 193,
+    "bbox": {
+      "l": 234.03,
+      "t": 584.61,
+      "r": 317.02,
+      "b": 597.52
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 194,
+    "bbox": {
+      "l": 319.78,
+      "t": 584.61,
+      "r": 343.59,
+      "b": 597.52
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 195,
+    "bbox": {
+      "l": 349.37,
+      "t": 584.61,
+      "r": 397.51,
+      "b": 597.52
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 196,
+    "bbox": {
+      "l": 400.27,
+      "t": 584.61,
+      "r": 424.08,
+      "b": 597.52
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 197,
+    "bbox": {
+      "l": 264.85,
+      "t": 688.23,
+      "r": 305.98,
+      "b": 701.13
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 198,
+    "bbox": {
+      "l": 307.87,
+      "t": 688.23,
+      "r": 331.68,
+      "b": 701.13
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 199,
+    "bbox": {
+      "l": 336.6,
+      "t": 688.23,
+      "r": 421.54,
+      "b": 701.13
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 200,
+    "bbox": {
+      "l": 423.43,
+      "t": 688.23,
+      "r": 447.24,
+      "b": 701.13
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 201,
+    "bbox": {
+      "l": 452.17,
+      "t": 688.23,
+      "r": 501.87,
+      "b": 701.13
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 202,
+    "bbox": {
+      "l": 93.4,
+      "t": 701.18,
+      "r": 141.28,
+      "b": 714.08
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 203,
+    "bbox": {
+      "l": 141.92,
+      "t": 701.18,
+      "r": 165.73,
+      "b": 714.08
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 204,
+    "bbox": {
+      "l": 169.41,
+      "t": 701.18,
+      "r": 225.67,
+      "b": 714.08
+    }
+  },
+  {
+    "page_no": 2,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 205,
+    "bbox": {
+      "l": 226.32,
+      "t": 701.18,
+      "r": 250.13,
+      "b": 714.08
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 208,
+    "bbox": {
+      "l": 150.46,
+      "t": 92.46,
+      "r": 191.09,
+      "b": 105.36
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 209,
+    "bbox": {
+      "l": 192.74,
+      "t": 92.46,
+      "r": 216.55,
+      "b": 105.36
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 210,
+    "bbox": {
+      "l": 353.44,
+      "t": 183.12,
+      "r": 414.33,
+      "b": 196.02
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 211,
+    "bbox": {
+      "l": 415.73,
+      "t": 183.12,
+      "r": 439.54,
+      "b": 196.02
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 212,
+    "bbox": {
+      "l": 443.97,
+      "t": 183.12,
+      "r": 501.87,
+      "b": 196.02
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 213,
+    "bbox": {
+      "l": 93.4,
+      "t": 196.07,
+      "r": 121.36,
+      "b": 208.97
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 214,
+    "bbox": {
+      "l": 124.72,
+      "t": 196.07,
+      "r": 148.53,
+      "b": 208.97
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 215,
+    "bbox": {
+      "l": 271.01,
+      "t": 351.49,
+      "r": 311.04,
+      "b": 364.39
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 216,
+    "bbox": {
+      "l": 313.0,
+      "t": 351.49,
+      "r": 336.81,
+      "b": 364.39
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 217,
+    "bbox": {
+      "l": 414.98,
+      "t": 481.0,
+      "r": 501.87,
+      "b": 493.9
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 218,
+    "bbox": {
+      "l": 93.4,
+      "t": 493.95,
+      "r": 117.21,
+      "b": 506.86
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 219,
+    "bbox": {
+      "l": 121.71,
+      "t": 493.95,
+      "r": 177.97,
+      "b": 506.86
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 220,
+    "bbox": {
+      "l": 179.44,
+      "t": 493.95,
+      "r": 203.25,
+      "b": 506.86
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 221,
+    "bbox": {
+      "l": 444.21,
+      "t": 532.81,
+      "r": 501.87,
+      "b": 545.71
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 222,
+    "bbox": {
+      "l": 93.4,
+      "t": 545.76,
+      "r": 119.86,
+      "b": 558.66
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 223,
+    "bbox": {
+      "l": 121.73,
+      "t": 545.76,
+      "r": 145.54,
+      "b": 558.66
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 224,
+    "bbox": {
+      "l": 150.44,
+      "t": 545.76,
+      "r": 211.85,
+      "b": 558.66
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 225,
+    "bbox": {
+      "l": 213.71,
+      "t": 545.76,
+      "r": 243.59,
+      "b": 558.66
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 226,
+    "bbox": {
+      "l": 248.48,
+      "t": 545.76,
+      "r": 296.98,
+      "b": 558.66
+    }
+  },
+  {
+    "page_no": 3,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 227,
+    "bbox": {
+      "l": 298.85,
+      "t": 545.76,
+      "r": 322.66,
+      "b": 558.66
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 4,
+    "xref": 230,
+    "bbox": {
+      "l": 358.97,
+      "t": 590.2,
+      "r": 404.79,
+      "b": 601.89
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 7,
+    "xref": 231,
+    "bbox": {
+      "l": 333.98,
+      "t": 603.15,
+      "r": 380.42,
+      "b": 614.84
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 232,
+    "bbox": {
+      "l": 244.3,
+      "t": 616.1,
+      "r": 290.8,
+      "b": 627.79
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 26,
+    "xref": 233,
+    "bbox": {
+      "l": 480.48,
+      "t": 629.06,
+      "r": 501.87,
+      "b": 640.74
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 26,
+    "xref": 234,
+    "bbox": {
+      "l": 93.4,
+      "t": 642.01,
+      "r": 124.6,
+      "b": 653.7
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 35,
+    "xref": 235,
+    "bbox": {
+      "l": 406.06,
+      "t": 654.96,
+      "r": 452.73,
+      "b": 666.65
+    }
+  },
+  {
+    "page_no": 4,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 36,
+    "xref": 236,
+    "bbox": {
+      "l": 396.32,
+      "t": 667.91,
+      "r": 442.44,
+      "b": 679.6
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 239,
+    "bbox": {
+      "l": 352.2,
+      "t": 239.91,
+      "r": 433.17,
+      "b": 252.81
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 240,
+    "bbox": {
+      "l": 440.35,
+      "t": 239.91,
+      "r": 464.16,
+      "b": 252.81
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 241,
+    "bbox": {
+      "l": 450.14,
+      "t": 266.42,
+      "r": 501.87,
+      "b": 278.11
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 242,
+    "bbox": {
+      "l": 97.65,
+      "t": 278.76,
+      "r": 121.46,
+      "b": 291.66
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 243,
+    "bbox": {
+      "l": 186.76,
+      "t": 304.66,
+      "r": 258.45,
+      "b": 317.57
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 244,
+    "bbox": {
+      "l": 264.53,
+      "t": 304.66,
+      "r": 288.35,
+      "b": 317.57
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 245,
+    "bbox": {
+      "l": 134.26,
+      "t": 356.47,
+      "r": 217.23,
+      "b": 369.37
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 246,
+    "bbox": {
+      "l": 224.22,
+      "t": 356.47,
+      "r": 248.03,
+      "b": 369.37
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 247,
+    "bbox": {
+      "l": 283.11,
+      "t": 382.37,
+      "r": 328.31,
+      "b": 395.27
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 248,
+    "bbox": {
+      "l": 333.83,
+      "t": 382.37,
+      "r": 357.64,
+      "b": 395.27
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 249,
+    "bbox": {
+      "l": 379.84,
+      "t": 395.32,
+      "r": 447.84,
+      "b": 408.23
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 250,
+    "bbox": {
+      "l": 454.83,
+      "t": 395.32,
+      "r": 478.64,
+      "b": 408.23
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 251,
+    "bbox": {
+      "l": 404.27,
+      "t": 434.18,
+      "r": 467.14,
+      "b": 447.08
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 252,
+    "bbox": {
+      "l": 473.82,
+      "t": 434.18,
+      "r": 497.63,
+      "b": 447.08
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 253,
+    "bbox": {
+      "l": 345.21,
+      "t": 460.08,
+      "r": 414.95,
+      "b": 472.98
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 254,
+    "bbox": {
+      "l": 416.51,
+      "t": 460.08,
+      "r": 440.32,
+      "b": 472.98
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 255,
+    "bbox": {
+      "l": 444.92,
+      "t": 460.08,
+      "r": 501.87,
+      "b": 472.98
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 256,
+    "bbox": {
+      "l": 93.4,
+      "t": 473.03,
+      "r": 117.21,
+      "b": 485.93
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 257,
+    "bbox": {
+      "l": 121.99,
+      "t": 473.03,
+      "r": 177.89,
+      "b": 485.93
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 258,
+    "bbox": {
+      "l": 179.64,
+      "t": 473.03,
+      "r": 203.45,
+      "b": 485.93
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 259,
+    "bbox": {
+      "l": 331.23,
+      "t": 672.29,
+      "r": 387.5,
+      "b": 685.19
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 260,
+    "bbox": {
+      "l": 390.22,
+      "t": 672.29,
+      "r": 414.03,
+      "b": 685.19
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 261,
+    "bbox": {
+      "l": 173.14,
+      "t": 711.14,
+      "r": 256.79,
+      "b": 724.04
+    }
+  },
+  {
+    "page_no": 5,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 262,
+    "bbox": {
+      "l": 258.03,
+      "t": 711.14,
+      "r": 281.85,
+      "b": 724.04
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 265,
+    "bbox": {
+      "l": 405.92,
+      "t": 93.07,
+      "r": 501.87,
+      "b": 104.76
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 266,
+    "bbox": {
+      "l": 97.65,
+      "t": 105.41,
+      "r": 121.46,
+      "b": 118.31
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 267,
+    "bbox": {
+      "l": 124.06,
+      "t": 118.36,
+      "r": 184.86,
+      "b": 131.26
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 268,
+    "bbox": {
+      "l": 191.34,
+      "t": 118.36,
+      "r": 215.15,
+      "b": 131.26
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 269,
+    "bbox": {
+      "l": 144.88,
+      "t": 144.27,
+      "r": 211.6,
+      "b": 157.17
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 270,
+    "bbox": {
+      "l": 218.87,
+      "t": 144.27,
+      "r": 242.68,
+      "b": 157.17
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 271,
+    "bbox": {
+      "l": 458.45,
+      "t": 170.77,
+      "r": 501.87,
+      "b": 182.46
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 272,
+    "bbox": {
+      "l": 97.65,
+      "t": 183.12,
+      "r": 121.46,
+      "b": 196.02
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 273,
+    "bbox": {
+      "l": 205.71,
+      "t": 196.07,
+      "r": 264.11,
+      "b": 208.97
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 274,
+    "bbox": {
+      "l": 269.41,
+      "t": 196.07,
+      "r": 293.22,
+      "b": 208.97
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 275,
+    "bbox": {
+      "l": 398.2,
+      "t": 209.02,
+      "r": 501.87,
+      "b": 221.92
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 276,
+    "bbox": {
+      "l": 93.4,
+      "t": 221.97,
+      "r": 117.21,
+      "b": 234.88
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 277,
+    "bbox": {
+      "l": 122.51,
+      "t": 221.97,
+      "r": 194.93,
+      "b": 234.88
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 278,
+    "bbox": {
+      "l": 197.2,
+      "t": 221.97,
+      "r": 221.01,
+      "b": 234.88
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 279,
+    "bbox": {
+      "l": 357.93,
+      "t": 221.97,
+      "r": 403.29,
+      "b": 234.88
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 280,
+    "bbox": {
+      "l": 405.57,
+      "t": 221.97,
+      "r": 429.38,
+      "b": 234.88
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 281,
+    "bbox": {
+      "l": 154.57,
+      "t": 234.93,
+      "r": 203.88,
+      "b": 247.83
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 282,
+    "bbox": {
+      "l": 205.47,
+      "t": 234.93,
+      "r": 229.28,
+      "b": 247.83
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 283,
+    "bbox": {
+      "l": 431.01,
+      "t": 234.93,
+      "r": 501.87,
+      "b": 247.83
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 284,
+    "bbox": {
+      "l": 93.4,
+      "t": 247.88,
+      "r": 121.06,
+      "b": 260.78
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 285,
+    "bbox": {
+      "l": 127.02,
+      "t": 247.88,
+      "r": 150.83,
+      "b": 260.78
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 286,
+    "bbox": {
+      "l": 166.47,
+      "t": 260.83,
+      "r": 204.95,
+      "b": 273.73
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 287,
+    "bbox": {
+      "l": 209.76,
+      "t": 260.83,
+      "r": 233.57,
+      "b": 273.73
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 288,
+    "bbox": {
+      "l": 344.65,
+      "t": 273.78,
+      "r": 388.76,
+      "b": 286.68
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 289,
+    "bbox": {
+      "l": 394.65,
+      "t": 273.78,
+      "r": 418.46,
+      "b": 286.68
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 290,
+    "bbox": {
+      "l": 97.65,
+      "t": 325.59,
+      "r": 136.91,
+      "b": 338.49
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 291,
+    "bbox": {
+      "l": 139.27,
+      "t": 325.59,
+      "r": 163.08,
+      "b": 338.49
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 292,
+    "bbox": {
+      "l": 368.15,
+      "t": 351.49,
+      "r": 415.99,
+      "b": 364.39
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 293,
+    "bbox": {
+      "l": 418.36,
+      "t": 351.49,
+      "r": 442.17,
+      "b": 364.39
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 294,
+    "bbox": {
+      "l": 97.65,
+      "t": 403.29,
+      "r": 168.98,
+      "b": 416.2
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 295,
+    "bbox": {
+      "l": 172.01,
+      "t": 403.29,
+      "r": 195.82,
+      "b": 416.2
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 296,
+    "bbox": {
+      "l": 464.42,
+      "t": 511.89,
+      "r": 501.87,
+      "b": 524.79
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 297,
+    "bbox": {
+      "l": 93.4,
+      "t": 524.84,
+      "r": 119.82,
+      "b": 537.74
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 298,
+    "bbox": {
+      "l": 121.64,
+      "t": 524.84,
+      "r": 145.45,
+      "b": 537.74
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 299,
+    "bbox": {
+      "l": 150.3,
+      "t": 524.84,
+      "r": 218.41,
+      "b": 537.74
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 300,
+    "bbox": {
+      "l": 220.24,
+      "t": 524.84,
+      "r": 244.04,
+      "b": 537.74
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 301,
+    "bbox": {
+      "l": 97.65,
+      "t": 576.64,
+      "r": 161.61,
+      "b": 589.55
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 302,
+    "bbox": {
+      "l": 165.15,
+      "t": 576.64,
+      "r": 188.96,
+      "b": 589.55
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 303,
+    "bbox": {
+      "l": 452.49,
+      "t": 616.1,
+      "r": 501.87,
+      "b": 627.79
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 304,
+    "bbox": {
+      "l": 93.4,
+      "t": 628.45,
+      "r": 111.31,
+      "b": 641.35
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 305,
+    "bbox": {
+      "l": 117.64,
+      "t": 628.45,
+      "r": 141.45,
+      "b": 641.35
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 306,
+    "bbox": {
+      "l": 183.22,
+      "t": 654.35,
+      "r": 225.65,
+      "b": 667.25
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 307,
+    "bbox": {
+      "l": 232.89,
+      "t": 654.35,
+      "r": 256.7,
+      "b": 667.25
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 308,
+    "bbox": {
+      "l": 345.35,
+      "t": 667.3,
+      "r": 413.23,
+      "b": 680.21
+    }
+  },
+  {
+    "page_no": 6,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 309,
+    "bbox": {
+      "l": 419.56,
+      "t": 667.3,
+      "r": 443.37,
+      "b": 680.21
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 363,
+    "bbox": {
+      "l": 309.06,
+      "t": 209.02,
+      "r": 346.24,
+      "b": 221.92
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 364,
+    "bbox": {
+      "l": 347.21,
+      "t": 209.02,
+      "r": 371.02,
+      "b": 221.92
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 365,
+    "bbox": {
+      "l": 364.8,
+      "t": 221.97,
+      "r": 422.98,
+      "b": 234.88
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 366,
+    "bbox": {
+      "l": 425.37,
+      "t": 221.97,
+      "r": 449.18,
+      "b": 234.88
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 367,
+    "bbox": {
+      "l": 454.6,
+      "t": 221.97,
+      "r": 501.87,
+      "b": 234.88
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 368,
+    "bbox": {
+      "l": 93.4,
+      "t": 234.93,
+      "r": 117.21,
+      "b": 247.83
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 369,
+    "bbox": {
+      "l": 226.08,
+      "t": 247.88,
+      "r": 285.9,
+      "b": 260.78
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 370,
+    "bbox": {
+      "l": 289.08,
+      "t": 247.88,
+      "r": 312.89,
+      "b": 260.78
+    }
+  },
+  {
+    "page_no": 7,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 6,
+    "xref": 371,
+    "bbox": {
+      "l": 123.71,
+      "t": 331.17,
+      "r": 131.15,
+      "b": 342.86
+    }
+  },
+  {
+    "page_no": 8,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 7,
+    "xref": 374,
+    "bbox": {
+      "l": 171.38,
+      "t": 592.32,
+      "r": 213.13,
+      "b": 605.22
+    }
+  },
+  {
+    "page_no": 9,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 8,
+    "xref": 377,
+    "bbox": {
+      "l": 169.24,
+      "t": 234.93,
+      "r": 211.76,
+      "b": 247.83
+    }
+  },
+  {
+    "page_no": 9,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 378,
+    "bbox": {
+      "l": 97.65,
+      "t": 299.68,
+      "r": 141.06,
+      "b": 312.58
+    }
+  },
+  {
+    "page_no": 9,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 379,
+    "bbox": {
+      "l": 142.92,
+      "t": 299.68,
+      "r": 166.73,
+      "b": 312.58
+    }
+  },
+  {
+    "page_no": 9,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 380,
+    "bbox": {
+      "l": 171.61,
+      "t": 299.68,
+      "r": 294.57,
+      "b": 312.58
+    }
+  },
+  {
+    "page_no": 9,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 381,
+    "bbox": {
+      "l": 296.43,
+      "t": 299.68,
+      "r": 320.24,
+      "b": 312.58
+    }
+  },
+  {
+    "page_no": 9,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 9,
+    "xref": 382,
+    "bbox": {
+      "l": 221.13,
+      "t": 567.01,
+      "r": 262.52,
+      "b": 578.7
+    }
+  },
+  {
+    "page_no": 9,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 8,
+    "xref": 383,
+    "bbox": {
+      "l": 286.95,
+      "t": 617.29,
+      "r": 293.67,
+      "b": 630.5
+    }
+  },
+  {
+    "page_no": 9,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 10,
+    "xref": 384,
+    "bbox": {
+      "l": 344.16,
+      "t": 683.57,
+      "r": 398.27,
+      "b": 695.26
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 387,
+    "bbox": {
+      "l": 124.21,
+      "t": 196.07,
+      "r": 163.2,
+      "b": 208.97
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 388,
+    "bbox": {
+      "l": 164.71,
+      "t": 196.07,
+      "r": 188.51,
+      "b": 208.97
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 389,
+    "bbox": {
+      "l": 445.01,
+      "t": 209.02,
+      "r": 501.87,
+      "b": 221.92
+    }
+  },
+  {
+    "page_no": 10,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 390,
+    "bbox": {
+      "l": 93.4,
+      "t": 221.97,
+      "r": 117.21,
+      "b": 234.88
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 10,
+    "xref": 393,
+    "bbox": {
+      "l": 268.56,
+      "t": 112.99,
+      "r": 305.76,
+      "b": 124.68
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 11,
+    "xref": 394,
+    "bbox": {
+      "l": 195.21,
+      "t": 125.94,
+      "r": 233.01,
+      "b": 137.63
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 10,
+    "xref": 395,
+    "bbox": {
+      "l": 403.53,
+      "t": 240.99,
+      "r": 410.26,
+      "b": 254.2
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 10,
+    "xref": 396,
+    "bbox": {
+      "l": 451.51,
+      "t": 240.99,
+      "r": 458.23,
+      "b": 254.2
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 10,
+    "xref": 397,
+    "bbox": {
+      "l": 110.37,
+      "t": 253.94,
+      "r": 117.1,
+      "b": 267.15
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 2,
+    "uri": "https://www.bloomberg.com/professional/solutions/corporations/supply-chain/",
+    "file": null,
+    "page": null,
+    "xref": 398,
+    "bbox": {
+      "l": 101.87,
+      "t": 693.62,
+      "r": 463.02,
+      "b": 706.28
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 2,
+    "uri": "https://www.factset.com",
+    "file": null,
+    "page": null,
+    "xref": 399,
+    "bbox": {
+      "l": 101.87,
+      "t": 704.28,
+      "r": 213.85,
+      "b": 716.93
+    }
+  },
+  {
+    "page_no": 11,
+    "kind": 2,
+    "uri": "https://panjiva.com/",
+    "file": null,
+    "page": null,
+    "xref": 400,
+    "bbox": {
+      "l": 101.87,
+      "t": 714.94,
+      "r": 199.51,
+      "b": 727.6
+    }
+  },
+  {
+    "page_no": 12,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 9,
+    "xref": 403,
+    "bbox": {
+      "l": 326.79,
+      "t": 659.8,
+      "r": 370.01,
+      "b": 672.7
+    }
+  },
+  {
+    "page_no": 12,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 404,
+    "bbox": {
+      "l": 234.0,
+      "t": 711.61,
+      "r": 265.08,
+      "b": 724.51
+    }
+  },
+  {
+    "page_no": 12,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 405,
+    "bbox": {
+      "l": 267.17,
+      "t": 711.61,
+      "r": 290.98,
+      "b": 724.51
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 11,
+    "xref": 408,
+    "bbox": {
+      "l": 157.71,
+      "t": 196.07,
+      "r": 199.58,
+      "b": 208.97
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 9,
+    "xref": 409,
+    "bbox": {
+      "l": 334.03,
+      "t": 519.41,
+      "r": 376.57,
+      "b": 532.31
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 12,
+    "xref": 410,
+    "bbox": {
+      "l": 133.92,
+      "t": 570.3,
+      "r": 140.65,
+      "b": 584.12
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 411,
+    "bbox": {
+      "l": 147.05,
+      "t": 570.3,
+      "r": 176.31,
+      "b": 584.12
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 412,
+    "bbox": {
+      "l": 178.47,
+      "t": 570.3,
+      "r": 202.28,
+      "b": 584.12
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 413,
+    "bbox": {
+      "l": 168.26,
+      "t": 597.12,
+      "r": 236.79,
+      "b": 610.02
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 414,
+    "bbox": {
+      "l": 237.76,
+      "t": 597.12,
+      "r": 261.57,
+      "b": 610.02
+    }
+  },
+  {
+    "page_no": 13,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 12,
+    "xref": 415,
+    "bbox": {
+      "l": 230.37,
+      "t": 660.96,
+      "r": 237.09,
+      "b": 674.17
+    }
+  },
+  {
+    "page_no": 14,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 12,
+    "xref": 418,
+    "bbox": {
+      "l": 152.62,
+      "t": 106.02,
+      "r": 194.49,
+      "b": 117.71
+    }
+  },
+  {
+    "page_no": 14,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 9,
+    "xref": 419,
+    "bbox": {
+      "l": 276.32,
+      "t": 448.28,
+      "r": 317.2,
+      "b": 461.19
+    }
+  },
+  {
+    "page_no": 14,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 13,
+    "xref": 420,
+    "bbox": {
+      "l": 97.65,
+      "t": 564.85,
+      "r": 139.52,
+      "b": 577.75
+    }
+  },
+  {
+    "page_no": 14,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 9,
+    "xref": 421,
+    "bbox": {
+      "l": 300.61,
+      "t": 614.66,
+      "r": 342.5,
+      "b": 627.56
+    }
+  },
+  {
+    "page_no": 15,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 9,
+    "xref": 424,
+    "bbox": {
+      "l": 283.9,
+      "t": 98.44,
+      "r": 326.89,
+      "b": 111.34
+    }
+  },
+  {
+    "page_no": 15,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 9,
+    "xref": 425,
+    "bbox": {
+      "l": 250.38,
+      "t": 407.28,
+      "r": 293.97,
+      "b": 420.18
+    }
+  },
+  {
+    "page_no": 15,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 9,
+    "xref": 426,
+    "bbox": {
+      "l": 311.15,
+      "t": 664.32,
+      "r": 353.42,
+      "b": 677.22
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 429,
+    "bbox": {
+      "l": 327.57,
+      "t": 157.22,
+      "r": 397.88,
+      "b": 170.12
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 430,
+    "bbox": {
+      "l": 398.99,
+      "t": 157.22,
+      "r": 422.8,
+      "b": 170.12
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 431,
+    "bbox": {
+      "l": 426.94,
+      "t": 157.22,
+      "r": 501.87,
+      "b": 170.12
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 432,
+    "bbox": {
+      "l": 93.4,
+      "t": 170.17,
+      "r": 117.21,
+      "b": 183.07
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 433,
+    "bbox": {
+      "l": 120.96,
+      "t": 170.17,
+      "r": 162.6,
+      "b": 183.07
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 434,
+    "bbox": {
+      "l": 163.32,
+      "t": 170.17,
+      "r": 187.13,
+      "b": 183.07
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 435,
+    "bbox": {
+      "l": 284.31,
+      "t": 183.12,
+      "r": 330.09,
+      "b": 196.02
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 436,
+    "bbox": {
+      "l": 331.74,
+      "t": 183.12,
+      "r": 355.55,
+      "b": 196.02
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 437,
+    "bbox": {
+      "l": 360.22,
+      "t": 183.12,
+      "r": 426.49,
+      "b": 196.02
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 438,
+    "bbox": {
+      "l": 428.13,
+      "t": 183.12,
+      "r": 451.94,
+      "b": 196.02
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 439,
+    "bbox": {
+      "l": 267.96,
+      "t": 278.76,
+      "r": 317.17,
+      "b": 291.66
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 440,
+    "bbox": {
+      "l": 319.39,
+      "t": 278.76,
+      "r": 343.2,
+      "b": 291.66
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 441,
+    "bbox": {
+      "l": 348.45,
+      "t": 278.76,
+      "r": 468.57,
+      "b": 291.66
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 442,
+    "bbox": {
+      "l": 470.79,
+      "t": 278.76,
+      "r": 494.6,
+      "b": 291.66
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 443,
+    "bbox": {
+      "l": 97.65,
+      "t": 343.52,
+      "r": 213.64,
+      "b": 356.42
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 444,
+    "bbox": {
+      "l": 215.28,
+      "t": 343.52,
+      "r": 239.09,
+      "b": 356.42
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 445,
+    "bbox": {
+      "l": 243.77,
+      "t": 343.52,
+      "r": 291.82,
+      "b": 356.42
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 446,
+    "bbox": {
+      "l": 293.46,
+      "t": 343.52,
+      "r": 317.27,
+      "b": 356.42
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 447,
+    "bbox": {
+      "l": 223.55,
+      "t": 382.37,
+      "r": 286.17,
+      "b": 395.27
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 448,
+    "bbox": {
+      "l": 288.64,
+      "t": 382.37,
+      "r": 317.9,
+      "b": 395.27
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 42,
+    "xref": 449,
+    "bbox": {
+      "l": 163.04,
+      "t": 473.03,
+      "r": 227.82,
+      "b": 485.93
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 450,
+    "bbox": {
+      "l": 462.45,
+      "t": 646.38,
+      "r": 501.87,
+      "b": 659.28
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 451,
+    "bbox": {
+      "l": 93.4,
+      "t": 659.33,
+      "r": 118.79,
+      "b": 672.24
+    }
+  },
+  {
+    "page_no": 16,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 452,
+    "bbox": {
+      "l": 119.58,
+      "t": 659.33,
+      "r": 143.39,
+      "b": 672.24
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 455,
+    "bbox": {
+      "l": 364.21,
+      "t": 356.47,
+      "r": 434.74,
+      "b": 369.37
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 456,
+    "bbox": {
+      "l": 440.93,
+      "t": 356.47,
+      "r": 464.74,
+      "b": 369.37
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 457,
+    "bbox": {
+      "l": 343.3,
+      "t": 615.5,
+      "r": 397.33,
+      "b": 628.4
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 458,
+    "bbox": {
+      "l": 398.6,
+      "t": 615.5,
+      "r": 422.41,
+      "b": 628.4
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 459,
+    "bbox": {
+      "l": 426.7,
+      "t": 615.5,
+      "r": 501.87,
+      "b": 628.4
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 39,
+    "xref": 460,
+    "bbox": {
+      "l": 93.4,
+      "t": 628.45,
+      "r": 117.21,
+      "b": 641.35
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 461,
+    "bbox": {
+      "l": 121.99,
+      "t": 628.45,
+      "r": 174.49,
+      "b": 641.35
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 462,
+    "bbox": {
+      "l": 176.23,
+      "t": 628.45,
+      "r": 200.04,
+      "b": 641.35
+    }
+  },
+  {
+    "page_no": 17,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 42,
+    "xref": 463,
+    "bbox": {
+      "l": 252.14,
+      "t": 680.86,
+      "r": 315.2,
+      "b": 692.55
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 18,
+    "xref": 466,
+    "bbox": {
+      "l": 136.43,
+      "t": 294.31,
+      "r": 199.03,
+      "b": 303.88
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 467,
+    "bbox": {
+      "l": 154.51,
+      "t": 399.31,
+      "r": 226.33,
+      "b": 412.21
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 468,
+    "bbox": {
+      "l": 228.94,
+      "t": 399.31,
+      "r": 252.75,
+      "b": 412.21
+    }
+  },
+  {
+    "page_no": 18,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 17,
+    "xref": 469,
+    "bbox": {
+      "l": 365.44,
+      "t": 503.53,
+      "r": 372.89,
+      "b": 515.22
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 22,
+    "xref": 476,
+    "bbox": {
+      "l": 160.74,
+      "t": 313.24,
+      "r": 223.34,
+      "b": 322.81
+    }
+  },
+  {
+    "page_no": 21,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 20,
+    "xref": 477,
+    "bbox": {
+      "l": 123.22,
+      "t": 368.97,
+      "r": 130.67,
+      "b": 380.66
+    }
+  },
+  {
+    "page_no": 24,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 23,
+    "xref": 484,
+    "bbox": {
+      "l": 163.52,
+      "t": 80.11,
+      "r": 200.97,
+      "b": 91.8
+    }
+  },
+  {
+    "page_no": 24,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 23,
+    "xref": 485,
+    "bbox": {
+      "l": 135.84,
+      "t": 428.18,
+      "r": 143.29,
+      "b": 439.87
+    }
+  },
+  {
+    "page_no": 25,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 25,
+    "xref": 488,
+    "bbox": {
+      "l": 134.31,
+      "t": 620.09,
+      "r": 141.76,
+      "b": 631.78
+    }
+  },
+  {
+    "page_no": 26,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 491,
+    "bbox": {
+      "l": 97.65,
+      "t": 299.45,
+      "r": 157.96,
+      "b": 312.35
+    }
+  },
+  {
+    "page_no": 26,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 492,
+    "bbox": {
+      "l": 160.29,
+      "t": 299.45,
+      "r": 184.1,
+      "b": 312.35
+    }
+  },
+  {
+    "page_no": 26,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 493,
+    "bbox": {
+      "l": 338.05,
+      "t": 416.01,
+      "r": 377.92,
+      "b": 428.91
+    }
+  },
+  {
+    "page_no": 26,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 494,
+    "bbox": {
+      "l": 379.19,
+      "t": 416.01,
+      "r": 403.0,
+      "b": 428.91
+    }
+  },
+  {
+    "page_no": 26,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 495,
+    "bbox": {
+      "l": 449.52,
+      "t": 550.5,
+      "r": 501.87,
+      "b": 563.41
+    }
+  },
+  {
+    "page_no": 26,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 41,
+    "xref": 496,
+    "bbox": {
+      "l": 93.4,
+      "t": 563.46,
+      "r": 117.21,
+      "b": 576.36
+    }
+  },
+  {
+    "page_no": 27,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 26,
+    "xref": 499,
+    "bbox": {
+      "l": 186.23,
+      "t": 423.83,
+      "r": 232.65,
+      "b": 435.52
+    }
+  },
+  {
+    "page_no": 28,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 502,
+    "bbox": {
+      "l": 174.0,
+      "t": 79.51,
+      "r": 246.76,
+      "b": 92.41
+    }
+  },
+  {
+    "page_no": 28,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 38,
+    "xref": 503,
+    "bbox": {
+      "l": 249.84,
+      "t": 79.51,
+      "r": 273.65,
+      "b": 92.41
+    }
+  },
+  {
+    "page_no": 28,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 27,
+    "xref": 504,
+    "bbox": {
+      "l": 158.34,
+      "t": 93.07,
+      "r": 200.21,
+      "b": 104.76
+    }
+  },
+  {
+    "page_no": 28,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 28,
+    "xref": 505,
+    "bbox": {
+      "l": 456.47,
+      "t": 507.52,
+      "r": 498.84,
+      "b": 519.21
+    }
+  },
+  {
+    "page_no": 29,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 29,
+    "xref": 508,
+    "bbox": {
+      "l": 106.77,
+      "t": 616.65,
+      "r": 149.29,
+      "b": 628.34
+    }
+  },
+  {
+    "page_no": 30,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 30,
+    "xref": 511,
+    "bbox": {
+      "l": 201.61,
+      "t": 560.55,
+      "r": 247.91,
+      "b": 572.23
+    }
+  },
+  {
+    "page_no": 30,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 31,
+    "xref": 512,
+    "bbox": {
+      "l": 268.74,
+      "t": 560.55,
+      "r": 315.05,
+      "b": 572.23
+    }
+  },
+  {
+    "page_no": 32,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 32,
+    "xref": 517,
+    "bbox": {
+      "l": 480.64,
+      "t": 518.66,
+      "r": 501.87,
+      "b": 531.57
+    }
+  },
+  {
+    "page_no": 32,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 32,
+    "xref": 518,
+    "bbox": {
+      "l": 93.4,
+      "t": 531.61,
+      "r": 126.51,
+      "b": 544.52
+    }
+  },
+  {
+    "page_no": 33,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 33,
+    "xref": 521,
+    "bbox": {
+      "l": 242.11,
+      "t": 573.77,
+      "r": 289.32,
+      "b": 585.46
+    }
+  },
+  {
+    "page_no": 34,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 34,
+    "xref": 524,
+    "bbox": {
+      "l": 97.65,
+      "t": 398.12,
+      "r": 145.48,
+      "b": 411.03
+    }
+  },
+  {
+    "page_no": 35,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 35,
+    "xref": 527,
+    "bbox": {
+      "l": 397.72,
+      "t": 572.85,
+      "r": 445.7,
+      "b": 584.54
+    }
+  },
+  {
+    "page_no": 36,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 530,
+    "bbox": {
+      "l": 97.65,
+      "t": 457.09,
+      "r": 157.76,
+      "b": 469.99
+    }
+  },
+  {
+    "page_no": 36,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 40,
+    "xref": 531,
+    "bbox": {
+      "l": 159.9,
+      "t": 457.09,
+      "r": 183.71,
+      "b": 469.99
+    }
+  },
+  {
+    "page_no": 38,
+    "kind": 4,
+    "uri": null,
+    "file": null,
+    "page": 35,
+    "xref": 536,
+    "bbox": {
+      "l": 271.56,
+      "t": 261.43,
+      "r": 317.04,
+      "b": 273.12
+    }
+  },
+  {
+    "page_no": 40,
+    "kind": 2,
+    "uri": "https://www.crewai.com",
+    "file": null,
+    "page": null,
+    "xref": 541,
+    "bbox": {
+      "l": 335.47,
+      "t": 104.68,
+      "r": 468.97,
+      "b": 115.53
+    }
+  },
+  {
+    "page_no": 40,
+    "kind": 2,
+    "uri": "https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Process-and-Operations/gx-2020-global-outsourcing-survey-how-much-disruption.pdf",
+    "file": null,
+    "page": null,
+    "xref": 542,
+    "bbox": {
+      "l": 296.64,
+      "t": 164.57,
+      "r": 501.87,
+      "b": 175.31
+    }
+  },
+  {
+    "page_no": 40,
+    "kind": 2,
+    "uri": "https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Process-and-Operations/gx-2020-global-outsourcing-survey-how-much-disruption.pdf",
+    "file": null,
+    "page": null,
+    "xref": 543,
+    "bbox": {
+      "l": 104.31,
+      "t": 176.73,
+      "r": 501.87,
+      "b": 186.89
+    }
+  },
+  {
+    "page_no": 40,
+    "kind": 2,
+    "uri": "https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Process-and-Operations/gx-2020-global-outsourcing-survey-how-much-disruption.pdf",
+    "file": null,
+    "page": null,
+    "xref": 544,
+    "bbox": {
+      "l": 104.31,
+      "t": 188.68,
+      "r": 450.52,
+      "b": 198.84
+    }
+  },
+  {
+    "page_no": 40,
+    "kind": 2,
+    "uri": "https://arxiv.org/abs/2202.03629",
+    "file": null,
+    "page": null,
+    "xref": 545,
+    "bbox": {
+      "l": 135.85,
+      "t": 666.69,
+      "r": 329.12,
+      "b": 677.05
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://investors.kinaxis.com/news-releases/news-release-details/2024/New-Research-Finds-83-of-Supply-Chains-Cant-Respond-to-Disruptions-in-24-Hours",
+    "file": null,
+    "page": null,
+    "xref": 548,
+    "bbox": {
+      "l": 464.01,
+      "t": 151.95,
+      "r": 501.87,
+      "b": 163.9
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://investors.kinaxis.com/news-releases/news-release-details/2024/New-Research-Finds-83-of-Supply-Chains-Cant-Respond-to-Disruptions-in-24-Hours",
+    "file": null,
+    "page": null,
+    "xref": 549,
+    "bbox": {
+      "l": 104.31,
+      "t": 164.77,
+      "r": 501.87,
+      "b": 174.86
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://investors.kinaxis.com/news-releases/news-release-details/2024/New-Research-Finds-83-of-Supply-Chains-Cant-Respond-to-Disruptions-in-24-Hours",
+    "file": null,
+    "page": null,
+    "xref": 550,
+    "bbox": {
+      "l": 104.31,
+      "t": 176.73,
+      "r": 579.03,
+      "b": 186.89
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://www.mckinsey.com/mgi/overview/in-the-news/reimagining-supply-chain-resilience",
+    "file": null,
+    "page": null,
+    "xref": 551,
+    "bbox": {
+      "l": 200.0,
+      "t": 236.19,
+      "r": 501.87,
+      "b": 247.04
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://www.mckinsey.com/mgi/overview/in-the-news/reimagining-supply-chain-resilience",
+    "file": null,
+    "page": null,
+    "xref": 552,
+    "bbox": {
+      "l": 104.31,
+      "t": 248.14,
+      "r": 317.02,
+      "b": 258.99
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://arxiv.org/abs/2005.11401",
+    "file": null,
+    "page": null,
+    "xref": 553,
+    "bbox": {
+      "l": 392.28,
+      "t": 355.19,
+      "r": 501.87,
+      "b": 367.14
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://arxiv.org/abs/2005.11401",
+    "file": null,
+    "page": null,
+    "xref": 554,
+    "bbox": {
+      "l": 104.31,
+      "t": 368.31,
+      "r": 189.99,
+      "b": 377.4
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://arxiv.org/abs/2211.09110",
+    "file": null,
+    "page": null,
+    "xref": 555,
+    "bbox": {
+      "l": 304.23,
+      "t": 415.63,
+      "r": 497.5,
+      "b": 426.37
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://arxiv.org/abs/2307.03172",
+    "file": null,
+    "page": null,
+    "xref": 556,
+    "bbox": {
+      "l": 452.06,
+      "t": 487.25,
+      "r": 501.87,
+      "b": 498.1
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://arxiv.org/abs/2307.03172",
+    "file": null,
+    "page": null,
+    "xref": 557,
+    "bbox": {
+      "l": 104.31,
+      "t": 499.52,
+      "r": 249.77,
+      "b": 509.68
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://neo4j.com",
+    "file": null,
+    "page": null,
+    "xref": 558,
+    "bbox": {
+      "l": 347.89,
+      "t": 570.93,
+      "r": 451.5,
+      "b": 581.78
+    }
+  },
+  {
+    "page_no": 41,
+    "kind": 2,
+    "uri": "https://platform.openai.com/docs/pricing",
+    "file": null,
+    "page": null,
+    "xref": 559,
+    "bbox": {
+      "l": 258.01,
+      "t": 582.89,
+      "r": 499.11,
+      "b": 593.74
+    }
+  },
+  {
+    "page_no": 42,
+    "kind": 2,
+    "uri": "https://serper.dev/",
+    "file": null,
+    "page": null,
+    "xref": 562,
+    "bbox": {
+      "l": 259.01,
+      "t": 80.77,
+      "r": 374.58,
+      "b": 91.62
+    }
+  },
+  {
+    "page_no": 42,
+    "kind": 2,
+    "uri": "https://www.tomshardware.com/news/ukraine-neon-gas-production",
+    "file": null,
+    "page": null,
+    "xref": 563,
+    "bbox": {
+      "l": 296.64,
+      "t": 140.55,
+      "r": 501.87,
+      "b": 151.4
+    }
+  },
+  {
+    "page_no": 42,
+    "kind": 2,
+    "uri": "https://www.tomshardware.com/news/ukraine-neon-gas-production",
+    "file": null,
+    "page": null,
+    "xref": 564,
+    "bbox": {
+      "l": 104.31,
+      "t": 152.5,
+      "r": 269.19,
+      "b": 162.98
+    }
+  },
+  {
+    "page_no": 42,
+    "kind": 2,
+    "uri": "https://arxiv.org/abs/2305.04865",
+    "file": null,
+    "page": null,
+    "xref": 565,
+    "bbox": {
+      "l": 238.14,
+      "t": 272.17,
+      "r": 431.41,
+      "b": 282.9
+    }
+  },
+  {
+    "page_no": 42,
+    "kind": 2,
+    "uri": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281616",
+    "file": null,
+    "page": null,
+    "xref": 566,
+    "bbox": {
+      "l": 212.96,
+      "t": 427.58,
+      "r": 501.87,
+      "b": 438.32
+    }
+  },
+  {
+    "page_no": 42,
+    "kind": 2,
+    "uri": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281616",
+    "file": null,
+    "page": null,
+    "xref": 567,
+    "bbox": {
+      "l": 104.31,
+      "t": 439.74,
+      "r": 255.74,
+      "b": 449.9
+    }
+  },
+  {
+    "page_no": 43,
+    "kind": 2,
+    "uri": "https://www.britannica.com/event/2022-Russian-invasion-of-Ukraine",
+    "file": null,
+    "page": null,
+    "xref": 570,
+    "bbox": {
+      "l": 338.48,
+      "t": 601.98,
+      "r": 501.87,
+      "b": 613.93
+    }
+  },
+  {
+    "page_no": 43,
+    "kind": 2,
+    "uri": "https://www.britannica.com/event/2022-Russian-invasion-of-Ukraine",
+    "file": null,
+    "page": null,
+    "xref": 571,
+    "bbox": {
+      "l": 93.4,
+      "t": 612.94,
+      "r": 324.54,
+      "b": 625.69
+    }
+  }
+]

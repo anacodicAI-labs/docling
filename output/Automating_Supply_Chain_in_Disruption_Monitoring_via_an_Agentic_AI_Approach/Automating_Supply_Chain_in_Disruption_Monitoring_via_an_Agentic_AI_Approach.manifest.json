@@ -1,0 +1,35 @@
+{
+  "source_pdf": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/input/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach.pdf",
+  "stem": "Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach",
+  "output_dir": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach",
+  "docling_json": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach.docling.json",
+  "artifacts_dir": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach_artifacts",
+  "links_json": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach.links.json",
+  "assets_dir": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach.assets",
+  "element_tree_txt": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach/Automating_Supply_Chain_in_Disruption_Monitoring_via_an_Agentic_AI_Approach.elements.txt",
+  "image_mode": "referenced",
+  "counts": {
+    "texts": 924,
+    "tables": 8,
+    "pictures": 19,
+    "pages": 51,
+    "hyperlinks": 264,
+    "tables_exported": 8,
+    "figures_exported": 19
+  },
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Automating Supply Chain Disruption Monitoring via an Agentic AI Approach",
+    "author": "Sara AlMahri; Liming Xu; Alexandra Brintrup",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:57610bf)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null,
+    "page_count": 51
+  },
+  "extracted_at": "2026-06-05T18:34:05.031263+00:00"
+}

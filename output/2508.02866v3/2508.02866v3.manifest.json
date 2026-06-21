@@ -1,0 +1,35 @@
+{
+  "source_pdf": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/input/2508.02866v3.pdf",
+  "stem": "2508.02866v3",
+  "output_dir": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/2508.02866v3",
+  "docling_json": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/2508.02866v3/2508.02866v3.docling.json",
+  "artifacts_dir": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/2508.02866v3/2508.02866v3_artifacts",
+  "links_json": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/2508.02866v3/2508.02866v3.links.json",
+  "assets_dir": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/2508.02866v3/2508.02866v3.assets",
+  "element_tree_txt": "/Users/rashandhillon/anacodicAI-labs/research/knowledge-in-a-box/docling/output/2508.02866v3/2508.02866v3.elements.txt",
+  "image_mode": "referenced",
+  "counts": {
+    "texts": 133,
+    "tables": 0,
+    "pictures": 4,
+    "pages": 7,
+    "hyperlinks": 52,
+    "tables_exported": 0,
+    "figures_exported": 4
+  },
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows",
+    "author": "Renan Souza; Amal Gueroudji; Stephen DeWitt; Daniel Rosendo; Tirthankar Ghosal; Robert Ross; Prasanna Balaprakash; Rafael Ferreira da Silva",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null,
+    "page_count": 7
+  },
+  "extracted_at": "2026-06-05T17:01:21.058387+00:00"
+}

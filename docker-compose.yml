@@ -1,0 +1,47 @@
+services:
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  api:
+    build: .
+    command: paper-extract-api
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: sqlite:////data/paper_extract.db
+      REDIS_URL: redis://redis:6379
+      STORAGE_ROOT: /data/storage
+      DEBUG: "false"
+    volumes:
+      - platform-data:/data
+      - hf-cache:/app/.cache/huggingface
+    depends_on:
+      redis:
+        condition: service_healthy
+
+  worker:
+    build: .
+    command: paper-extract-worker
+    environment:
+      DATABASE_URL: sqlite:////data/paper_extract.db
+      REDIS_URL: redis://redis:6379
+      STORAGE_ROOT: /data/storage
+    volumes:
+      - platform-data:/data
+      - hf-cache:/app/.cache/huggingface
+    depends_on:
+      redis:
+        condition: service_healthy
+      api:
+        condition: service_started
+
+volumes:
+  platform-data:
+  hf-cache:

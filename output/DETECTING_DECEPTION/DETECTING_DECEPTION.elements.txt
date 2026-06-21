@@ -1,0 +1,55 @@
+ 0: unspecified with name=_root_
+  1: caption: cdr
+  2: section_header: Detecting Deception
+  3: table
+  4: section_header: Key Ideas
+  5: text: Deception  is  the  deliberate  attempt  to  mislead  another  person  with  a communication that is
+  6: text: Deception is a ubiquitous behaviour, and most people engage in some form of deceptive  communication
+  7: text: The detection of deception (whether by humans or an automated system), is dependent on the premise t
+  8: section_header: 49 DETECTING DECEPTION
+  9: text: observable in some way (individual's need to be able to perceive them, with or without specialist eq
+  10: section_header: Key Findings and Approaches
+  11: text: Two widely-cited meta-analytic findings suggest that cues to deception tend to be unreliable and wea
+  12: text: There are four major approaches to detecting deception; observing non-verbal behaviour, measuring ph
+  13: section_header: Nonverbal Behaviour
+  14: text: An idea often propagated in the media is that people can spot when people are being deceptive by lea
+  15: section_header: Physiological Responses
+  16: text: Measuring physiological responses is typically associated with the polygraph (sometimes incorrectly 
+  17: text: Due to the importance of modern transit security, and the large-scale screening required,  several  
+  18: section_header: Neural Activity
+  19: text: Measuring neural activity to detect deception will be very briefly discussed as research is in its i
+  20: section_header: Analysing Verbal Accounts
+  21: text: The two most well-established approaches to analysing accounts of events to assess credibility are S
+  22: section_header: Eliciting Cues to Deception
+  23: text: More recently, several tools have been developed which take a more active approach by eliciting cues
+  24: text: Controlled  Cognitive  Engagement  (CCE)  (Ormerod and Dando, 2015) is an interview model that as ye
+  25: section_header: Summary
+  26: text: In  summary,  the  search  for  Pinocchio's  nose  is  unlikely  to  ever  be  wholly successful. Ra
+  27: text: CLEA WRIGHT
+  28: text: Relevant chapters : Expert Evidence; False Allegations and Wrongful Convictions; False Confessions; 
+  29: section_header: Readings
+  30: text: Al  Shouk,  A.  (2021,  January  25).  Dubai  Police  map  brainwaves  to  solve  murder mystery. Gu
+  31: list with name=list
+   32: list_item: Ambach, W. & Gamer, M. (2018). Physiological measures in the detection of deception and  concealed  
+   33: list_item: Bond, C.F, Levine, T.R. & Hartwig, M. (2015). New findings in non-verbal lie detection. In  P.A  Gra
+   34: list_item: DePaulo, B.M & Bond, C.F. (2012). 'Beyond accuracy: Bigger, broader ways to think about  deceit.' Jo
+   35: list_item: DePaulo, B.M, Kashy, D.A, Kirkendol, S.E, Wyer, M.M & Epstein, J.A (1996). 'Lying in everyday life'.
+   36: list_item: Frank,  M.G.  &  Svetieva,  E.  (2012).  'Lies  worth  catching  involve  both  emotion  and cogniti
+   37: list_item: Gamer,  M.  &  Pertzov,  Y  (2018).  Detecting  concealed  knowledge  from  ocular responses.  In  J
+   38: list_item: Ganis. G. (2018). Detecting deception and concealed information with neuroimaging. In  J.P.  Rosenfi
+   39: list_item: Granhag,  P.A.  (November  18-  19,  2010).  The  Strategic  Use  of  Evidence  (SUE) technique: A s
+   40: list_item: Hartwig, M. & Bond, C.F (2011). 'Why Do Lie-Catchers Fail? A Lens Model MetaAnalysis of Human Lie Ju
+   41: list_item: Johnson, MK and Raye, CL. 1981. Reality monitoring. Psychological Review, 88 , 6785.
+   42: list_item: Hartwig, M. & Bond, C.F (2014). 'Lie detection from multiple cues: a meta-analysis'. Applied Cogniti
+   43: list_item: Köhnken, G., & Steller, M. (1988). The evaluation of the credibility of child witness statements in 
+   44: list_item: Mac Giolla, E., Granhag, P.A. & Vrij, A. (2015). Discriminating between true and false intentions. I
+   45: list_item: Mac  Giolla,  E  &  Luke,  T.J.  (2021).  'Does  the  cognitive  approach  to  lie  detection improv
+   46: list_item: Nahari,  G.,  Vrij,  A.,  &  Fisher,  R.  P.  (2014a).  Exploiting  liars'  verbal  strategies  by e
+   47: list_item: Oberlader, V.A., Quinten, L., Banse, R., Volbert, R., Schmidt, A.F., Schönbrodt, F.D. (2021).  'Vali
+   48: list_item: Oleszkiewicz,  S.  &  Watson,  S.J.  (2021).  'A  meta-analytic  review  of  the  timing  for disclo
+   49: list_item: Ormerod, T.C. and Dando, C.J. (2015) 'Finding a needle in a haystack: Toward a psychologically infor
+   50: list_item: Rosenfield, J.P., Ward, A., Wasserman, J., Sitar, E., Davydova, E. & Labkovsky, E. (2018).  Effects 
+   51: list_item: Suchotzki, K. (2108). Challenges for the application of reaction time-based deception detection meth
+   52: list_item: Van Koppen, P.J. (2012). 'Deception detection in police interrogations: Closing in on the context of
+   53: list_item: Vrij, A. (2015). Verbal lie detection tools: Statement Validity Analysis, Reality Monitoring and Sci
+  54: text: Weinberger, S. (2010). 'Airport security: Intent to deceive?'. Nature, 465, 412-415

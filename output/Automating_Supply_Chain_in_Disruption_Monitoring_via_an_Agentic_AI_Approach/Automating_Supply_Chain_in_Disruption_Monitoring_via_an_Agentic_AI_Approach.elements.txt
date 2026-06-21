@@ -1,0 +1,972 @@
+ 0: unspecified with name=_root_
+  1: page_header: arXiv:2601.09680v1  [cs.AI]  14 Jan 2026
+  2: section_header: RESEARCH ARTICLE
+  3: section_header: Automating Supply Chain Disruption Monitoring via an Agentic AI Approach
+  4: text: Sara AlMahri a , Liming Xu a , and Alexandra Brintrup a,b
+  5: text: a Institute for Manufacturing, Department of Engineering, University of Cambridge,
+  6: text: Cambridge, UK
+  7: text: b The Alan Turing Institute, London, UK
+  8: section_header: ARTICLE HISTORY
+  9: text: Compiled January 15, 2026
+  10: section_header: ABSTRACT
+  11: text: Modern supply chains are increasingly exposed to disruptions from geopolitical events, demand shocks
+  12: section_header: KEYWORDS
+  13: text: Supply Chain Management; Supply Chain Disruption; Large Language Models; AI Agents; Multi-Agent Syst
+  14: section_header: 1. Introduction
+  15: text: Global supply chains have never been more vulnerable. In recent years, a series of major disruptions
+  16: page_footer: CONTACT Sara AlMahri. Email: sa2104@cam.ac.uk
+  17: text: Yet, a critical pattern emerges when examining these disruptions: many originate not from direct sup
+  18: text: The answer lies in the challenge of extended supply chain visibility. Mapping supplier relationships
+  19: text: Researchers have proposed complementary approaches, but each carries fundamental limitations. For in
+  20: page_footer: 2
+  21: text: Despite the diversity of these technologies, they share a common limitation: none provides extended 
+  22: text: This brings us to the core operational problem. Supply chain resilience, measured by time-to-survive
+  23: text: Today, supply chain managers attempt this process manually. They read news feeds, scan supplier emai
+  24: text: Agentic AI provides a theoretical foundation for building such an autonomous system. We define agent
+  25: text: For supply chain disruption monitoring, agentic AI is theoretically well-suited for three reasons. F
+  26: text: This paper introduces the first minimally supervised agentic framework for end-toend supply chain di
+  27: page_footer: 3
+  28: text: However, deploying LLM-powered agents in critical supply chain decision-making contexts requires add
+  29: text: We address these risks through three complementary mechanisms grounded in established AI safety para
+  30: text: Below, we summarize main contributions of this work are as follows:
+  31: list with name=list
+   32: list_item: We present the first minimally-supervised agentic, LLM-enabled framework for supply-chain disruption
+   33: list_item: We present a set of modular, task-specific prompts, designed using chain-ofthought reasoning to guid
+   34: list_item: We introduce the first comprehensive synthesized evaluation dataset for supply chain disruption moni
+  35: text: The remainder of the paper is structured as follows. Section 2 reviews existing literature on supply
+  36: page_footer: 4
+  37: section_header: 2. Related Work
+  38: text: This section reviews prior work across three research streams relevant to autonomous supply chain di
+  39: section_header: 2.1. Network-Based Risk Propagation Models
+  40: text: Network-based approaches model supply chains as graphs where nodes represent firms and edges represe
+  41: text: Building on these structural insights, researchers developed formal propagation models. Tabachov´ a 
+  42: text: A critical finding motivates our focus on extended networks: Berger et al. (2023) showed that over o
+  43: text: These network models provide rigorous quantitative frameworks for risk assessment. However, they sha
+  44: section_header: 2.2. Multi-Agent Systems for Supply Chain Coordination
+  45: text: Multi-Agent Systems (MAS) distribute decision-making across autonomous software agents that communic
+  46: page_footer: 5
+  47: text: Early MAS research focused on coordination and simulation. Swaminathan et al. (1998) represented sup
+  48: text: Subsequent research incorporated learning within MAS architectures. Brintrup (2010) demonstrated rol
+  49: text: Despite these advances, traditional MAS exhibit architectural constraints that limit their applicabi
+  50: section_header: 2.3. Large Language Model-Powered Supply Chain Systems
+  51: text: Large language models (LLMs) enable a fundamentally different approach: agents powered by neural lan
+  52: text: Recent work has applied LLM-powered agents to supply chain problems. SHIELD (Cheng et al. 2024) used
+  53: text: These systems demonstrate that LLM-powered agents can reason about supply chain problems and coordin
+  54: page_footer: 6
+  55: text: Additionally, deploying LLMs in operational contexts requires addressing welldocumented technical ri
+  56: section_header: 2.4. Research Gap and Positioning
+  57: text: Table 1 summarizes how each research stream addresses capabilities required for autonomous disruptio
+  58: table
+   59: caption: Table 1.: Existing Approaches vs. Requirements for Autonomous Disruption Monitoring
+  60: text: Network-based models provide rigorous propagation analysis and multi-tier visibility but require pre
+  61: text: No existing system performs the complete transformation required for proactive disruption management
+  62: text: Our framework addresses this gap by combining LLM-powered agents with deterministic graph tools and 
+  63: page_footer: 7
+  64: section_header: 3. Agentic Supply Chain Disruption Monitoring Framework
+  65: text: This section introduces the architecture of our agentic framework for monitoring supply chain disrup
+  66: section_header: 3.1. Framework Overview
+  67: picture
+   68: caption: Figure 1.: Overall stages, goals and data needed for autonomous disruption monitoring via an agentic
+   69: text: Event Detection & Data
+   70: text: Ingestion
+   71: text: Event Validation &
+   72: text: Prioritization
+   73: text: Continuously identify any new disruption signals
+   74: text: (news, alerts, internal feeds) and ingest them into a
+   75: text: unified data pipeline.
+   76: text: Stage
+   77: text: Goal
+   78: text: Impact Assessment &
+   79: text: Risk Analysis
+   80: text: Action Planning &
+   81: text: Response Execution
+   82: text: Filter out noise, score and prioritize truly relevant
+   83: text: disruptions
+   84: text: Map event through the extended supply network
+   85: text: and quantify risk exposure
+   86: text: Recommend and implement mitigation strategies,
+   87: text: with final human approval
+   88: text: Data
+   89: text: News APIs, RSS feeds,
+   90: text: alerts, internal logs, external
+   91: text: crawlers
+   92: text: Multi-tier supply network
+   93: text: graphs, supplier data, ERP
+   94: text: logs, etc…
+   95: text: Approved vendor lists,
+   96: text: external supplier directory,
+   97: text: product-specs
+   98: text: supplier locations
+   99: text: databases, company-
+   100: text: industry mappings, etc…
+   101: text: Agent
+   102: text: Event Monitoring
+   103: text: Agent
+   104: text: Supply Chain Risk
+   105: text: Agent
+   106: text: Response Strategy
+   107: text: Agent
+   108: text: Relevance Filtering
+   109: text: Agent
+   110: text: 1
+   111: text: 2
+   112: text: 3
+   113: text: 4
+   114: text: Human-in-loop
+  115: text: To build an autonomous disruption monitoring framework, we require four key stages, as illustrated i
+  116: page_footer: 8
+  117: text: In our system, an agent is represented as a language model-based autonomous unit designed to perform
+  118: text: As shown in Figure 2, each agent is structured around four core components: (a) tools , which allow 
+  119: picture
+   120: caption: Figure 2.: Modular architecture of an autonomous agent. Each agent is composed of four key component
+   121: text: Agent
+   122: text: Planning
+   123: text: Memory
+   124: text: Tools
+   125: text: Action
+   126: text: Reflection
+   127: text: Self-critics
+   128: text: Chain-of-Thoughts
+   129: text: Subgoal decomposition
+   130: text: Short-Term Memory
+   131: text: Long-Term Memory
+   132: text: Calculator()
+   133: text: Callender()
+   134: text: WebSearch())
+   135: text: CustomTool()
+  136: text: To implement these four stages, we deploy seven specialised agents that collectively execute the sta
+  137: footnote: 1 JSON (JavaScript Object Notation) is a lightweight data interchange format that uses human-readabl
+  138: page_footer: 9
+  139: text: The architecture presented here is one possible configuration for implementing the four-stage disrup
+  140: picture
+   141: caption: Figure 3.: Proposed framework for autonomous agentic disruption monitoring. The framework consists o
+   142: text: News
+   143: text: Ingestion
+   144: text: via API
+   145: text: Disruption
+   146: text: News Articles
+   147: text: Disrupted
+   148: text: SCN
+   149: text: Risk Questions
+   150: text: Disruption
+   151: text: Information
+   152: text: o1
+   153: text: Disrupted
+   154: text: Supply
+   155: text: Network
+   156: text: o2
+   157: text: 1
+   158: text: Disruption
+   159: text: Monitoring Agent
+   160: text: 1
+   161: text: 1
+   162: text: Knowledge Graph
+   163: text: Query Agent
+   164: text: 2
+   165: text: 1
+   166: text: Product Search
+   167: text: Agent
+   168: text: 3
+   169: text: Web
+   170: text: Search
+   171: text: Private
+   172: text: Databases
+   173: text: Knowledge
+   174: text: Graph
+   175: text: Products
+   176: text: List of
+   177: text: Disrupted
+   178: text: Products
+   179: text: o3
+   180: text: Cypher
+   181: text: Query
+   182: text: Search
+   183: text: Query
+   184: text: Graph
+   185: text: Visualization
+   186: text: of Disruption
+   187: text: o4
+   188: text: 1
+   189: text: Risk Assessment
+   190: text: Agent
+   191: text: 5
+   192: text: Human
+   193: text: in Loop
+   194: text: 1
+   195: text: Network
+   196: text: Visualizer
+   197: text: 4
+   198: text: List of Companies in
+   199: text: Disruptions
+   200: text: 1
+   201: text: Chief Supply
+   202: text: Chain Agent
+   203: text: 6
+   204: text: Risk Scores
+   205: text: o5
+   206: text: Private
+   207: text: Databases
+   208: text: Knowledge
+   209: text: Graph
+   210: text: Metrics
+   211: text: Query
+   212: text: Parameters
+   213: text: Requested
+   214: text: Full Risk
+   215: text: Report &
+   216: text: Decisions
+   217: text: o6
+   218: text: Human
+   219: text: in Loop
+   220: text: Final Check
+   221: text: 1
+   222: text: Alternative
+   223: text: Sourcing Agent
+   224: text: 7
+   225: text: Alternative
+   226: text: Suppliers?
+   227: text: Yes
+   228: text: No
+   229: text: End
+   230: text: of
+   231: text: Loop
+   232: text: Checks for extended
+   233: text: supply chain disruptions
+   234: text: Monitors news articles for
+   235: text: relevant disruption events
+   236: text: Searches for products in risk
+   237: text: supplied by  companies in
+   238: text: disruptions
+   239: text: Plots a graph visualization
+   240: text: of the disruption
+   241: text: Generates a comprehensive risk
+   242: text: report and recommends
+   243: text: mitigation strategies
+   244: text: Searches the web for
+   245: text: alternative suppliers
+   246: text: Web
+   247: text: Search
+   248: text: Search
+   249: text: Query
+   250: text: Alternative
+   251: text: Companies
+   252: text: List of
+   253: text: Alternative
+   254: text: Suppliers
+   255: text: o7
+   256: text: Human
+   257: text: in Loop
+   258: text: Final Check
+   259: text: Assess and calculates risk
+   260: text: scores for companies
+  261: page_footer: 10
+  262: section_header: 3.2. Agent Decomposition: Roles, Tasks & Tools
+  263: text: In this section, we decompose and discuss the role, tasks, and tools for each of the seven agents us
+  264: text: Before deploying this framework, organisations must have access to an extended supply chain network 
+  265: table
+   266: caption: Table 2.: Overview of agent responsibilities and data interfaces in the disruption monitoring pipeli
+   267: footnote: 2 https://www.bloomberg.com/professional/solutions/corporations/supply-chain/
+   268: footnote: 3 https://www.factset.com
+   269: footnote: 4 https://panjiva.com/
+  270: page_footer: 11
+  271: table
+   272: caption: Table 3.: Catalogue of tools used across agents in the disruption monitoring framework.
+  273: picture
+   274: caption: Figure 4.: Agent 1: Disruption Monitoring Agent - Input, output, tools and prompt
+   275: text: Disruption
+   276: text: Monitoring Agent
+   277: text: 1
+   278: text: News
+   279: text: Articles
+   280: text: Input
+   281: text: p1
+   282: text: Prompt
+   283: text: ScrapeWebsite()
+   284: text: Tools
+   285: text: o1
+   286: text: Disruption
+   287: text: Information
+   288: text: Output
+   289: text: •
+   290: text: Disruption Type
+   291: text: •
+   292: text: Companies Involved
+   293: text: •
+   294: text: Industries Involved
+   295: text: •
+   296: text: Counties Involved
+   297: text: •
+   298: text: Risk Exposure Question
+   299: text: Structured Output
+  300: section_header: 3.2.1. Disruption Monitoring Agent
+  301: text: The Disruption Monitoring Agent (Agent 1 in Figure 3) serves as the entry point of the disruption an
+  302: page_footer: 12
+  303: picture
+   304: caption: Figure 5.: Agent 2: Knowledge Graph Query Agent architecture, tools, inputs used and output structur
+   305: text: Knowledge Graph
+   306: text: Query Agent
+   307: text: 2
+   308: text: o2
+   309: text: Disrupted
+   310: text: Network
+   311: text: Input
+   312: text: Output
+   313: text: p2
+   314: text: Prompt
+   315: text: Resolve_entity_struct
+   316: text: Tools
+   317: text: o1
+   318: text: Disruption
+   319: text: Information
+   320: text: Risk Exposure
+   321: text: Check Question
+   322: text: Company_list_struct
+   323: text: Calculate_tier_struct
+   324: text: Supply_chain_bfs_struct
+   325: text: Knowledge
+   326: text: Graph
+   327: text: Checks for
+   328: text: companies in risk
+   329: text: Extended network of companies
+   330: text: affected by the disruption
+   331: text: identified
+  332: section_header: 3.2.2. Knowledge Graph Query Agent
+  333: text: The Knowledge Graph Query Agent (Agent 2 in Figure 3) translates structured diagnostic questions fro
+  334: footnote: 5 Neo4j is a graph database management system that stores data as nodes and relationships, enabling 
+  335: footnote: 6 Cypher is a declarative graph query language used by Neo4j to traverse and query graph databases e
+  336: page_footer: 13
+  337: picture
+   338: caption: Figure 6.: Agent 3: Product Search Agent architecture, tools, inputs and outputs structure
+   339: text: Product Search
+   340: text: Agent
+   341: text: 3
+   342: text: Output
+   343: text: p3
+   344: text: Prompt
+   345: text: SerperDevTool
+   346: text: Tools
+   347: text: Searches web for
+   348: text: company products
+   349: text: o2
+   350: text: Disrupted
+   351: text: Network
+   352: text: Input
+   353: text: Web
+   354: text: Search
+   355: text: o3
+   356: text: Disrupted
+   357: text: Products
+   358: text: Companies in
+   359: text: Disruption
+  360: section_header: 3.2.3. Product Search Agent
+  361: text: The Product Search Agent (Agent 3 in Figure 3) enriches supplier chains with productlevel informatio
+  362: section_header: 3.2.4. Network Visualizer Agent
+  363: text: The Network Visualizer Agent (Agent 4 in Figure 3) translates the annotated supply chain graph into 
+  364: page_footer: 14
+  365: section_header: 3.2.5. Risk Manager Agent
+  366: text: The Risk Manager Agent (Agent 5 in Figure 3) quantifies risk exposure for Tier-1 suppliers by aggreg
+  367: section_header: 3.2.6. Chief Supply Chain Officer (CSCO) Agent
+  368: text: The CSCO Agent (Agent 6 in Figure 3) functions as the central decision-making unit, synthesizing all
+  369: section_header: 3.2.7. Alternative Sourcing Agent
+  370: text: The Alternative Sourcing Agent (Agent 7 in Figure 3) operates as the system's procurement specialist
+  371: page_footer: 15
+  372: section_header: 3.3. Prompt Engineering Design Principles
+  373: text: Each agent in the agentic system is guided by a carefully designed prompt that defines its role, con
+  374: text: We employ few-shot prompting, providing illustrative examples of inputs paired with structured outpu
+  375: text: In our system, each agent's prompt concludes with a template defining the output structure (see Appe
+  376: section_header: 3.4. Agent Communication and Execution Flow
+  377: text: Agents exchange information in a structured, serialized form to avoid ambiguity and facilitate parsi
+  378: text: The execution model is modular and sequential. Each agent operates as a distinct module in a directe
+  379: page_footer: 16
+  380: text: This modular chain-of-command aligns with established agentic design: separating concerns into speci
+  381: section_header: 3.5. System Configuration and Modularity Considerations
+  382: text: This framework is designed as a flexible template for implementing supply chain monitoring with LLM-
+  383: text: The knowledge graph used for querying is assumed to exist beforehand. In our case, it is implemented
+  384: text: News articles used for disruption monitoring may come from any reliable data source. Users set up th
+  385: text: Product lookup and supplier search functions depend on external tools. We use the Serper.dev API to 
+  386: text: Prompt templates for each agent are modular and can be adjusted for different industries, data forma
+  387: text: To help users judge reliability, adding a per-agent confidence score that reflects the agent's certa
+  388: text: Overall, the system is adaptable. Users can integrate their own data, tools, and models, provided th
+  389: page_footer: 17
+  390: section_header: 4. Experimental Evaluation
+  391: section_header: 4.1. Experimental Design and Methodology
+  392: text: This section presents an experimental evaluation of our agentic supply chain disruption monitoring f
+  393: section_header: 4.2. Dataset and Evaluation Methodology
+  394: section_header: 4.2.1. Knowledge Graph Dataset
+  395: text: Our evaluation uses a real-world supply chain network stored in a Neo4j knowledge graph. The network
+  396: text: For this evaluation, we focus on three major automotive manufacturers whose supply chains are embedd
+  397: table
+   398: caption: Table 4.: Supply Chain Network Characteristics for Monitored Companies
+  399: page_footer: 18
+  400: section_header: 4.2.2. Scenario Synthesis
+  401: text: Due to the lack of publicly available supply chain disruption datasets with extended disrupted netwo
+  402: text: We synthesized 30 evaluation scenarios (10 per company) covering five distinct disruption types: eco
+  403: text: Furthermore, the scenarios synthesized target different network tiers. This enables a targeted asses
+  404: section_header: 4.2.3. Ground Truth Dataset Generation
+  405: text: Domain experts manually performed all tasks that the agents are designed to execute, generating a co
+  406: text: For the Disruption Monitoring Agent, experts manually extracted the disruption type, affected countr
+  407: page_footer: 19
+  408: section_header: 4.2.4. Evaluation Metrics
+  409: text: We employ standard information retrieval metrics to evaluate agent performance, following establishe
+  410: formula: 
+  411: formula: 
+  412: formula: 
+  413: text: where TP, FP, and FN denote true positives, false positives, and false negatives, respectively. Macr
+  414: text: For the Disruption Monitoring Agent, we evaluate entity extraction across countries, industries, and
+  415: text: For the Knowledge Graph Query Agent, we evaluate the framework's ability to identify disrupted suppl
+  416: page_footer: 20
+  417: text: For the Risk Manager Agent, we evaluate supplier identification and risk score accuracy for the top 
+  418: text: For the CSCO Agent, we employ both quantitative and qualitative evaluation. The quantitative evaluat
+  419: section_header: 4.3. Results and Discussion
+  420: text: Table 5 presents the overall performance metrics aggregated across all evaluation scenarios using ma
+  421: table
+   422: caption: Table 5.: Overall Performance Metrics (Mean ± Std) Tested over 30 Scenarios
+  423: text: The evaluation results demonstrate strong performance across all agents, with several agents achievi
+  424: text: The agentic behaviour in this framework manifests through autonomous tool selection, parameter extra
+  425: page_footer: 21
+  426: section_header: 4.3.1. Disruption Monitoring Agent: Foundation for Agentic Pipeline
+  427: text: The Disruption Monitoring Agent achieves an F1 score of 0 . 991 ± 0 . 028 with precision of 0 . 983 
+  428: text: The agent's high performance reflects several design choices. First, strict JSON output specificatio
+  429: text: This performance level means that the framework can reliably identify disruption events affecting sp
+  430: section_header: 4.3.2. Knowledge Graph Query Agent: Multi-Tier Network Traversal
+  431: text: The Knowledge Graph Query Agent achieves an average F1 score of 0 . 980 ± 0 . 110 with precision of 
+  432: text: The high recall (0 . 975 ± 0 . 137) indicates that the agent successfully identifies the vast majori
+  433: page_footer: 22
+  434: section_header: 4.3.3. Risk Manager Agent: Tier-1 Risk Quantification
+  435: text: The Risk Manager Agent achieves an averaged precision of 1 . 000 ± 0 . 000, recall of 0 . 962 ± 0 . 
+  436: text: The recall of 0 . 962 ± 0 . 196 indicates that the agent successfully identifies 96% of the top 10 r
+  437: section_header: 4.3.4. CSCO Agent: Strategic Decision-Making
+  438: text: The CSCO Agent achieves a precision of 0 . 950 ± 0 . 201, recall of 0 . 893 ± 0 . 288, and F1 score 
+  439: text: In the section below, we conduct a further qualitative evaluation of the CSCO agent to assess comple
+  440: section_header: 4.3.5. Qualitative Evaluation of CSCO Agent
+  441: text: In addition to quantitative metrics, we evaluate the CSCO Agent's qualitative analysis sections usin
+  442: page_footer: 23
+  443: page_header: as specified in Table 6.
+  444: table
+   445: caption: Table 6.: Qualitative Evaluation Rubric for CSCO Agent
+  446: text: Table 7 presents the qualitative evaluation results aggregated across all scenarios. The CSCO Agent 
+  447: table
+   448: caption: Table 7.: Qualitative Evaluation Results for CSCO Agent (Mean ± Std)
+  449: text: The qualitative evaluation demonstrates that the CSCO Agent provides executivelevel communication qu
+  450: page_footer: 24
+  451: section_header: 4.3.6. Error Propagation and Framework Robustness
+  452: text: Analysis of performance across the agentic pipeline reveals important insights into error propagatio
+  453: text: However, when the Disruption Monitoring Agent succeeds, downstream agents generally achieve high per
+  454: section_header: 4.3.7. System Runtime and Computational Requirements
+  455: text: To assess the practical feasibility of the proposed framework, we evaluate its runtime performance a
+  456: text: Table 8 presents execution time and cost statistics aggregated across all 30 scenarios. The system w
+  457: page_footer: 25
+  458: table
+   459: caption: Table 8.: System Runtime and Cost Metrics Across 30 Evaluation Scenarios
+  460: text: In comparison, most human-led supply chain teams typically take five days on average to respond to d
+  461: text: The framework utilizes OpenAI's GPT-4o model for all natural language processing and reasoning tasks
+  462: text: Web Search Integration To identify potential alternative suppliers and verify product availability, 
+  463: text: Scalability The modular design supports parallel execution, but we have not yet stress-tested the sy
+  464: page_footer: 26
+  465: section_header: 4.4. Limitations and Future Research Directions
+  466: text: While the framework demonstrates high performance across 30 evaluation scenarios, several limitation
+  467: text: Future research will focus on six critical areas: (1) integration with live news APIs and real-time 
+  468: text: In the following Section 5, we present a full walkthrough of each agent's outputs using a real-world
+  469: section_header: 5. Case Study: Russia-Ukraine War
+  470: text: This section presents a walkthrough of a real-world disruption scenario to illustrate the framework'
+  471: text: In this case study, we simulate a realistic operational pipeline in which a single news article is m
+  472: page_footer: 27
+  473: picture
+   474: caption: Figure 7.: A snapshot of the knowledge graph showing Mercedes-Benz Group AG's multi-tier supplier an
+  475: text: To evaluate the accuracy of each agent, all outputs were manually reviewed to ensure alignment with 
+  476: section_header: 5.1. Disruption Monitoring Agent
+  477: text: The Disruption Monitoring Agent processes a news article covering the 2022 RussiaUkraine War and gen
+  478: page_footer: 28
+  479: picture
+   480: text: Disruption
+   481: text: Monitoring Agent
+   482: text: 1
+   483: text: o1
+   484: text: Disruption
+   485: text: Information
+  486: picture
+   487: caption: Figure 8.: Full JSON output of the Disruption Monitoring Agent. The agent correctly classifies the g
+   488: text: Disruption
+   489: text: Summary
+   490: text: The article discusses the ongoing Russia-Ukraine War, beginning with Russia's invasion and
+   491: text: annexation of Crimea in 2014 and escalating to a full-scale invasion in 2022. The war has led
+   492: text: to  significant  casualties,  displacement,  and  geopolitical  changes.  The  disruption  type  is
+   493: text: "Geopolitical,"  involving  countries  such  as  Russia  and  Ukraine,  and  affecting  global
+   494: text: industries, particularly in energy, agriculture, and defense sectors.
+   495: text: Expert  Thought  1:
+   496: text: The  conflict  has  caused  supply  chain  disruptions  primarily  due  to
+   497: text: widespread sanctions on Russia, affecting raw materials like palladium and neon gas, critical
+   498: text: for  semiconductor  manufacturing.  This  could  impact  Mercedes  due  to  its  reliance  on  such
+   499: text: components for automotive production.
+   500: text: Expert Thought 2:
+   501: text: Sanctions have disrupted energy supplies, specifically natural gas, which
+   502: text: could  lead  to  increased  costs  for  manufacturing  and  logistics  for  automotive  companies,
+   503: text: including Mercedes, impacting production schedules and operating costs.
+   504: text: Expert  Thought  3:
+   505: text: A  multi-tier  supply  chain  analysis  is  needed  to  assess  which  suppliers
+   506: text: might  be  impacted  due  to  their  operations  in  Eastern  Europe,  as  logistic  routes  through
+   507: text: Ukraine and Russia might be affected.
+   508: text: Action Thought 1:
+   509: text: I will begin by investigating which of Mercedes' Tier-1 suppliers are based
+   510: text: in Russia or Ukraine.
+   511: text: Action Thought 2:
+   512: text: If any Tier-1 dependencies are located there, I'll extend my analysis to
+   513: text: check their Tier-2 and Tier-3 suppliers in affected regions.
+   514: text: Action Thought 3:
+   515: text: If no direct Tier-1 dependency is found, I will examine Tier-2 and Tier-3
+   516: text: supplier locations to understand potential indirect impacts on Mercedes.
+   517: text: ```
+   518: text: Disruption Analysis:
+   519: text: ```json
+   520: text: {
+   521: text: "disruption_type": "Geopolitical",
+   522: text: "event": "Russia-Ukraine War",
+   523: text: "affected_regions": ["Russia", "Ukraine"],
+   524: text: "impacted_industries": ["Automotive", "Energy", "Agriculture"],
+   525: text: "summary": "The Russia-Ukraine War has caused widespread geopolitical disruptions across
+   526: text: global supply chains. Key sectors such as energy, agriculture, and automotive have been
+   527: text: particularly affected due to dependencies on critical raw materials. For companies like
+   528: text: Mercedes, this includes high exposure to palladium and neon gas-both vital for manufacturing
+   529: text: and at risk due to sourcing constraints. Immediate risk evaluation and supplier
+   530: text: reconfiguration are needed to mitigate production delays and rising operational costs.",
+   531: text: "questions": {
+   532: text: "1st_question": "Which of Mercedes's Tier-1 suppliers are based in Russia or Ukraine?"
+   533: text: }
+   534: text: ```
+   535: text: Output for
+   536: text: Downstream Agent
+   537: text: Expert Thought
+   538: text: Process
+   539: text: Follow-up
+   540: text: Reasoning
+  541: section_header: 5.2. Knowledge Graph Query Agent
+  542: text: The Knowledge Graph Query Agent receives the structured disruption entities and identifies all affec
+  543: text: The framework completes this analysis in minutes, automatically traversing the knowledge graph to id
+  544: page_footer: 29
+  545: picture
+   546: text: Knowledge Graph
+   547: text: Query Agent
+   548: text: 2
+   549: text: o2
+   550: text: Disrupted
+   551: text: Supply
+   552: text: Network
+  553: picture
+   554: caption: Figure 9.: Partial JSON output of the Knowledge Graph Query Agent. The agent resolves Mercedes-Benz'
+   555: code: { "tier_1": [ [ {No Tier-1 Suppliers Located in Russia or Ukraine} ] ], "tier_2": [ [ {"company": "M
+  556: section_header: 5.3. Product Search Agent
+  557: text: The Product Search Agent enriches the disrupted supplier chains with product-level information, as s
+  558: text: This product-level traceability transforms generic supplier risk into actionable material-specific i
+  559: page_footer: 30
+  560: picture
+   561: text: Product Search
+   562: text: Agent
+   563: text: 3
+   564: text: o3
+   565: text: List of
+   566: text: Disrupted
+   567: text: Products
+  568: picture
+   569: caption: Figure 10.: Full JSON output of the Product Traceability Agent. Each disrupted supplier chain is aug
+   570: code: { "tier_1": [ [ {No Tier-1 Suppliers Located in Russia or Ukraine} ] ], "tier_2": [ [ {"company": "M
+  571: page_footer: 31
+  572: picture
+   573: caption: Figure 11.: Annotated supply chain subnetwork produced by the Product Search Agent. The figure illus
+   574: text: Mercedes
+   575: text: Benz AG
+   576: text: Vehicles
+   577: text: Produces
+   578: text: Germany
+   579: text: Located In
+   580: text: Johnson
+   581: text: Matthey
+   582: text: UK
+   583: text: Produces
+   584: text: Located In
+   585: text: Palladium
+   586: text: Produces
+   587: text: Supplies To
+   588: text: Product
+   589: text: OEM
+   590: text: Country
+   591: text: Geopolitical
+   592: text: Disruption
+   593: text: Russia
+   594: text: Located In
+   595: text: MMC
+   596: text: Norilsk
+   597: text: Supplies To
+   598: text: Disruption
+   599: text: Propagation
+   600: text: Used In
+   601: text: Used In
+   602: text: Catalysts
+  603: section_header: 5.4. Network Visualization Agent
+  604: text: The Network Visualization Agent generates an interactive network diagram (Figure 12) that visually r
+  605: text: Visual representations accelerate decision-making by enabling executives and supply chain managers t
+  606: page_footer: 32
+  607: picture
+   608: caption: Figure 12.: Network Visualization Agent output. The disrupted supply network is plotted with colour-
+   609: text: Disrupted Network
+   610: text: Network
+   611: text: Visualizer Agent
+   612: text: 4
+   613: text: Graph
+   614: text: Visualization
+   615: text: of Disruption
+   616: text: o4
+   617: text: Companies Located in Russia
+   618: text: Chain of Disrupted Products
+  619: section_header: 5.5. Risk Manager Agent
+  620: text: The Risk Manager Agent calculates comprehensive risk scores for Tier-1 suppliers by aggregating expo
+  621: text: For Mercedes-Benz, identifying Johnson Matthey as the highest-risk supplier enables immediate alloca
+  622: page_footer: 33
+  623: picture
+   624: caption: Figure 13.: Partial JSON output of the Risk Assessment Agent. Each supplier is listed with its tier,
+   625: text: {
+   626: text: "risk_assessment": [
+   627: text: {
+   628: text: "company": "Johnson Matthey PLC",
+   629: text: "tier": 1,
+   630: text: "degree_centrality": 0.32,
+   631: text: "risk_score": 0.52
+   632: text: },
+   633: text: {
+   634: text: "company": "MMC Norilsk Nickel PJSC",
+   635: text: "tier": 2,
+   636: text: "degree_centrality": 0.27,
+   637: text: "risk_score": 0.34
+   638: text: },
+   639: text: {
+   640: text: "company": "Siemens AG",
+   641: text: "tier": 1,
+   642: text: "degree_centrality": 0.28,
+   643: text: "risk_score": 0.50
+   644: text: },
+   645: text: .
+   646: text: .
+   647: text: .
+   648: text: .
+   649: text: .
+   650: text: .
+   651: text: .
+   652: text: .
+   653: text: ]
+   654: text: }
+   655: text: High Risk
+   656: text: High Risk
+   657: text: Risk Management
+   658: text: Agent
+   659: text: 5
+   660: text: o5
+   661: text: Risk Scores
+  662: section_header: 5.5.1. CSCO Agent
+  663: text: The CSCO Agent synthesizes all upstream analytics into an executive-level action plan (Figure 14), r
+  664: text: This automated synthesis addresses a critical bottleneck in disruption response: translating analyti
+  665: page_footer: 34
+  666: text: 6
+  667: picture
+   668: text: Chief Supply Chain Agent
+   669: text: Action Plan Document: First-Tier Supplier Risk Mitigation for Mercedes-Benz Group AG
+   670: text: Executive Summary:
+   671: text: The  Russia-Ukraine  War  has  led  to  widespread  sanctions  on  Russian  exporters,  immediately
+   672: text: disrupting the flow of critical raw materials-most notably palladium and neon gas-upon which
+   673: text: Mercedes-Benz relies. Our automated risk analysis traced these effects through the multi-tier
+   674: text: network:  Tier-2  supplier  MMC  Norilsk  Nickel  PJSC  (Russia)  provides  palladium  to  Johnson
+   675: text: Matthey PLC (Tier 1), which in turn supplies precious-metal catalysts essential for catalytic
+   676: text: converters in Mercedes-Benz vehicles. Simultaneously, Siemens AG (Tier 1) delivers automation
+   677: text: systems for production lines. The composite risk scores (Johnson Matthey PLC: 0.52; Siemens
+   678: text: AG: 0.50) reflect both strong network connectivity and immediate proximity to Mercedes-Benz's
+   679: text: manufacturing  operations.  Below  the  action  threshold,  MMC  Norilsk  Nickel  PJSC  (risk  0.34)
+   680: text: remains on watch. This action plan outlines targeted mitigation steps-dual sourcing, flexible
+   681: text: contracting, and financial risk transfer-to secure uninterrupted delivery of catalysts and
+   682: text: automation components, preserving production continuity and safeguarding revenue.
+   683: text: 1. Identification of High-Risk Suppliers:
+   684: text: - Johnson Matthey PLC (Tier 1): degree_centrality = 0.32, risk_score = 0.52
+   685: text: - Siemens AG (Tier 1): degree_centrality = 0.28, risk_score = 0.50
+   686: text: Note: MMC Norilsk Nickel PJSC (Tier 2) - risk_score = 0.34 - remains below the immediate
+   687: text: action threshold but is monitored continuously.
+   688: text: 2. Justification for Action:
+   689: text: Both Johnson Matthey PLC and Siemens AG occupy central positions in the supply network and
+   690: text: deliver components that feed directly into Mercedes-Benz's assembly lines. A stoppage in
+   691: text: catalyst supply-owing to palladium shortages from MMC Norilsk Nickel-or in automation systems
+   692: text: would halt vehicle production within days, leaving little time for reactive sourcing.
+   693: text: 3. Specific Actions:
+   694: text: A. Johnson Matthey PLC
+   695: text: - Task 1: Dual-Source Catalysts
+   696: text: Action: Qualify at least two additional suppliers of precious-metal catalysts (e.g.
+   697: text: Umicore, Heraeus).
+   698: text: Justification: Mitigates single-point failure in catalytic converter inputs.
+   699: text: - Task 2: Flexible Contracting
+   700: text: Action: Incorporate volume-adjustment clauses allowing rapid shifts among qualified
+   701: text: catalyst providers.
+   702: text: Justification: Preserves production rates under variable supply.
+   703: text: - Task 3: Financial Risk Transfer
+   704: text: Action: Expand business interruption insurance to cover precious-metals procurement delays.
+   705: text: Justification: Offsets potential revenue loss during extended outages.
+   706: text: Summary
+   707: text: Action Plan
+   708: text: Suppliers
+   709: text: In Risk
+   710: text: Chief Supply
+   711: text: Chain Agent
+   712: text: Full Risk
+   713: text: Report &
+   714: text: Decisions
+  715: text: o6
+  716: caption: Figure 14.: Partial action plan output of the Chief Supply Chain Agent for the Russia-Ukraine War sc
+  717: section_header: 5.5.2. Alternative Sourcing Agent
+  718: text: The Alternative Sourcing Agent identifies Umicore, a Belgium-based chemicals firm, as a viable alter
+  719: text: This automated alternative supplier identification addresses a time-intensive aspect of disruption r
+  720: page_footer: 35
+  721: picture
+   722: caption: Figure 15.: Alternative sourcing agent output
+   723: code: { "sourcing_results": { "replaced_supplier": "Johnson Matthey PLC", "product": "Catalytic Converters
+   724: text: Alternative
+   725: text: Sourcing Agent
+   726: text: 7
+   727: text: List of
+   728: text: Alternative
+   729: text: Suppliers
+   730: text: o7
+  731: section_header: 6. Industry Readiness and Deployment Considerations
+  732: text: This section addresses what industry must have in place to realise the value of automated supply cha
+  733: text: First, most organisations lack comprehensive multi-tier supply chain network data beyond Tier-1 supp
+  734: text: Second, current industry practice lacks temporal network infrastructure to track supply chain evolut
+  735: page_footer: 36
+  736: text: Third, real-time disruption detection requires integration with live news feeds and automated data i
+  737: text: Fourth, industry must establish governance frameworks balancing automation benefits with risk manage
+  738: text: Fifth, industries must address data quality and completeness challenges limiting framework effective
+  739: text: The framework's value proposition is compelling: transform disruption response from a fi ve-day reac
+  740: section_header: 7. Conclusions and Future Work
+  741: text: This paper introduces the first minimally supervised, agentic system designed to detect, analyse, an
+  742: page_footer: 37
+  743: text: The framework addresses the fundamental resilience problem: over one-third of disruptions originate 
+  744: text: Future research will focus on four critical areas: (1) integration with live news APIs and real-time
+  745: text: In conclusion, this work establishes a technical foundation for automated supply chain disruption mo
+  746: section_header: Disclosure statement
+  747: text: No conflict of interest was reported by the author(s).
+  748: page_footer: 38
+  749: section_header: References
+  750: list with name=list
+   751: list_item: Sara AlMahri, Liming Xu, and Alexandra Brintrup. Enhancing supply chain visibility with knowledge gr
+   752: list_item: Farhad Ameri and Christian McArthur. A multi-agent system for autonomous supply chain configuration.
+   753: list_item: Paul A Bartlett, Denyse M Julien, and Tim S Baines. Improving supply chain performance through impro
+   754: list_item: Niklas Berger, Stefan Schulze-Schwering, Elisa Long, and Stefan Spinler. Risk management of supply c
+   755: list_item: Mingjie Bi, Gongyu Chen, Dawn M. Tilbury, Siqian Shen, and Kira Barton. A model-based multi-agent fr
+   756: list_item: Mingjie Bi, Juan-Alberto Estrada-Garcia, Dawn M. Tilbury, Siqian Shen, and Kira Barton. Heterogeneou
+   757: list_item: Rishi Bommasani, Drew A. Hudson, Ehsan Adeli, Russ Altman, Simran Arora, Stefan von Arx, Samuel R. B
+   758: list_item: Alexandra Brintrup. Behaviour adaptation in the multi-agent, multi-objective and multi-role supply c
+   759: list_item: Alexandra Brintrup, Pascal Wichmann, Philip Woodall, Duncan McFarlane, Eric Nicks, and WKrechel. Pre
+   760: list_item: Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Ne
+   761: list_item: Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Ne
+   762: list_item: Lucian Busoniu, Robert Babuska, and Bart De Schutter. A comprehensive survey of multiagent reinforce
+   763: list_item: Christian Busse, Martin C Schleper, Jenny Weilenmann, and Stephan M Wagner. Extending the supply cha
+   764: list_item: Maria Caridi, Roberto Cigolini*, and D De Marco. Improving supply-chain collaboration by linking int
+   765: list_item: Junyi Chai and Eric WT Ngai. Decision-making techniques in supplier selection: Recent accomplishment
+   766: list_item: Zhi-Qi Cheng, Yifei Dong, Aike Shi, Wei Liu, Yuzhi Hu, Jason O'Connor, Alexander G Hauptmann, and Ka
+   767: list_item: Christopher W Craighead, Jennifer Blackhurst, M Johnny Rungtusanatham, and Robert B
+  768: page_footer: 39
+  769: list with name=list
+   770: list_item: Handfield. The severity of supply chain disruptions: design characteristics and mitigation capabilit
+   771: list_item: CrewAI. CrewAI: a Multi-Agent Platform, 2025. URL https://www.crewai.com .
+   772: list_item: Stefan D¨ ahling, Lukas Razik, and Antonello Monti. Enabling scalable and fault-tolerant multiagent 
+   773: list_item: Deloitte. How much disruption? deloitte global outsourcing survey 2020, 2020. URL https://www2.deloi
+   774: list_item: Pablo D Fajgelbaum and Amit K Khandelwal. The economic impacts of the us-china trade war. Annual Rev
+   775: list_item: Jacques Ferber and Gerhard Weiss. Multi-agent systems: an introduction to distributed artificial int
+   776: list_item: Jiahui Geng, Fengyu Cai, Yuxia Wang, Heinz Koeppl, Preslav Nakov, and Iryna Gurevych. A survey of co
+   777: list_item: Ghadimi, F. G. Toosi, and C. Heavey. A multi-agent systems approach for sustainable supplier selecti
+   778: list_item: Mihalis Giannakis and Michalis Louis. A multi-agent based framework for supply chain risk management
+   779: list_item: Kannan Govindan, Sivakumar Rajendran, Joseph Sarkis, and Parasurama Murugesan. Multi criteria decisi
+   780: list_item: William Ho, Xiaowei Xu, and Prasanta K Dey. Multi-criteria decision making approaches for supplier e
+   781: list_item: J.H. Holland. Escaping brittleness: The possibilities of general-purpose learning algorithms applied
+   782: list_item: Aaron Hurst, Adam Lerer, Adam P Goucher, Adam Perelman, Aditya Ramesh, Aidan Clark, AJ Ostrow, Akila
+   783: list_item: Dmitry Ivanov and Alexandre Dolgui. A digital supply chain twin for managing the disruption risks an
+   784: list_item: Dmitry Ivanov, Alexandre Dolgui, Boris Sokolov, and Marina Ivanova. Literature review on disruption 
+   785: list_item: Valeria Jannelli, Stefan Schoepf, Matthias Bickel, Torbjørn Netland, and Alexandra Brintrup. Agentic
+   786: list_item: Nick R Jennings. Commitments and conventions: The foundation of coordination in multiagent systems. 
+   787: list_item: Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Yejin Bang, Delong Ch
+   788: list_item: Jiao, X. You, and A. Kumar. An agent-based framework for collaborative negotiation in the global man
+   789: list_item: Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan Perez,
+  790: page_footer: 40
+  791: list with name=list
+   792: list_item: Nicholas Schiefer, Zac Hatfield-Dodds, Nova DasSarma, Eli Tran-Johnson, et al. Language models (most
+   793: list_item: Yusoon Kim, Yi-Su Chen, and Kevin Linderman. Supply network disruption and resilience: A network str
+   794: list_item: Kinaxis Inc. Supply chain orchestration: Leveraging end-to-end supply chain orchestration to deliver
+   795: list_item: Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, and Yusuke Iwasawa. Large language mo
+   796: list_item: McKinsey Global Institute Kweilin Ellingrud. Risk, resilience, and rebalancing in global value chain
+   797: list_item: H. Lee and C. O. Kim. Multi-agent systems applications in manufacturing systems and supply chain man
+   798: list_item: L.C. Lee, H.S. Nwana, D.T. Ndumu, and P. De Wilde. The stability, scalability and performance of mul
+   799: list_item: Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinr
+   800: list_item: Zhihong Li, Albaraa Ksibi, and Xiaoying Xu. Optimizing inventory management using a multi-agent llm 
+   801: list_item: Percy Liang, Rishi Bommasani, Hanlin Zha, et al. Holistic evaluation of language models. arXiv prepr
+   802: list_item: Ming Liu, Zhongzheng Liu, Feng Chu, Feifeng Zheng, and Chengbin Chu. A new robust dynamic bayesian n
+   803: list_item: Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, and Perc
+   804: list_item: Francesco Longo, Giovanni Mirabelli, Antonio Padovano, and Vittorio Solina. The digital supply chain
+   805: list_item: Ahmed Musa, Angappa Gunasekaran, and Yahaya Yusuf. Supply chain product visibility: Methods, systems
+   806: list_item: Neo4j. Neo4j: The Graph Database Platform, 2024. URL https://neo4j.com .
+   807: list_item: OpenAI. Pricing for gpt-4o api, 2024. https://platform.openai.com/docs/pricing .
+   808: list_item: Josh OpenAI, Achiam, Steven Adler, Sandhini Agarwal, Lama Ahmad, Ilge Akkaya, Florencia Leoni Aleman
+   809: list_item: Yinzhu Quan and Zefang Liu. Invagent: A large language model based multi-agent system for inventory 
+   810: list_item: Laria Reynolds and Kyle McDonell. Prompt programming for large language models: Beyond the few-shot 
+   811: list_item: Eugenia-Alina Roman, Armand-Serban Stere, Eugen Ro¸ sca, Adriana-Valentina Radu, Denis Codroiu, and 
+  812: page_footer: 41
+  813: list with name=list
+   814: list_item: Serper.dev. Serper.dev pricing, 2025. https://serper.dev/ .
+   815: list_item: Satyendra Kumar Sharma, Srikanta Routroy, and Udayan Chanda. Supply-side risk modelling using bayesi
+   816: list_item: Anton Shilov. Ukraine halts output of neon gas, chip production at risk. Tom's Hardware , March 2022
+   817: list_item: David Simchi-Levi, William Schmidt, and Yehua Wei. From superstorms to factory fires: Managing unpre
+   818: list_item: Weiting Sun and Wenzhu Liao. Risk propagation in emergency supply chain during public health events-
+   819: list_item: Jayashankar M Swaminathan, Stephen F Smith, and Norman M Sadeh. Modeling supply chain dynamics: A mu
+   820: list_item: Zlata Tabachov´ a, Christian Diem, Andr´ as Borsos, Csaba Burger, and Stefan Thurner. Estimating the
+   821: list_item: Katherine Tian, Eric Mitchell, Allan Zhou, Archit Sharma, Rafael Rafailov, Huaxiu Yao, Chelsea Finn,
+   822: list_item: Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Fei Xia, Ed Chi, Quoc V Le, Denny Zhou, et a
+   823: list_item: Michael Wooldridge. An introduction to multiagent systems . John wiley & sons, 2009.
+   824: list_item: Michael Wooldridge and Nicholas R Jennings. Intelligent agents: Theory and practice. The knowledge e
+   825: list_item: Xiaofeng Xie, Fengying Zhang, Li Liu, Yang Yang, and Xiuying Hu. Assessment of associated credit ris
+   826: list_item: Liming Xu, Stephen Mak, and Alexandra Brintrup. Will bots take over the supply chain? revisiting age
+   827: list_item: Liming Xu, Stephen Mak, Maria Minaricova, and Alexandra Brintrup. On implementing autonomous supply 
+   828: list_item: Sheng Yao, Andy Ye, Yuhui Li, Chunchuan Mao, Urvashi Khandelwal, and Mohammad Norouzi. Tree of thoug
+   829: list_item: J Diego Zamfirescu-Pereira, Richmond Y Wong, Bjoern Hartmann, and Qian Yang. Why johnny can't prompt
+   830: list_item: Ke Zhang, Fang He, Zhengchao Zhang, Xi Lin, and Meng Li. Multi-vehicle routing problems with soft ti
+  831: page_footer: 42
+  832: section_header: Appendix A.
+  833: section_header: Appendix A1. Article used in the case-study
+  834: picture
+  835: text: Figure A1.: Screenshot of article '2022 Russian Invasion of Ukraine,' which served as the input docu
+  836: page_footer: 43
+  837: section_header: Appendix A2. Prompt Used for Agent 1 - Disruption Monitoring Agent
+  838: section_header: Prompt for Agent 1: Disruption Monitoring Agent (part 1 of 2)
+  839: list with name=list
+   840: list_item: You are a top-tier expert in supply chain risk management , working in a company specialising in dis
+   841: list_item: You have extensive experience analyzing global events and mapping
+  842: text: disruptions to supply chains across tiers.
+  843: list with name=list
+   844: list_item: Your goal is to systematically analyse a news article, identify the supply chain disruption type, an
+   845: list_item: You must ask logical questions in sequence to the knowledge graph query agent. Use the output to for
+   846: list_item: impact analysis is completed.
+   847: list_item: Use structured reasoning at every step and generate output in a clear structured JSON format.
+  848: section_header: Instructions:
+  849: list with name=list
+   850: list_item: Carefully read the article and understand it from a supply chain risk management perspective.
+   851: list_item: Classify the disruption type: Geopolitical, Trade Policy, Natural Disaster, Company Bankruptcy, Othe
+   852: list_item: Generate at least 3 expert-level reasoning statements and 3 expert-level action planning thoughts.
+   853: list_item: Identify all impacted elements from the article: countries, industries, companies.
+   854: list_item: Formulate logical, structured supply chain questions the knowledge graph can answer. Do not use abst
+   855: list_item: If a region is disrupted, first query Tier-1 suppliers located in that
+  856: text: region.
+  857: list with name=list
+   858: list_item: If Tier-1 dependencies are found in that region, identify their Tier-2 and Tier-3 suppliers and whet
+   859: list_item: If no Tier-1 suppliers are found in the region, check Tier-2, then Tier-3, always linking them back 
+  860: caption: Figure A2.: Full prompt used for Agent 1: Disruption Monitoring Agent (part 1 of 2)
+  861: page_footer: 44
+  862: list with name=list
+   863: list_item: Prompt for Agent 1: Disruption Monitoring Agent (part 2 of 2) Example: Article: ''A severe earthquak
+  864: code: "1st question": "Which of {{company_name}}'s Tier-1 suppliers are based Japan?" }
+   865: caption: Figure A2.: Full prompt used for Agent 1: Disruption Monitoring Agent (part 2 of 2)
+  866: page_footer: 45
+  867: section_header: Appendix A3. Prompt Used for Agent 2 - Knowledge Graph Query Agent
+  868: section_header: Prompt for Agent 2: Knowledge Graph Query Agent
+  869: text: Agent Role: You are a top-tier expert in knowledge-graph querying, skilled at translating complex En
+  870: section_header: Graph Schema:
+  871: list with name=list
+   872: list_item: Company nodes and Country nodes
+   873: list_item: suppliesTo and locatedIn relationships
+   874: list_item: Every node has an industry property
+  875: section_header: Workflow Instructions:
+  876: list with name=list
+   877: list_item: Resolve {{ company name }} to its specific Company node via the Entity Resolver tool.
+   878: list_item: Identify the country or countries currently in disruption.
+   879: list_item: Use the full supply--chain BFS tool to map all suppliers of {{ company name }} down to Tier 4, filte
+   880: list_item: For each disrupted supplier at Tier 4, record its name, country, and industry, then query its immedi
+   881: list_item: Repeat for Tier 3, Tier 2, and Tier 1, always linking each node back to its upstream supplier, until
+   882: list_item: Extract every complete path from {{ company name }} → Tier 1 → Tier 2 → Tier 3 → Tier 4 for all disr
+   883: list_item: Every disrupted company must appear in a full, end-to-end chain; partial chains are unacceptable.
+  884: section_header: Query Implementation Rules:
+  885: list with name=list
+   886: list_item: Use your tools to map out supply chains up to maxLevel:4.
+   887: list_item: At each level, filter nodes by node.country ∈ (disrupted country(ies)).
+   888: list_item: Return each path as an ordered list from {{ company name }} to the disrupted supplier.
+   889: list_item: Chains must explicitly connect Tier 4 → Tier 3 → Tier 2 → Tier 1 → {{ company name }} .
+   890: list_item: Incomplete or truncated chains will be rejected.
+  891: caption: Figure A3.: Full prompt used for Agent 2: Knowledge Graph Query Agent
+  892: page_footer: 46
+  893: page_header: Appendix A4. Prompt Used for Agent 3 - Product Search Agent
+  894: code: Prompt for Agent 3: Product Search Agent Agent Role: You are a top-tier expert in product search and
+   895: caption: Figure A4.: Full prompt used for Agent 3: Product Search Agent
+  896: page_footer: 47
+  897: section_header: Appendix A5. Prompt Used for Agent 4 - Network Visualizer
+  898: section_header: Prompt for Agent 4: Network Visualizer
+  899: text: Agent Role: You are a top-tier expert in network visualization, skilled at leveraging NetworkX to co
+  900: text: Input: All companies and their tier assignments (Tier-4 through {{ company name }} ) from kg_results
+  901: section_header: Workflow Instructions:
+  902: list with name=list
+   903: list_item: Create a node for the focal company {{ company name }} , annotated with its country.
+   904: list_item: For each Tier-1 supplier in disruption:
+   905: list_item: Add a node labeled with its company name and country.
+   906: list_item: Draw an edge from the Tier-1 node to {{ company name }} , annotated with the product they supply.
+   907: list_item: Repeat for Tier-2 suppliers:
+   908: list_item: Add each Tier-2 node (company + country).
+   909: list_item: Connect it to its Tier-1 parent node via an edge labeled by the product supplied.
+   910: list_item: Repeat for Tier-3 suppliers, connecting each to its Tier-2 parent with the appropriate product label
+   911: list_item: Repeat for Tier-4 suppliers, connecting each to its Tier-3 parent with the appropriate product label
+   912: list_item: Ensure the full chain remains intact. No nodes or edges may be omitted or disconnected.
+   913: list_item: Use consistent styling (node colour/shape by tier, edge labels for products) and enable interactive 
+  914: text: Expected Output: An interactive HTML file rendering the complete product-chain disruption network, w
+  915: caption: Figure A5.: Full prompt used for Agent 4: Network Visualizer
+  916: page_footer: 48
+  917: page_header: Appendix A6. Prompt Used for Agent 5 - Risk Assessment Agent
+  918: section_header: Prompt for Agent 5: Risk Assessment Agent
+  919: text: Agent Role: You are a top-tier expert in supply chain risk quantification, adept at using graph metr
+  920: text: Input: kg_results containing all disrupted supply-chain paths for Tiers 1 through 4.
+  921: section_header: Workflow Instructions:
+  922: list with name=list
+   923: list_item: For each company in Tier-1, Tier-2, Tier-3, and Tier-4:
+   924: list_item: Compute the dependency ratio and degree centrality via graph metrics tool.
+   925: list_item: Calculate a risk score based on tier proximity and dependency exposure using disruption impact tool.
+   926: list_item: Identify all critical suppliers whose risk scores exceed the predefined threshold.
+   927: list_item: Assemble a machine-readable risk assessment payload aggregating tier-wise metrics and critical suppl
+  928: text: Expected Output: A complete JSON object with two top-level keys:
+  929: list with name=list
+   930: list_item: risk assessment: An object keyed by tier (tier 1...tier 4), each containing arrays of companies with
+   931: list_item: critical suppliers: A list of supplier entries (company name, tier, and risk metrics) for all who ex
+  932: caption: Figure A6.: Full prompt used for Agent 5: Risk Assessment Agent.
+  933: page_footer: 49
+  934: page_header: Appendix A7. Prompt Used for Agent 6 - Chief Supply Chain Agent
+  935: section_header: Prompt for Agent 6: Chief Supply Chain Agent
+  936: text: Agent Role: You are the Chief Supply Chain Officer at {{ company name }} , responsible for translati
+  937: text: Input: A comprehensive JSON risk report from the Risk Assessment Agent, detailing per-tier risk scor
+  938: section_header: Workflow Instructions:
+  939: list with name=list
+   940: list_item: Review the risk report and identify all Tier-1 suppliers whose risk scores exceed the critical thres
+   941: list_item: For each high-risk Tier-1 supplier:
+   942: list_item: Propose whether to replace or seek alternatives , citing specific Supplier Evaluation Criteria (e.g.
+   943: list_item: Define concrete tasks and deadlines (e.g. ''Issue RFP to three qualified alternatives by YYYY-MM-DD'
+   944: list_item: Provide a data-driven justification for each action, referencing the supplier's risk metrics and pot
+   945: list_item: Highlight key considerations (e.g. lead times, certification requirements, contract renegotiation).
+   946: list_item: Organise all recommendations into a structured action plan document with clear headings, task owners
+  947: text: Expected Output: A polished, professional action-plan document in JSON or Markdown format, containin
+  948: list with name=list
+   949: list_item: actions: An array of task objects, each with supplier, action (''replace'' or ''alternative''), just
+   950: list_item: summary: A high-level overview of the strategy, objectives, and metrics for success.
+  951: caption: Figure A7.: Full prompt used for Agent 6: Chief Supply Chain Agent.
+  952: page_footer: 50
+  953: page_header: Appendix A8. Prompt Used for Agent 7 - Alternative Sourcing Agent
+  954: section_header: Prompt for Agent 7: Alternative Sourcing Agent
+  955: text: Agent Role: You are a top-tier Sourcing Specialist, charged with executing the Chief Supply Chain Of
+  956: text: Input: A list of high-risk Tier-1 suppliers and the evaluation criteria defined by the Chief Supply 
+  957: section_header: Workflow Instructions:
+  958: list with name=list
+   959: list_item: For each supplier flagged for replacement:
+   960: list_item: Search for alternative suppliers meeting the required criteria (e.g., unaffected by the disruption, 
+   961: list_item: For each candidate alternative:
+   962: list_item: Query the knowledge graph to verify its extended supply-chain is free of disruption up to Tier-3.
+   963: list_item: Calculate an evaluation score based on risk exposure, geographic diversity, capacity, and industry f
+   964: list_item: Select all validated, risk-free alternatives and integrate them into the existing supply-chain map.
+   965: list_item: Ensure no chain is broken: every new supplier must connect back to the focal company via a full path
+  966: section_header: Expected Output: A JSON object containing:
+  967: list with name=list
+   968: list_item: alternatives: An array of supplier records, each with company, country, evaluation score, and valida
+   969: list_item: updated map: The revised supply-chain structure including newly integrated suppliers, preserving ful
+  970: caption: Figure A8.: Full prompt used for Agent 7: Alternative Sourcing Agent.
+  971: page_footer: 51
