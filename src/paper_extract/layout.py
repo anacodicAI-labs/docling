@@ -31,6 +31,8 @@ def paper_artifact_paths(output_dir: Path, stem: str) -> dict[str, Path]:
         "assets_dir": output_dir / f"{stem}.assets",
         "element_tree_txt": output_dir / f"{stem}.elements.txt",
         "manifest_json": output_dir / f"{stem}.manifest.json",
+        "markdown_md": output_dir / f"{stem}.md",
+        "chunks_jsonl": output_dir / f"{stem}.chunks.jsonl",
         "source_pdf": output_dir / f"{stem}.pdf",
     }
 

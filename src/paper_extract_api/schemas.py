@@ -10,13 +10,27 @@ from pydantic import BaseModel, Field
 
 class JobOptions(BaseModel):
     ocr: bool = False
+    ocr_engine: str = "auto"
+    ocr_full_page: bool = False
+    ocr_lang: list[str] = Field(default_factory=list)
     formulas: bool = False
+    code_enrichment: bool = False
+    picture_classification: bool = False
+    picture_description: bool = False
+    device: str = "auto"
+    threads: int | None = None
+    table_mode: str = "accurate"
+    output_format: str = "json"
     images_scale: float = 2.0
     write_element_tree: bool = True
     write_assets: bool = True
     write_links: bool = True
     layout: str = "folder"
     copy_source_pdf: bool = True
+    chunk: bool = False
+    chunk_tokenizer: str = "sentence-transformers/all-MiniLM-L6-v2"
+    chunk_max_tokens: int | None = None
+    chunk_overlap: int = 0
 
 
 class CreateJobRequest(BaseModel):

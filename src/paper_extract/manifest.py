@@ -22,6 +22,13 @@ class ExtractionManifest:
     image_mode: str
     counts: dict[str, int] = field(default_factory=dict)
     pdf_metadata: dict[str, Any] = field(default_factory=dict)
+    # Every pipeline knob used for this run (OCR engine/lang, device, enrichment
+    # flags, table mode, ...). Without this, two extraction runs can't be
+    # compared and a quality regression can't be attributed to a setting.
+    options: dict[str, Any] = field(default_factory=dict)
+    markdown_md: str | None = None
+    chunking: dict[str, Any] | None = None
+    conversion_seconds: float = 0.0
     extracted_at: str = field(
         default_factory=lambda: datetime.now(timezone.utc).isoformat()
     )
